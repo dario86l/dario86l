@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="|CA| CANADA" tvg-id="" tvg-name="", CA: EWTN
+#EXTINF:-1 tvg-logo="noimage.png" group-title="|CA| CANADA" tvg-id="" tvg-name="", CA: EWTN
 http://k6.koalatv.xyz:2052/311021746983/66137364/99585
 #EXTINF:-1 tvg-logo="noimage.png" group-title="|CA| CANADA" tvg-id="" tvg-name="", CA: A&E HD
 http://k6.koalatv.xyz:2052/311021746983/66137364/97972
