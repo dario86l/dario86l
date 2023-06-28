@@ -1,412 +1,167 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: 24 Kitchen
-http://kuchini.site:8080/F22230/6e9e8ce0/70822
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: AlJazeera Balkans
-http://kuchini.site:8080/F22230/6e9e8ce0/148151
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: AMC
-http://kuchini.site:8080/F22230/6e9e8ce0/65778
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: ANIMAL PLANET
-http://kuchini.site:8080/F22230/6e9e8ce0/4127
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 1
-http://kuchini.site:8080/F22230/6e9e8ce0/3601
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 2
-http://kuchini.site:8080/F22230/6e9e8ce0/3603
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 3
-http://kuchini.site:8080/F22230/6e9e8ce0/3605
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 4
-http://kuchini.site:8080/F22230/6e9e8ce0/3607
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 5
-http://kuchini.site:8080/F22230/6e9e8ce0/3608
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 6
-http://kuchini.site:8080/F22230/6e9e8ce0/10961
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Arena Sport 10
-http://kuchini.site:8080/F22230/6e9e8ce0/286740
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: atv novi Banja Luka
-http://kuchini.site:8080/F22230/6e9e8ce0/192769
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: AXN
-http://kuchini.site:8080/F22230/6e9e8ce0/16585
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: AXN Spin
-http://kuchini.site:8080/F22230/6e9e8ce0/70825
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Baby TV
-http://kuchini.site:8080/F22230/6e9e8ce0/65780
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CBS Reality
-http://kuchini.site:8080/F22230/6e9e8ce0/65786
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cinemax
-http://kuchini.site:8080/F22230/6e9e8ce0/26797
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cinemax 2
-http://kuchini.site:8080/F22230/6e9e8ce0/26790
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar Premiere 1
-http://kuchini.site:8080/F22230/6e9e8ce0/192244
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar Premiere 2
-http://kuchini.site:8080/F22230/6e9e8ce0/192637
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar TV 1
-http://kuchini.site:8080/F22230/6e9e8ce0/13464
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar TV 2
-http://kuchini.site:8080/F22230/6e9e8ce0/69754
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar TV Action
-http://kuchini.site:8080/F22230/6e9e8ce0/26785
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar TV Fantasy
-http://kuchini.site:8080/F22230/6e9e8ce0/5584
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar TV Premiere 1
-http://kuchini.site:8080/F22230/6e9e8ce0/4141
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CineStar TV Premiere 2
-http://kuchini.site:8080/F22230/6e9e8ce0/4142
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: CMC TV
-http://kuchini.site:8080/F22230/6e9e8ce0/4144
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Crime+ Investigation
-http://kuchini.site:8080/F22230/6e9e8ce0/84360
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 1
-http://kuchini.site:8080/F22230/6e9e8ce0/27419
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 2
-http://kuchini.site:8080/F22230/6e9e8ce0/27420
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 3
-http://kuchini.site:8080/F22230/6e9e8ce0/27423
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 4
-http://kuchini.site:8080/F22230/6e9e8ce0/27421
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 5
-http://kuchini.site:8080/F22230/6e9e8ce0/27422
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 6
-http://kuchini.site:8080/F22230/6e9e8ce0/27425
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 7
-http://kuchini.site:8080/F22230/6e9e8ce0/27426
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 8
-http://kuchini.site:8080/F22230/6e9e8ce0/27424
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 9
-http://kuchini.site:8080/F22230/6e9e8ce0/281592
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 10
-http://kuchini.site:8080/F22230/6e9e8ce0/147964
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Cro Max Select 11
-http://kuchini.site:8080/F22230/6e9e8ce0/281593
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Discovery Science
-http://kuchini.site:8080/F22230/6e9e8ce0/65792
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Discovery World
-http://kuchini.site:8080/F22230/6e9e8ce0/16597
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Diva
-http://kuchini.site:8080/F22230/6e9e8ce0/279755
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: DocuBox
-http://kuchini.site:8080/F22230/6e9e8ce0/65793
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Doku TV
-http://kuchini.site:8080/F22230/6e9e8ce0/26776
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Doma
-http://kuchini.site:8080/F22230/6e9e8ce0/3398
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: E!
-http://kuchini.site:8080/F22230/6e9e8ce0/58937
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: FilmBox Extra
-http://kuchini.site:8080/F22230/6e9e8ce0/26786
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: FOX
-http://kuchini.site:8080/F22230/6e9e8ce0/16586
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Fox Crime
-http://kuchini.site:8080/F22230/6e9e8ce0/62036
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Fox Life
-http://kuchini.site:8080/F22230/6e9e8ce0/16594
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Fox Movies
-http://kuchini.site:8080/F22230/6e9e8ce0/16588
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HBO
-http://kuchini.site:8080/F22230/6e9e8ce0/16587
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HBO 2
-http://kuchini.site:8080/F22230/6e9e8ce0/34449
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HBO 3
-http://kuchini.site:8080/F22230/6e9e8ce0/65805
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: History
-http://kuchini.site:8080/F22230/6e9e8ce0/65807
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: History 2
-http://kuchini.site:8080/F22230/6e9e8ce0/58925
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HRT 1
-http://kuchini.site:8080/F22230/6e9e8ce0/3393
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HRT 2
-http://kuchini.site:8080/F22230/6e9e8ce0/3394
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HRT 3
-http://kuchini.site:8080/F22230/6e9e8ce0/3395
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HRT 4
-http://kuchini.site:8080/F22230/6e9e8ce0/3396
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: HRT International
-http://kuchini.site:8080/F22230/6e9e8ce0/16583
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Investigation Discovery
-http://kuchini.site:8080/F22230/6e9e8ce0/65789
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Jabuka
-http://kuchini.site:8080/F22230/6e9e8ce0/295172
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Jadran TV
-http://kuchini.site:8080/F22230/6e9e8ce0/54958
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Jugoton TV
-http://kuchini.site:8080/F22230/6e9e8ce0/20223
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Kanal R
-http://kuchini.site:8080/F22230/6e9e8ce0/65814
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Kino TV
-http://kuchini.site:8080/F22230/6e9e8ce0/3405
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Klasik TV
-http://kuchini.site:8080/F22230/6e9e8ce0/3404
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Laudato TV
-http://kuchini.site:8080/F22230/6e9e8ce0/54956
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Lov i Ribolov
-http://kuchini.site:8080/F22230/6e9e8ce0/4172
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: M1 Film
-http://kuchini.site:8080/F22230/6e9e8ce0/4173
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: M1 Film Gold
-http://kuchini.site:8080/F22230/6e9e8ce0/120690
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Mini TV
-http://kuchini.site:8080/F22230/6e9e8ce0/4175
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Minimax
-http://kuchini.site:8080/F22230/6e9e8ce0/157163
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Mreza Zagreb
-http://kuchini.site:8080/F22230/6e9e8ce0/192765
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: N1
-http://kuchini.site:8080/F22230/6e9e8ce0/48323
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: NAT GEO
-http://kuchini.site:8080/F22230/6e9e8ce0/62037
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: NAT GEO Wild
-http://kuchini.site:8080/F22230/6e9e8ce0/16595
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Nick Jr
-http://kuchini.site:8080/F22230/6e9e8ce0/54979
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: nickelodeon
-http://kuchini.site:8080/F22230/6e9e8ce0/54980
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Nova Cinema
-http://kuchini.site:8080/F22230/6e9e8ce0/295249
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Nova Family
-http://kuchini.site:8080/F22230/6e9e8ce0/285316
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Nova Pula
-http://kuchini.site:8080/F22230/6e9e8ce0/297050
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Nova TV
-http://kuchini.site:8080/F22230/6e9e8ce0/16590
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Nova World
-http://kuchini.site:8080/F22230/6e9e8ce0/54277
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Osjecka TV
-http://kuchini.site:8080/F22230/6e9e8ce0/54950
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: PickBox TV
-http://kuchini.site:8080/F22230/6e9e8ce0/58957
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Plava Vinkovačka
-http://kuchini.site:8080/F22230/6e9e8ce0/279243
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Poljoprivredna TV
-http://kuchini.site:8080/F22230/6e9e8ce0/60192
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL
-http://kuchini.site:8080/F22230/6e9e8ce0/6905
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL 2
-http://kuchini.site:8080/F22230/6e9e8ce0/3400
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL Adria
-http://kuchini.site:8080/F22230/6e9e8ce0/166632
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL Crime
-http://kuchini.site:8080/F22230/6e9e8ce0/3403
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL Kockica
-http://kuchini.site:8080/F22230/6e9e8ce0/3402
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL Living
-http://kuchini.site:8080/F22230/6e9e8ce0/3401
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: RTL Passion
-http://kuchini.site:8080/F22230/6e9e8ce0/4193
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: sci-fi
-http://kuchini.site:8080/F22230/6e9e8ce0/65828
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sibenik TV
-http://kuchini.site:8080/F22230/6e9e8ce0/285312
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Slavonska TV
-http://kuchini.site:8080/F22230/6e9e8ce0/54954
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sport Klub 1
-http://kuchini.site:8080/F22230/6e9e8ce0/3473
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sport Klub 2
-http://kuchini.site:8080/F22230/6e9e8ce0/279841
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sport Klub 3
-http://kuchini.site:8080/F22230/6e9e8ce0/279840
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sport Klub 4
-http://kuchini.site:8080/F22230/6e9e8ce0/279839
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sport Klub 5
-http://kuchini.site:8080/F22230/6e9e8ce0/26662
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sport Klub FIGHT
-http://kuchini.site:8080/F22230/6e9e8ce0/67741
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Sportska TV
-http://kuchini.site:8080/F22230/6e9e8ce0/4206
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: TLC
-http://kuchini.site:8080/F22230/6e9e8ce0/4208
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: TV 1000 Balkan
-http://kuchini.site:8080/F22230/6e9e8ce0/65833
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: TV Banovina
-http://kuchini.site:8080/F22230/6e9e8ce0/13443
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: TV Trend Karlovac
-http://kuchini.site:8080/F22230/6e9e8ce0/281595
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Viasat Explore
-http://kuchini.site:8080/F22230/6e9e8ce0/65912
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Viasat Explore DBL
-http://kuchini.site:8080/F22230/6e9e8ce0/26779
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Viasat History
-http://kuchini.site:8080/F22230/6e9e8ce0/4215
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Viasat Nature
-http://kuchini.site:8080/F22230/6e9e8ce0/10761
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: VTV
-http://kuchini.site:8080/F22230/6e9e8ce0/65836
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Z1
-http://kuchini.site:8080/F22230/6e9e8ce0/3458
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", HR: Zapad TV
-http://kuchini.site:8080/F22230/6e9e8ce0/295251#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: 24 Kitchen
-http://kuchini.site:8080/F22230/6e9e8ce0/67712
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Alfa TV
-http://kuchini.site:8080/F22230/6e9e8ce0/65942
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: AlJazeera Balkans
-http://kuchini.site:8080/F22230/6e9e8ce0/283838
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Alternativna TV
-http://kuchini.site:8080/F22230/6e9e8ce0/6893
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Arena Sport 1
-http://kuchini.site:8080/F22230/6e9e8ce0/36909
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Arena Sport 3
-http://kuchini.site:8080/F22230/6e9e8ce0/67719
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: AXN
-http://kuchini.site:8080/F22230/6e9e8ce0/67722
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: BHT 1
-http://kuchini.site:8080/F22230/6e9e8ce0/3457
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: BN
-http://kuchini.site:8080/F22230/6e9e8ce0/3455
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: BN Music
-http://kuchini.site:8080/F22230/6e9e8ce0/4137
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: BN2
-http://kuchini.site:8080/F22230/6e9e8ce0/265789
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Cinemax
-http://kuchini.site:8080/F22230/6e9e8ce0/67727
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Cinemax 2
-http://kuchini.site:8080/F22230/6e9e8ce0/67733
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: City TV
-http://kuchini.site:8080/F22230/6e9e8ce0/47614
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Discovery Science
-http://kuchini.site:8080/F22230/6e9e8ce0/67737
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Elta
-http://kuchini.site:8080/F22230/6e9e8ce0/192034
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Elta 2
-http://kuchini.site:8080/F22230/6e9e8ce0/267611
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: EUROSPORT 2
-http://kuchini.site:8080/F22230/6e9e8ce0/67735
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Face TV
-http://kuchini.site:8080/F22230/6e9e8ce0/10681
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Federalna TV
-http://kuchini.site:8080/F22230/6e9e8ce0/6901
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Fox
-http://kuchini.site:8080/F22230/6e9e8ce0/67747
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Fox Crime
-http://kuchini.site:8080/F22230/6e9e8ce0/67743
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Fox Life
-http://kuchini.site:8080/F22230/6e9e8ce0/67746
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Fox Movies
-http://kuchini.site:8080/F22230/6e9e8ce0/296839
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Hayat
-http://kuchini.site:8080/F22230/6e9e8ce0/3459
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Hayat Folk
-http://kuchini.site:8080/F22230/6e9e8ce0/3460
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Hayat Music
-http://kuchini.site:8080/F22230/6e9e8ce0/10691
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Hayat Plus
-http://kuchini.site:8080/F22230/6e9e8ce0/6899
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Hayatovci
-http://kuchini.site:8080/F22230/6e9e8ce0/6897
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: HBO
-http://kuchini.site:8080/F22230/6e9e8ce0/67750
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: HBO 2
-http://kuchini.site:8080/F22230/6e9e8ce0/67754
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: HBO 3
-http://kuchini.site:8080/F22230/6e9e8ce0/67751
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Hema TV
-http://kuchini.site:8080/F22230/6e9e8ce0/28142
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: HIT Televizija
-http://kuchini.site:8080/F22230/6e9e8ce0/47618
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Investigation Discovery
-http://kuchini.site:8080/F22230/6e9e8ce0/67728
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Izvorna TV
-http://kuchini.site:8080/F22230/6e9e8ce0/20224
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Kanal 6
-http://kuchini.site:8080/F22230/6e9e8ce0/58949
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Lov i ribolov
-http://kuchini.site:8080/F22230/6e9e8ce0/67760
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Mini TV
-http://kuchini.site:8080/F22230/6e9e8ce0/282258
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Minimax
-http://kuchini.site:8080/F22230/6e9e8ce0/67753
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: MTV Igman
-http://kuchini.site:8080/F22230/6e9e8ce0/6892
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: N1
-http://kuchini.site:8080/F22230/6e9e8ce0/10713
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: NAT GEO
-http://kuchini.site:8080/F22230/6e9e8ce0/295236
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: NAT GEO Wild
-http://kuchini.site:8080/F22230/6e9e8ce0/67762
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Nova BH
-http://kuchini.site:8080/F22230/6e9e8ce0/3408
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: NTVIC Kakanj
-http://kuchini.site:8080/F22230/6e9e8ce0/65946
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: O Kanal
-http://kuchini.site:8080/F22230/6e9e8ce0/58941
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: OBN
-http://kuchini.site:8080/F22230/6e9e8ce0/3456
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: OTV Valentino
-http://kuchini.site:8080/F22230/6e9e8ce0/10721
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Pink BH
-http://kuchini.site:8080/F22230/6e9e8ce0/192039
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Posavina TV
-http://kuchini.site:8080/F22230/6e9e8ce0/54961
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTRS Plus
-http://kuchini.site:8080/F22230/6e9e8ce0/20256
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTRS TV
-http://kuchini.site:8080/F22230/6e9e8ce0/10735
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTV Cazin
-http://kuchini.site:8080/F22230/6e9e8ce0/267612
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTV Herceg Bosne
-http://kuchini.site:8080/F22230/6e9e8ce0/36898
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTV Sana
-http://kuchini.site:8080/F22230/6e9e8ce0/5371
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTV TK Tuzla
-http://kuchini.site:8080/F22230/6e9e8ce0/198855
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: RTV Zenica
-http://kuchini.site:8080/F22230/6e9e8ce0/47616
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Sehara TV
-http://kuchini.site:8080/F22230/6e9e8ce0/4212
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Sevdah TV
-http://kuchini.site:8080/F22230/6e9e8ce0/10744
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Super TV
-http://kuchini.site:8080/F22230/6e9e8ce0/58946
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Televizija 5
-http://kuchini.site:8080/F22230/6e9e8ce0/20271
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Top TV
-http://kuchini.site:8080/F22230/6e9e8ce0/65905
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: TV Glas Drine
-http://kuchini.site:8080/F22230/6e9e8ce0/10686
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: TV K3
-http://kuchini.site:8080/F22230/6e9e8ce0/47613
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: TV Sarajevo
-http://kuchini.site:8080/F22230/6e9e8ce0/3454
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: TV Slon Extra
-http://kuchini.site:8080/F22230/6e9e8ce0/10758
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: TV USK
-http://kuchini.site:8080/F22230/6e9e8ce0/47617
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", BIH: Una TV
-http://kuchini.site:8080/F22230/6e9e8ce0/295252
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Premium 1
-http://kuchini.site:8080/F22230/6e9e8ce0/285558
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Premium 2
-http://kuchini.site:8080/F22230/6e9e8ce0/285559
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Premium 3
-http://kuchini.site:8080/F22230/6e9e8ce0/285560
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 1
-http://kuchini.site:8080/F22230/6e9e8ce0/60225
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 2
-http://kuchini.site:8080/F22230/6e9e8ce0/3462
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 3
-http://kuchini.site:8080/F22230/6e9e8ce0/3463
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 4
-http://kuchini.site:8080/F22230/6e9e8ce0/3465
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 5
-http://kuchini.site:8080/F22230/6e9e8ce0/3464
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 6
-http://kuchini.site:8080/F22230/6e9e8ce0/36922
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 7
-http://kuchini.site:8080/F22230/6e9e8ce0/295312
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 8
-http://kuchini.site:8080/F22230/6e9e8ce0/295313
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 9
-http://kuchini.site:8080/F22230/6e9e8ce0/295314
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Arena Sport 1-2
-http://kuchini.site:8080/F22230/6e9e8ce0/296564
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Sport Klub
-http://kuchini.site:8080/F22230/6e9e8ce0/3466
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Sport Klub 2
-http://kuchini.site:8080/F22230/6e9e8ce0/3468
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Sport Klub 3
-http://kuchini.site:8080/F22230/6e9e8ce0/3469
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Sport Klub 4
-http://kuchini.site:8080/F22230/6e9e8ce0/5563
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Sport Klub 5
-http://kuchini.site:8080/F22230/6e9e8ce0/10752
-#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", RS: Sport Klub 6
-http://kuchini.site:8080/F22230/6e9e8ce0/3471
-#EXTINF:-1 tvg-id="ArenaSport3BosniaandHerzegovina.ba" tvg-logo="https://i.imgur.com/3r3burN.png" group-title="Sports",Arena Sport 3 BA (1080p)
-http://94.250.2.6:7374/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_1.png" group-title="HRV ⋅ HRVATSKA",HRT 1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/444346
+#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-logo="http://onecentcdn.com/newpicon/hrv/HRT1-logo.png" group-title="HRV ⋅ HRVATSKA",HRT 1
+http://optimus-tv.com:8080/bayram429/bakir610/501843
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-name="HRT 2 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_2.png" group-title="HRV ⋅ HRVATSKA",HRT 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/444949
+#EXTINF:-1 tvg-id="hrt2.hr" tvg-name="HRT 2" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_2.png" group-title="HRV ⋅ HRVATSKA",HRT 2
+http://optimus-tv.com:8080/bayram429/bakir610/452153
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-name="HRT 3 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_3.png" group-title="HRV ⋅ HRVATSKA",HRT 3 HD
+http://optimus-tv.com:8080/bayram429/bakir610/444950
+#EXTINF:-1 tvg-id="hrt3.hr" tvg-name="HRT 3" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_3.png" group-title="HRV ⋅ HRVATSKA",HRT 3
+http://optimus-tv.com:8080/bayram429/bakir610/452162
+#EXTINF:-1 tvg-id="hrt4.hr" tvg-name="HRT 4 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_4.png" group-title="HRV ⋅ HRVATSKA",HRT 4 HD
+http://optimus-tv.com:8080/bayram429/bakir610/444951
+#EXTINF:-1 tvg-id="hrt4.hr" tvg-name="HRT 4" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_4.png" group-title="HRV ⋅ HRVATSKA",HRT 4
+http://optimus-tv.com:8080/bayram429/bakir610/452165
+#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT int HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_int.png" group-title="HRV ⋅ HRVATSKA",HRT int HD
+http://optimus-tv.com:8080/bayram429/bakir610/444952
+#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT int" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_int.png" group-title="HRV ⋅ HRVATSKA",HRT int
+http://optimus-tv.com:8080/bayram429/bakir610/452166
+#EXTINF:-1 tvg-id="novatv.hr" tvg-name="NOVA  HR HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/nova_tv.png" group-title="HRV ⋅ HRVATSKA",NOVA  HR HD
+http://optimus-tv.com:8080/bayram429/bakir610/444354
+#EXTINF:-1 tvg-id="novatv.hr" tvg-name="NOVA   HR" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/nova_tv.png" group-title="HRV ⋅ HRVATSKA",NOVA   HR
+http://optimus-tv.com:8080/bayram429/bakir610/452169
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TV  CINEMA" tvg-logo="http://falcon.ac:5000/images/exyu/novacinema.png" group-title="HRV ⋅ HRVATSKA",NOVA TV  CINEMA
+http://optimus-tv.com:8080/bayram429/bakir610/615507
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="RTL HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/rtl.png" group-title="HRV ⋅ HRVATSKA",RTL HD
+http://optimus-tv.com:8080/bayram429/bakir610/444345
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="RTL" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/rtl.png" group-title="HRV ⋅ HRVATSKA",RTL
+http://optimus-tv.com:8080/bayram429/bakir610/452171
+#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-name="RTL Crime HD" tvg-logo="http://cms.titaniptv.com/epg/logo/RTL%20Crime.png" group-title="HRV ⋅ HRVATSKA",RTL Crime HD
+http://optimus-tv.com:8080/bayram429/bakir610/445004
+#EXTINF:-1 tvg-id="rtlcrime.hr" tvg-name="RTL Crime" tvg-logo="http://cms.titaniptv.com/epg/logo/RTL%20Crime.png" group-title="HRV ⋅ HRVATSKA",RTL Crime
+http://optimus-tv.com:8080/bayram429/bakir610/452174
+#EXTINF:-1 tvg-id="domatv.hr" tvg-name="DOMA TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/Doma_tv.svg.png" group-title="HRV ⋅ HRVATSKA",DOMA TV
+http://optimus-tv.com:8080/bayram429/bakir610/6117
+#EXTINF:-1 tvg-id="domatv.hr" tvg-name="DOMA TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/Doma_tv.svg.png" group-title="HRV ⋅ HRVATSKA",DOMA TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/452179
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/rtl_2.png" group-title="HRV ⋅ HRVATSKA",RTL 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/445002
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2" tvg-logo="http://onecentcdn.com/newpicon/hrv/RTL_2_Logo.png" group-title="HRV ⋅ HRVATSKA",RTL 2
+http://optimus-tv.com:8080/bayram429/bakir610/452180
+#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="RTL Passion HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/rtl_passion.png" group-title="HRV ⋅ HRVATSKA",RTL Passion HD
+http://optimus-tv.com:8080/bayram429/bakir610/445008
+#EXTINF:-1 tvg-id="rtlpassion.hr" tvg-name="RTL Passion" tvg-logo="http://onecentcdn.com/newpicon/hrv/rtlpassion.png" group-title="HRV ⋅ HRVATSKA",RTL Passion
+http://optimus-tv.com:8080/bayram429/bakir610/452181
+#EXTINF:-1 tvg-id="rtlliving.hr" tvg-name="Rtl Living HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/rtl_living.png" group-title="HRV ⋅ HRVATSKA",Rtl Living HD
+http://optimus-tv.com:8080/bayram429/bakir610/445007
+#EXTINF:-1 tvg-id="rtlliving.hr" tvg-name="Rtl Living" tvg-logo="http://onecentcdn.com/newpicon/hrv/RTL_living_Logo_2015.png" group-title="HRV ⋅ HRVATSKA",Rtl Living
+http://optimus-tv.com:8080/bayram429/bakir610/452182
+#EXTINF:-1 tvg-id="rtlkockica.hr" tvg-name="RTL Kockica HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/kockia.png" group-title="HRV ⋅ HRVATSKA",RTL Kockica HD
+http://optimus-tv.com:8080/bayram429/bakir610/445006
+#EXTINF:-1 tvg-id="" tvg-name="RTL Adria HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/adria.png" group-title="HRV ⋅ HRVATSKA",RTL Adria HD
+http://optimus-tv.com:8080/bayram429/bakir610/445003
+#EXTINF:-1 tvg-id="" tvg-name="RTL Adria" tvg-logo="http://onecentcdn.com/newpicon/hrv/Rtl-adria-6e1a2af0c7e8f3bab7392360321de904_view_article.png" group-title="HRV ⋅ HRVATSKA",RTL Adria
+http://optimus-tv.com:8080/bayram429/bakir610/452184
+#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-name="Slavonska TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/slavonska_tv.png" group-title="HRV ⋅ HRVATSKA",Slavonska TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/445011
+#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-name="Slavonska TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/sbtv.png" group-title="HRV ⋅ HRVATSKA",Slavonska TV
+http://optimus-tv.com:8080/bayram429/bakir610/452186
+#EXTINF:-1 tvg-id="sbtv.hr" tvg-name="SB TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/sb_tv.png" group-title="HRV ⋅ HRVATSKA",SB TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/445009
+#EXTINF:-1 tvg-id="sbtv.hr" tvg-name="SB TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/sbtv.png" group-title="HRV ⋅ HRVATSKA",SB TV
+http://optimus-tv.com:8080/bayram429/bakir610/452187
+#EXTINF:-1 tvg-id="" tvg-name="Poljoprivredna TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/poljoprivredna_tv.png" group-title="HRV ⋅ HRVATSKA",Poljoprivredna TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/445001
+#EXTINF:-1 tvg-id="" tvg-name="Poljoprivredna TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/poljoprivredna_tv.png" group-title="HRV ⋅ HRVATSKA",Poljoprivredna TV
+http://optimus-tv.com:8080/bayram429/bakir610/452178
+#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-name="Osjecka TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/osjecka_tv.png" group-title="HRV ⋅ HRVATSKA",Osjecka TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/445000
+#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-name="Osjecka TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/osjecka_tv.png" group-title="HRV ⋅ HRVATSKA",Osjecka TV
+http://optimus-tv.com:8080/bayram429/bakir610/452177
+#EXTINF:-1 tvg-id="n1.hr" tvg-name="N1 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/n1.png" group-title="HRV ⋅ HRVATSKA",N1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/444998
+#EXTINF:-1 tvg-id="n1.hr" tvg-name="N1" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/n1.png" group-title="HRV ⋅ HRVATSKA",N1
+http://optimus-tv.com:8080/bayram429/bakir610/452175
+#EXTINF:-1 tvg-id="mrezazg.hr" tvg-name="Mreza Zagreb HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/mreza_zagreb.png" group-title="HRV ⋅ HRVATSKA",Mreza Zagreb HD
+http://optimus-tv.com:8080/bayram429/bakir610/444997
+#EXTINF:-1 tvg-id="" tvg-name="Libertas TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/libertas.png" group-title="HRV ⋅ HRVATSKA",Libertas TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/444995
+#EXTINF:-1 tvg-id="" tvg-name="Libertas TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/liberta.png" group-title="HRV ⋅ HRVATSKA",Libertas TV
+http://optimus-tv.com:8080/bayram429/bakir610/452188
+#EXTINF:-1 tvg-id="laudatotv.hr" tvg-name="Laudato TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/laudato.png" group-title="HRV ⋅ HRVATSKA",Laudato TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/444994
+#EXTINF:-1 tvg-id="laudatotv.hr" tvg-name="Laudato TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/laudato.png" group-title="HRV ⋅ HRVATSKA",Laudato TV
+http://optimus-tv.com:8080/bayram429/bakir610/452170
+#EXTINF:-1 tvg-id="dutv.hr" tvg-name="TV Dubrovnik HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/dubrovnik.png" group-title="HRV ⋅ HRVATSKA",TV Dubrovnik HD
+http://optimus-tv.com:8080/bayram429/bakir610/444963
+#EXTINF:-1 tvg-id="dutv.hr" tvg-name="TV Dubrovnik" tvg-logo="http://onecentcdn.com/newpicon/hrv/dubro.png" group-title="HRV ⋅ HRVATSKA",TV Dubrovnik
+http://optimus-tv.com:8080/bayram429/bakir610/452189
+#EXTINF:-1 tvg-id="tvjadran.hr" tvg-name="TV Jadran" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/jadran.png" group-title="HRV ⋅ HRVATSKA",TV Jadran
+http://optimus-tv.com:8080/bayram429/bakir610/452168
+#EXTINF:-1 tvg-id="" tvg-name="TV POSAVINA HD" tvg-logo="http://cms.titaniptv.com/epg/logo/Posavinatv.png" group-title="HRV ⋅ HRVATSKA",TV POSAVINA HD
+http://optimus-tv.com:8080/bayram429/bakir610/444959
+#EXTINF:-1 tvg-id="" tvg-name="TV POSAVINA" tvg-logo="http://cms.titaniptv.com/epg/logo/Posavinatv.png" group-title="HRV ⋅ HRVATSKA",TV POSAVINA
+http://optimus-tv.com:8080/bayram429/bakir610/452167
+#EXTINF:-1 tvg-id="" tvg-name="TV Sibenik" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/sibenik.png" group-title="HRV ⋅ HRVATSKA",TV Sibenik
+http://optimus-tv.com:8080/bayram429/bakir610/452164
+#EXTINF:-1 tvg-id="vinkovackatv.hr" tvg-name="Vinkovacka TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/vinkovacka.png" group-title="HRV ⋅ HRVATSKA",Vinkovacka TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/444957
+#EXTINF:-1 tvg-id="vinkovackatv.hr" tvg-name="Vinkovacka TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/vinkovacka.png" group-title="HRV ⋅ HRVATSKA",Vinkovacka TV
+http://optimus-tv.com:8080/bayram429/bakir610/452163
+#EXTINF:-1 tvg-id="varazdinskatelevizija.hr" tvg-name="VTV Televizija HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/vtv.png" group-title="HRV ⋅ HRVATSKA",VTV Televizija HD
+http://optimus-tv.com:8080/bayram429/bakir610/444956
+#EXTINF:-1 tvg-id="varazdinskatelevizija.hr" tvg-name="VTV Televizija" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/vtv.png" group-title="HRV ⋅ HRVATSKA",VTV Televizija
+http://optimus-tv.com:8080/bayram429/bakir610/452161
+#EXTINF:-1 tvg-id="z1.hr" tvg-name="Z1 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/z1.png" group-title="HRV ⋅ HRVATSKA",Z1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/444955
+#EXTINF:-1 tvg-id="zdravatv.hr" tvg-name="Zdrava TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/zdrava.png" group-title="HRV ⋅ HRVATSKA",Zdrava TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/444954
+#EXTINF:-1 tvg-id="zdravatv.hr" tvg-name="Zdrava TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/zdrava.png" group-title="HRV ⋅ HRVATSKA",Zdrava TV
+http://optimus-tv.com:8080/bayram429/bakir610/452150
+#EXTINF:-1 tvg-id="kanalri.hr" tvg-name="Kanal Ri" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/kanal_ri.png" group-title="HRV ⋅ HRVATSKA",Kanal Ri
+http://optimus-tv.com:8080/bayram429/bakir610/452149
+#EXTINF:-1 tvg-id="" tvg-name="Herceg Bosna" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/herceg_bosna.png" group-title="HRV ⋅ HRVATSKA",Herceg Bosna
+http://optimus-tv.com:8080/bayram429/bakir610/6100
+#EXTINF:-1 tvg-id="bht1.ba" tvg-name="BIH | BHT" tvg-logo="http://onecentcdn.com/newpicon/hrv/bih.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",BIH | BHT
+http://optimus-tv.com:8080/bayram429/bakir610/220743
+#EXTINF:-1 tvg-id="" tvg-name="FEDERALNA TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/federa.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",FEDERALNA TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5585
+#EXTINF:-1 tvg-id="nova.ba" tvg-name="NOVA BH HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Nova%20bh%20tv%20logo.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",NOVA BH HD
+http://optimus-tv.com:8080/bayram429/bakir610/6073
+#EXTINF:-1 tvg-id="obn.ba" tvg-name="OBN" tvg-logo="http://onecentcdn.com/newpicon/hrv/face.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",OBN
+http://optimus-tv.com:8080/bayram429/bakir610/5580
+#EXTINF:-1 tvg-id="facetv.ba" tvg-name="FACE TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/face.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",FACE TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/6077
+#EXTINF:-1 tvg-id="hayat.ba" tvg-name="HAYAT TV HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hayat.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",HAYAT TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5569
+#EXTINF:-1 tvg-id="hayatplus.ba" tvg-name="HAYAT PLUS HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hayat.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",HAYAT PLUS HD
+http://optimus-tv.com:8080/bayram429/bakir610/5572
+#EXTINF:-1 tvg-id="tvsarajevo.ba" tvg-name="TV SARAJEVO HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/sara.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",TV SARAJEVO HD
+http://optimus-tv.com:8080/bayram429/bakir610/5601
+#EXTINF:-1 tvg-id="" tvg-name="ALFA TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/alfa.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",ALFA TV
+http://optimus-tv.com:8080/bayram429/bakir610/5581
+#EXTINF:-1 tvg-id="" tvg-name="RTV USK" tvg-logo="http://onecentcdn.com/newpicon/hrv/rtv.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",RTV USK
+http://optimus-tv.com:8080/bayram429/bakir610/5583
+#EXTINF:-1 tvg-id="rtvzenica.ba" tvg-name="RTV ZENICA HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/rtv_zenica.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",RTV ZENICA HD
+http://optimus-tv.com:8080/bayram429/bakir610/5591
+#EXTINF:-1 tvg-id="K3.ba" tvg-name="K3 PRNJAVOR HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/k3.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",K3 PRNJAVOR HD
+http://optimus-tv.com:8080/bayram429/bakir610/5592
+#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="RTRS PLUS HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/rtrs.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",RTRS PLUS HD
+http://optimus-tv.com:8080/bayram429/bakir610/5575
+#EXTINF:-1 tvg-id="bn.ba" tvg-name="BN TELEVIZIJA" tvg-logo="https://rtvbn.tv/assets/images/share-lat.jpg" group-title="BIH ⋅ BOSNA I HERCEGOVINA",BN TELEVIZIJA
+http://optimus-tv.com:8080/bayram429/bakir610/220807
+#EXTINF:-1 tvg-id="bn2.ba" tvg-name="BN 2 HD" tvg-logo="http://falcon.ac:5000/images/exyu/bntv.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",BN 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/488319
+#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="RTRS" tvg-logo="http://onecentcdn.com/newpicon/hrv/rtrs.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",RTRS
+http://optimus-tv.com:8080/bayram429/bakir610/488320
+#EXTINF:-1 tvg-id="rtvtktuzla.ba" tvg-name="TV TK" tvg-logo="http://onecentcdn.com/newpicon/hrv/tk.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",TV TK
+http://optimus-tv.com:8080/bayram429/bakir610/220746
+#EXTINF:-1 tvg-id="bnalt.ba" tvg-name="ALTERNATIVNA TV" tvg-logo="http://onecentcdn.com/newpicon/hrv/alt.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",ALTERNATIVNA TV
+http://optimus-tv.com:8080/bayram429/bakir610/6099
+#EXTINF:-1 tvg-id="rtvzenica.ba" tvg-name="RTV Herceg Bosna" tvg-logo="http://onecentcdn.com/newpicon/hrv/herceg.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",RTV Herceg Bosna
+http://optimus-tv.com:8080/bayram429/bakir610/488321
+#EXTINF:-1 tvg-id="" tvg-name="TELEVIZIJA 5 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/t5.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",TELEVIZIJA 5 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5595
+#EXTINF:-1 tvg-id="" tvg-name="0 KANAL" tvg-logo="http://onecentcdn.com/newpicon/hrv/0kanal.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",0 KANAL
+http://optimus-tv.com:8080/bayram429/bakir610/6081
+#EXTINF:-1 tvg-id="" tvg-name="NTV IC KAKANJ" tvg-logo="http://cms.titaniptv.com/epg/logo/NTVIC%20Kakanj.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",NTV IC KAKANJ
+http://optimus-tv.com:8080/bayram429/bakir610/5741
+#EXTINF:-1 tvg-id="kanal6.ba" tvg-name="KANAL 6" tvg-logo="http://onecentcdn.com/newpicon/hrv/k6.jpg" group-title="BIH ⋅ BOSNA I HERCEGOVINA",KANAL 6
+http://optimus-tv.com:8080/bayram429/bakir610/446678
+#EXTINF:-1 tvg-id="" tvg-name="SUPER TV MEDIA" tvg-logo="http://onecentcdn.com/newpicon/hrv/supertv.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",SUPER TV MEDIA
+http://optimus-tv.com:8080/bayram429/bakir610/446679
+#EXTINF:-1 tvg-id="" tvg-name="TV SLON" tvg-logo="http://onecentcdn.com/newpicon/hrv/slong.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",TV SLON
+http://optimus-tv.com:8080/bayram429/bakir610/220745
