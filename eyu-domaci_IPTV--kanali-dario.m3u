@@ -165,3 +165,499 @@ http://optimus-tv.com:8080/bayram429/bakir610/446678
 http://optimus-tv.com:8080/bayram429/bakir610/446679
 #EXTINF:-1 tvg-id="" tvg-name="TV SLON" tvg-logo="http://onecentcdn.com/newpicon/hrv/slong.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",TV SLON
 http://optimus-tv.com:8080/bayram429/bakir610/220745
+#EXTINF:-1 tvg-id="" tvg-name="TANJUG Srbija" tvg-logo="https://rtvbn.tv/assets/images/share-lat.jpg" group-title="SRB ⋅ REPUBLIKA SRBIJA",TANJUG Srbija
+http://optimus-tv.com:8080/bayram429/bakir610/488146
+#EXTINF:-1 tvg-id="" tvg-name="KURIR TV" tvg-logo="http://logo.smart-iptvpro.info/131.sr.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",KURIR TV
+http://optimus-tv.com:8080/bayram429/bakir610/484074
+#EXTINF:-1 tvg-id="prva.rs" tvg-name="Prva HD" tvg-logo="http://onecentcdn.com/newpicon/srb/Prva_TV.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",Prva HD
+http://optimus-tv.com:8080/bayram429/bakir610/5548
+#EXTINF:-1 tvg-id="rtssvet.rs" tvg-name="RTS SVET HD-" tvg-logo="http://onecentcdn.com/newpicon/srb/Logo_rts_svet.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS SVET HD-
+http://optimus-tv.com:8080/bayram429/bakir610/220737
+#EXTINF:-1 tvg-id="prvaplus.rs" tvg-name="Prva Plus HD" tvg-logo="http://onecentcdn.com/newpicon/srb/220px-Prva_Plus_Logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",Prva Plus HD
+http://optimus-tv.com:8080/bayram429/bakir610/5549
+#EXTINF:-1 tvg-id="novas.sr" tvg-name="NOVA S" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-s-rs.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",NOVA S
+http://optimus-tv.com:8080/bayram429/bakir610/466701
+#EXTINF:-1 tvg-id="novas.sr" tvg-name="NOVA S HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nova-s-rs.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",NOVA S HD
+http://optimus-tv.com:8080/bayram429/bakir610/5765
+#EXTINF:-1 tvg-id="n1.rs" tvg-name="N1 Srbija" tvg-logo="http://onecentcdn.com/newpicon/srb/N1_Info_logo.svg.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",N1 Srbija
+http://optimus-tv.com:8080/bayram429/bakir610/427125
+#EXTINF:-1 tvg-id="rts1.rs" tvg-name="Rts 1 HD" tvg-logo="http://onecentcdn.com/newpicon/srb/Rts-1.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",Rts 1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/6131
+#EXTINF:-1 tvg-id="rts2.rs" tvg-name="RTS 2 HD" tvg-logo="http://onecentcdn.com/newpicon/srb/RTS2HD.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5538
+#EXTINF:-1 tvg-id="rts3.rs" tvg-name="RTS 3 HD" tvg-logo="http://onecentcdn.com/newpicon/srb/1200px-RTS_3_logo.svg.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS 3 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5539
+#EXTINF:-1 tvg-id="b92.rs" tvg-name="B92 HD" tvg-logo="http://onecentcdn.com/newpicon/srb/1200px-Logo_of_B92_(2020-present).svg.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",B92 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5547
+#EXTINF:-1 tvg-id="rtskolo.rs" tvg-name="RTS Kolo HD" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/RTS-Kolo-Live-TV-Online.png?fit=1920%2C1080&ssl=1" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS Kolo HD
+http://optimus-tv.com:8080/bayram429/bakir610/488318
+#EXTINF:-1 tvg-id="rtstrezor.rs" tvg-name="RTS Trezor HD" tvg-logo="http://onecentcdn.com/newpicon/srb/RTS_Trezor_logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS Trezor HD
+http://optimus-tv.com:8080/bayram429/bakir610/5541
+#EXTINF:-1 tvg-id="rtsdrama.rs" tvg-name="RTS Drama HD" tvg-logo="http://onecentcdn.com/newpicon/srb/RTS_Drama_logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS Drama HD
+http://optimus-tv.com:8080/bayram429/bakir610/5544
+#EXTINF:-1 tvg-id="rtsmuzika.rs" tvg-name="RTS Muzika HD" tvg-logo="http://onecentcdn.com/newpicon/srb/RTSMuzikaHD.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTS Muzika HD
+http://optimus-tv.com:8080/bayram429/bakir610/5545
+#EXTINF:-1 tvg-id="happytv.rs" tvg-name="Happy TV HD" tvg-logo="http://onecentcdn.com/newpicon/srb/Happy_TV_Logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",Happy TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5551
+#EXTINF:-1 tvg-id="24kitchen.rs" tvg-name="24 Kitchen" tvg-logo="http://onecentcdn.com/newpicon/srb/24kitchen.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",24 Kitchen
+http://optimus-tv.com:8080/bayram429/bakir610/5552
+#EXTINF:-1 tvg-id="TVNoviPazar.rs" tvg-name="RTV Novi Pazar HD" tvg-logo="http://onecentcdn.com/newpicon/srb/RTV_Novi_Pazar.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTV Novi Pazar HD
+http://optimus-tv.com:8080/bayram429/bakir610/5554
+#EXTINF:-1 tvg-id="rtv1.rs" tvg-name="RTV 1" tvg-logo="http://onecentcdn.com/newpicon/srb/RTS1_logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTV 1
+http://optimus-tv.com:8080/bayram429/bakir610/5556
+#EXTINF:-1 tvg-id="prvakick.rs" tvg-name="Prva Kick HD" tvg-logo="http://onecentcdn.com/newpicon/srb/PrvaKickHD.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",Prva Kick HD
+http://optimus-tv.com:8080/bayram429/bakir610/5558
+#EXTINF:-1 tvg-id="TVIstok.rs" tvg-name="TV Istok HD" tvg-logo="http://onecentcdn.com/newpicon/srb/sistok-0.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",TV Istok HD
+http://optimus-tv.com:8080/bayram429/bakir610/5566
+#EXTINF:-1 tvg-id="prvamax.rs" tvg-name="PRVA MAX HD" tvg-logo="http://telrad.net/image/prvamax.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",PRVA MAX HD
+http://optimus-tv.com:8080/bayram429/bakir610/5767
+#EXTINF:-1 tvg-id="prvaworld.rs" tvg-name="PRVA WORLD HD+" tvg-logo="http://telrad.net/image/194.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",PRVA WORLD HD+
+http://optimus-tv.com:8080/bayram429/bakir610/5770
+#EXTINF:-1 tvg-id="prvafiles.rs" tvg-name="PRVA FILES HD" tvg-logo="http://telrad.net/image/prvafiles.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",PRVA FILES HD
+http://optimus-tv.com:8080/bayram429/bakir610/5771
+#EXTINF:-1 tvg-id="happytv.rs" tvg-name="HAPPY PAROVI 1 LIVE HD" tvg-logo="http://cms.titaniptv.com/epg/logo/Happy%20TV.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",HAPPY PAROVI 1 LIVE HD
+http://optimus-tv.com:8080/bayram429/bakir610/5783
+#EXTINF:-1 tvg-id="happytv.rs" tvg-name="HAPPY PAROVI 2" tvg-logo="" group-title="SRB ⋅ REPUBLIKA SRBIJA",HAPPY PAROVI 2
+http://optimus-tv.com:8080/bayram429/bakir610/452787
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-name="HRAM TV HD" tvg-logo="https://tvprofil.com/cdn/102x40/10/img/kanali-logo/TV_Hram_logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",HRAM TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5797
+#EXTINF:-1 tvg-id="kcn2music.rs" tvg-name="KCN 2 HD" tvg-logo="http://cms.titaniptv.com/epg/logo/KCN%202.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",KCN 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5801
+#EXTINF:-1 tvg-id="kcn3svetplus.rs" tvg-name="KCN 3 HD" tvg-logo="http://cms.titaniptv.com/epg/logo/KCN%203.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",KCN 3 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5802
+#EXTINF:-1 tvg-id="" tvg-name="Blic TV" tvg-logo="https://mts.rs/Picture/104593/jpeg/BLIC-TV-logo-beli.jpg" group-title="SRB ⋅ REPUBLIKA SRBIJA",Blic TV
+http://optimus-tv.com:8080/bayram429/bakir610/603368
+#EXTINF:-1 tvg-id="" tvg-name="RTV Mlava HD" tvg-logo="http://onecentcdn.com/newpicon/srb/rtvmlava-logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",RTV Mlava HD
+http://optimus-tv.com:8080/bayram429/bakir610/220655
+#EXTINF:-1 tvg-id="" tvg-name="PINK M" tvg-logo="" group-title="EXYU ⋅ CRNA GORA",PINK M
+http://optimus-tv.com:8080/bayram429/bakir610/495703
+#EXTINF:-1 tvg-id="" tvg-name="NOVA M HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Nova_M.png" group-title="EXYU ⋅ CRNA GORA",NOVA M HD
+http://optimus-tv.com:8080/bayram429/bakir610/431878
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 1 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/RTCG.png" group-title="EXYU ⋅ CRNA GORA",RTCG 1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5650
+#EXTINF:-1 tvg-id="" tvg-name="RTCG 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/RTCG.png" group-title="EXYU ⋅ CRNA GORA",RTCG 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5652
+#EXTINF:-1 tvg-id="" tvg-name="RTCG Sat" tvg-logo="http://onecentcdn.com/newpicon/exyu/RTCG%20Sat%20logo%202012.png" group-title="EXYU ⋅ CRNA GORA",RTCG Sat
+http://optimus-tv.com:8080/bayram429/bakir610/220808
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-name="Sandzak TV HD" tvg-logo="http://onecentcdn.com/newpicon/srb/Televizija-Sandzak-live-vipotv-serbia.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",Sandzak TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5562
+#EXTINF:-1 tvg-id="History2Poland.pl" tvg-name="History 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/h2logo.png" group-title="EXYU ⋅ BALKAN DOKU",History 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5425
+#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-name="AL JAZEERA" tvg-logo="http://onecentcdn.com/newpicon/exyu/Al%20Jazeera%20tv%20logo.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",AL JAZEERA
+http://optimus-tv.com:8080/bayram429/bakir610/220928
+#EXTINF:-1 tvg-id="citytv.ba" tvg-name="CITY TV MOSTAR" tvg-logo="http://onecentcdn.com/newpicon/exyu/CITY%20TV%20logo.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",CITY TV MOSTAR
+http://optimus-tv.com:8080/bayram429/bakir610/220930
+#EXTINF:-1 tvg-id="TVNoviPazar.rs" tvg-name="NOVI PAZAR" tvg-logo="http://onecentcdn.com/newpicon/exyu/Novi%20Pazar%20tv%20logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",NOVI PAZAR
+http://optimus-tv.com:8080/bayram429/bakir610/220935
+#EXTINF:-1 tvg-id="history.rs" tvg-name="History Channel HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/historylogo.png" group-title="EXYU ⋅ BALKAN DOKU",History Channel HD
+http://optimus-tv.com:8080/bayram429/bakir610/5424
+#EXTINF:-1 tvg-id="n1.ba" tvg-name="N1 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/N1%20TV%20logo.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",N1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/220994
+#EXTINF:-1 tvg-id="" tvg-name="Pink BH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Pink_BH_logo.png/338px-Pink_BH_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink BH HD
+http://optimus-tv.com:8080/bayram429/bakir610/488322
+#EXTINF:-1 tvg-id="PinkMusic.rs" tvg-name="Pink Music 1" tvg-logo="http://onecentcdn.com/newpicon/exyu/PinkMusic_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Music 1
+http://optimus-tv.com:8080/bayram429/bakir610/5333
+#EXTINF:-1 tvg-id="PinkMusic2.rs" tvg-name="Pink Music 2" tvg-logo="http://onecentcdn.com/newpicon/exyu/PinkMusic_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Music 2
+http://optimus-tv.com:8080/bayram429/bakir610/5334
+#EXTINF:-1 tvg-id="PinkFolk1.rs" tvg-name="Pink Folk 1" tvg-logo="http://onecentcdn.com/newpicon/exyu/PinkFolk1_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Folk 1
+http://optimus-tv.com:8080/bayram429/bakir610/5335
+#EXTINF:-1 tvg-id="PinkFolk2.rs" tvg-name="Pink Folk 2" tvg-logo="http://onecentcdn.com/newpicon/exyu/PinkFolk1_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Folk 2
+http://optimus-tv.com:8080/bayram429/bakir610/5336
+#EXTINF:-1 tvg-id="PinkHits.rs" tvg-name="PINK HITS 1" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20hits%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK HITS 1
+http://optimus-tv.com:8080/bayram429/bakir610/6005
+#EXTINF:-1 tvg-id="PinkHits2.rs" tvg-name="PINK HITS 2" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20hits%202%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK HITS 2
+http://optimus-tv.com:8080/bayram429/bakir610/6006
+#EXTINF:-1 tvg-id="pink3.rs" tvg-name="Pink 3" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink-3.png" group-title="EXYU ⋅ BALKAN PINK",Pink 3
+http://optimus-tv.com:8080/bayram429/bakir610/5332
+#EXTINF:-1 tvg-id="PinkZabava.rs" tvg-name="Pink Zabava HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/png-transparent-rtv-pink-television-show-logo-television-channel-pink-radio-television-text-logo-thumbnail.png" group-title="EXYU ⋅ BALKAN PINK",Pink Zabava HD
+http://optimus-tv.com:8080/bayram429/bakir610/5338
+#EXTINF:-1 tvg-id="PinkWestern.rs" tvg-name="Pink Western HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink-western.png" group-title="EXYU ⋅ BALKAN PINK",Pink Western HD
+http://optimus-tv.com:8080/bayram429/bakir610/5339
+#EXTINF:-1 tvg-id="PinkThriller.rs" tvg-name="Pink Thriller HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_Thriller_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Thriller HD
+http://optimus-tv.com:8080/bayram429/bakir610/5340
+#EXTINF:-1 tvg-id="PinkSoap.rs" tvg-name="Pink Soap HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/4e401a24c35a57ead8327054c3ca6d98_400x400.png" group-title="EXYU ⋅ BALKAN PINK",Pink Soap HD
+http://optimus-tv.com:8080/bayram429/bakir610/5341
+#EXTINF:-1 tvg-id="PinkSerije.rs" tvg-name="Pink Serije HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_Serije_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Serije HD
+http://optimus-tv.com:8080/bayram429/bakir610/5342
+#EXTINF:-1 tvg-id="PinkKids.rs" tvg-name="Pink Kids HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/PINK_KIDS.png" group-title="EXYU ⋅ BALKAN PINK",Pink Kids HD
+http://optimus-tv.com:8080/bayram429/bakir610/5343
+#EXTINF:-1 tvg-id="PinkAction.rs" tvg-name="Pink Action HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink-action.png" group-title="EXYU ⋅ BALKAN PINK",Pink Action HD
+http://optimus-tv.com:8080/bayram429/bakir610/5344
+#EXTINF:-1 tvg-id="PinkSciFiFantasy.rs" tvg-name="Pink Sci-fi & Fantasy HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_SciFi_Fantasy_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Sci-fi & Fantasy HD
+http://optimus-tv.com:8080/bayram429/bakir610/5345
+#EXTINF:-1 tvg-id="PinkRomance.rs" tvg-name="Pink Romance HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indzsir.png" group-title="EXYU ⋅ BALKAN PINK",Pink Romance HD
+http://optimus-tv.com:8080/bayram429/bakir610/5346
+#EXTINF:-1 tvg-id="PinkReality.rs" tvg-name="Pink Reality HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_TV_logo_cc2012%20(1).png" group-title="EXYU ⋅ BALKAN PINK",Pink Reality HD
+http://optimus-tv.com:8080/bayram429/bakir610/5347
+#EXTINF:-1 tvg-id="PinkPremium.rs" tvg-name="Pink Premium HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pinkPremium.png" group-title="EXYU ⋅ BALKAN PINK",Pink Premium HD
+http://optimus-tv.com:8080/bayram429/bakir610/5348
+#EXTINF:-1 tvg-id="PinkPlus.rs" tvg-name="PINK PLUS HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_TV_logo_2gt012%20(1).png" group-title="EXYU ⋅ BALKAN PINK",PINK PLUS HD
+http://optimus-tv.com:8080/bayram429/bakir610/5349
+#EXTINF:-1 tvg-id="PinkHorror.rs" tvg-name="Pink Horor HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pinkHorror.png" group-title="EXYU ⋅ BALKAN PINK",Pink Horor HD
+http://optimus-tv.com:8080/bayram429/bakir610/5351
+#EXTINF:-1 tvg-id="PinkFilm.rs" tvg-name="Pink Film HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink%20Film%20HD.png" group-title="EXYU ⋅ BALKAN PINK",Pink Film HD
+http://optimus-tv.com:8080/bayram429/bakir610/5352
+#EXTINF:-1 tvg-id="PinkExtra.rs" tvg-name="Pink Extra HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_TV_logo_2012.png" group-title="EXYU ⋅ BALKAN PINK",Pink Extra HD
+http://optimus-tv.com:8080/bayram429/bakir610/5353
+#EXTINF:-1 tvg-id="PinkCrimeMystery.rs" tvg-name="Pink Crime & Mistery HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_Crime_Mistery_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Crime & Mistery HD
+http://optimus-tv.com:8080/bayram429/bakir610/5354
+#EXTINF:-1 tvg-id="PinkComedy.rs" tvg-name="Pink Comedy HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/123-1234973_file-history-pink-comedy-png.png" group-title="EXYU ⋅ BALKAN PINK",Pink Comedy HD
+http://optimus-tv.com:8080/bayram429/bakir610/5355
+#EXTINF:-1 tvg-id="PinkClassic.rs" tvg-name="Pink Classic HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/184128_6a96cb8107e0f4421ea14a473cb3c205.png" group-title="EXYU ⋅ BALKAN PINK",Pink Classic HD
+http://optimus-tv.com:8080/bayram429/bakir610/5356
+#EXTINF:-1 tvg-id="pink1.rs" tvg-name="Pink HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/3275775-middle.png" group-title="EXYU ⋅ BALKAN PINK",Pink HD
+http://optimus-tv.com:8080/bayram429/bakir610/5357
+#EXTINF:-1 tvg-id="PinkKuvar.rs" tvg-name="Pink Kuvar HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_Kuvar_logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Kuvar HD
+http://optimus-tv.com:8080/bayram429/bakir610/5358
+#EXTINF:-1 tvg-id="PinkKoncert.rs" tvg-name="Pink Koncert" tvg-logo="http://onecentcdn.com/newpicon/exyu/RTV_Pink.png" group-title="EXYU ⋅ BALKAN PINK",Pink Koncert
+http://optimus-tv.com:8080/bayram429/bakir610/5359
+#EXTINF:-1 tvg-id="PinkFashion.rs" tvg-name="Pink Fashion" tvg-logo="http://onecentcdn.com/newpicon/exyu/Fashion_TV_logo.svg.png" group-title="EXYU ⋅ BALKAN PINK",Pink Fashion
+http://optimus-tv.com:8080/bayram429/bakir610/5360
+#EXTINF:-1 tvg-id="pink1.rs" tvg-name="Pink 1" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_1dd_rs.png" group-title="EXYU ⋅ BALKAN PINK",Pink 1
+http://optimus-tv.com:8080/bayram429/bakir610/5329
+#EXTINF:-1 tvg-id="" tvg-name="PINK 2 RED TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/RedTV-Srbija-Logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK 2 RED TV
+http://optimus-tv.com:8080/bayram429/bakir610/5330
+#EXTINF:-1 tvg-id="PinkM.me" tvg-name="PINK M HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Pink_Media_M.png" group-title="EXYU ⋅ BALKAN PINK",PINK M HD
+http://optimus-tv.com:8080/bayram429/bakir610/5651
+#EXTINF:-1 tvg-id="PinkMovies.rs" tvg-name="PINK MOVIES HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20movies%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK MOVIES HD
+http://optimus-tv.com:8080/bayram429/bakir610/5849
+#EXTINF:-1 tvg-id="PinkWorld.rs" tvg-name="PINK WORLD HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20world%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK WORLD HD
+http://optimus-tv.com:8080/bayram429/bakir610/5851
+#EXTINF:-1 tvg-id="" tvg-name="PINK LOL HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20lol%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK LOL HD
+http://optimus-tv.com:8080/bayram429/bakir610/5864
+#EXTINF:-1 tvg-id="pinkhaha.rs" tvg-name="PINK HAHA HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20haha%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK HAHA HD
+http://optimus-tv.com:8080/bayram429/bakir610/5865
+#EXTINF:-1 tvg-id="PinkFamily.rs" tvg-name="PINK FAMILY" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20family%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK FAMILY
+http://optimus-tv.com:8080/bayram429/bakir610/5867
+#EXTINF:-1 tvg-id="Zadruga1.rs" tvg-name="PINK ZADRUGA 1 - 24/7 HD+" tvg-logo="http://onecentcdn.com/newpicon/exyu/zadruga%20tv%20logo%20.png" group-title="EXYU ⋅ BALKAN PINK",PINK ZADRUGA 1 - 24/7 HD+
+http://optimus-tv.com:8080/bayram429/bakir610/5869
+#EXTINF:-1 tvg-id="Zadruga2.rs" tvg-name="PINK ZADRUGA 2 - 24/7" tvg-logo="http://onecentcdn.com/newpicon/exyu/zadruga%20tv%20logo%20.png" group-title="EXYU ⋅ BALKAN PINK",PINK ZADRUGA 2 - 24/7
+http://optimus-tv.com:8080/bayram429/bakir610/5870
+#EXTINF:-1 tvg-id="Zadruga3.rs" tvg-name="PINK ZADRUGA 3 - 24/7" tvg-logo="http://onecentcdn.com/newpicon/exyu/zadruga%20tv%20logo%20.png" group-title="EXYU ⋅ BALKAN PINK",PINK ZADRUGA 3 - 24/7
+http://optimus-tv.com:8080/bayram429/bakir610/5871
+#EXTINF:-1 tvg-id="Zadruga4.rs" tvg-name="PINK ZADRUGA 4 - 24/7" tvg-logo="http://onecentcdn.com/newpicon/exyu/zadruga%20tv%20logo%20.png" group-title="EXYU ⋅ BALKAN PINK",PINK ZADRUGA 4 - 24/7
+http://optimus-tv.com:8080/bayram429/bakir610/5872
+#EXTINF:-1 tvg-id="RockRoll.rs" tvg-name="PINK & ROLL" tvg-logo="http://cms.titaniptv.com/epg/logo/Pink%26Roll.png" group-title="EXYU ⋅ BALKAN PINK",PINK & ROLL
+http://optimus-tv.com:8080/bayram429/bakir610/6010
+#EXTINF:-1 tvg-id="BravoMusic.rs" tvg-name="PINK BRAVO MUSIC" tvg-logo="http://onecentcdn.com/newpicon/exyu/PINK%20BRAVO%20MUSIC%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK BRAVO MUSIC
+http://optimus-tv.com:8080/bayram429/bakir610/6011
+#EXTINF:-1 tvg-id="PinkShow.rs" tvg-name="Pink Show" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20show%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Show
+http://optimus-tv.com:8080/bayram429/bakir610/220735
+#EXTINF:-1 tvg-id="PinkStyle.rs" tvg-name="Pink Style HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20show%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",Pink Style HD
+http://optimus-tv.com:8080/bayram429/bakir610/220788
+#EXTINF:-1 tvg-id="" tvg-name="PINK VESTI HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pink%20show%20tv%20logo.png" group-title="EXYU ⋅ BALKAN PINK",PINK VESTI HD
+http://optimus-tv.com:8080/bayram429/bakir610/220951
+#EXTINF:-1 tvg-id="" tvg-name="PEPA PRASE" tvg-logo="" group-title="EXYU ⋅ BALKAN KIDS",PEPA PRASE
+http://optimus-tv.com:8080/bayram429/bakir610/547818
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 3 Kids" tvg-logo="" group-title="EXYU ⋅ BALKAN KIDS",MaxCRO Select 3 Kids
+http://optimus-tv.com:8080/bayram429/bakir610/454171
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select KIDS 2" tvg-logo="http://iptvtelekom.com/newpicon/exyu/maxlogo.png" group-title="EXYU ⋅ BALKAN KIDS",MaxCRO Select KIDS 2
+http://optimus-tv.com:8080/bayram429/bakir610/454166
+#EXTINF:-1 tvg-id="Pikaboo.rs" tvg-name="PIKABOO" tvg-logo="http://onecentcdn.com/newpicon/exyu/pikaboo_logo%20(1).png" group-title="EXYU ⋅ BALKAN KIDS",PIKABOO
+http://optimus-tv.com:8080/bayram429/bakir610/432846
+#EXTINF:-1 tvg-id="" tvg-name="PINK PANTHER TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiuvr.png" group-title="EXYU ⋅ BALKAN KIDS",PINK PANTHER TV
+http://optimus-tv.com:8080/bayram429/bakir610/5439
+#EXTINF:-1 tvg-id="PinkSuperKids.rs" tvg-name="Pink Super Kids HD+" tvg-logo="http://onecentcdn.com/newpicon/exyu/pinkkidslogo.png" group-title="EXYU ⋅ BALKAN KIDS",Pink Super Kids HD+
+http://optimus-tv.com:8080/bayram429/bakir610/5441
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/BabyTVlogo.png" group-title="EXYU ⋅ BALKAN KIDS",Baby TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5448
+#EXTINF:-1 tvg-id="" tvg-name="MAXCRO SELECT KIDS HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/maxlogo.png" group-title="EXYU ⋅ BALKAN KIDS",MAXCRO SELECT KIDS HD
+http://optimus-tv.com:8080/bayram429/bakir610/5979
+#EXTINF:-1 tvg-id="DisneyChannelBulgaria.bg" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/disneyjuniorlogo.png" group-title="EXYU ⋅ BALKAN KIDS",DISNEY JUNIOR HD
+http://optimus-tv.com:8080/bayram429/bakir610/5978
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY CHANNEL" tvg-logo="http://onecentcdn.com/newpicon/exyu/tomandjerrylogo.png" group-title="EXYU ⋅ BALKAN KIDS",TOM & JERRY CHANNEL
+http://optimus-tv.com:8080/bayram429/bakir610/5977
+#EXTINF:-1 tvg-id="" tvg-name="MASA I MEDO HD+" tvg-logo="http://onecentcdn.com/newpicon/exyu/mashalogo.png" group-title="EXYU ⋅ BALKAN KIDS",MASA I MEDO HD+
+http://optimus-tv.com:8080/bayram429/bakir610/5972
+#EXTINF:-1 tvg-id="MinimaxSerbia.rs" tvg-name="MINIMAX HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/minimaxlogo.png" group-title="EXYU ⋅ BALKAN KIDS",MINIMAX HD
+http://optimus-tv.com:8080/bayram429/bakir610/5960
+#EXTINF:-1 tvg-id="DuckTVSD.sk" tvg-name="DUCK TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/ducktvlogo.png" group-title="EXYU ⋅ BALKAN KIDS",DUCK TV
+http://optimus-tv.com:8080/bayram429/bakir610/5964
+#EXTINF:-1 tvg-id="NickJrCroatia.hr" tvg-name="Nick JR HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/nickjrlogo.png" group-title="EXYU ⋅ BALKAN KIDS",Nick JR HD
+http://optimus-tv.com:8080/bayram429/bakir610/220726
+#EXTINF:-1 tvg-id="disneychannel.rs" tvg-name="Disney Channel HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/disneychannellogo.png" group-title="EXYU ⋅ BALKAN KIDS",Disney Channel HD
+http://optimus-tv.com:8080/bayram429/bakir610/220727
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL Kockica HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/rtlkockicalogo.png" group-title="EXYU ⋅ BALKAN KIDS",RTL Kockica HD
+http://optimus-tv.com:8080/bayram429/bakir610/220729
+#EXTINF:-1 tvg-id="BoomerangCEE.us" tvg-name="Boomerang HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/boomeranglogo.png" group-title="EXYU ⋅ BALKAN KIDS",Boomerang HD
+http://optimus-tv.com:8080/bayram429/bakir610/220730
+#EXTINF:-1 tvg-id="CartoonNetworkRussia.ru" tvg-name="Cartoon Network HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/cartoonnetworklogo.png" group-title="EXYU ⋅ BALKAN KIDS",Cartoon Network HD
+http://optimus-tv.com:8080/bayram429/bakir610/220731
+#EXTINF:-1 tvg-id="Hayatovci.ba" tvg-name="HAYATOVCI" tvg-logo="http://onecentcdn.com/newpicon/exyu/png-clipart-bosnia-and-herzegovina-graphic-design-logo-television-design-television-text.png" group-title="EXYU ⋅ BALKAN KIDS",HAYATOVCI
+http://optimus-tv.com:8080/bayram429/bakir610/220732
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 1 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 1 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5367
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 2 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 2 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5368
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 3 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 3 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5369
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 4 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 4 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5370
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 5 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 5 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5371
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 6 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 6 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5372
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 7 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/balkan-yogurt-logo-0C7AA32F28-seeklogo.com.png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 7 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/220719
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 8 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 8 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5373
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 9 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 9 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5374
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 10 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/indiffr%20(1).png" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 10 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/5375
+#EXTINF:-1 tvg-id="" tvg-name="MaxCRO Select 11 FullHD" tvg-logo="" group-title="EXYU ⋅ BALKAN CINEMA",MaxCRO Select 11 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/452239
+#EXTINF:-1 tvg-id="CineStarTVPremiere1.hr" tvg-name="CineStar Premiere 1 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/CineStar_TV_premiere_1_logo.png" group-title="EXYU ⋅ BALKAN CINEMA",CineStar Premiere 1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5390
+#EXTINF:-1 tvg-id="CineStarTVPremiere2.hr" tvg-name="CineStar Premiere 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/CineStar_TV_premiere_2_logo.png" group-title="EXYU ⋅ BALKAN CINEMA",CineStar Premiere 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5393
+#EXTINF:-1 tvg-id="CineStarTVFantasy.hr" tvg-name="Cinestar Fantasy HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/cinestar-tv-fantasy-hd.png" group-title="EXYU ⋅ BALKAN CINEMA",Cinestar Fantasy HD
+http://optimus-tv.com:8080/bayram429/bakir610/5399
+#EXTINF:-1 tvg-id="CineStarTV1Serbia.rs" tvg-name="CineStar TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/Cinestar%20TV1%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",CineStar TV
+http://optimus-tv.com:8080/bayram429/bakir610/6180
+#EXTINF:-1 tvg-id="CineStarTVActionSerbia.rs" tvg-name="Cinestar Action HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/CineStar_Action_&_Thriller.png" group-title="EXYU ⋅ BALKAN CINEMA",Cinestar Action HD
+http://optimus-tv.com:8080/bayram429/bakir610/6182
+#EXTINF:-1 tvg-id="CineStarTVComedy.hr" tvg-name="Cinestar Comedy" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/cinestartv_comedy_logo.png" group-title="EXYU ⋅ BALKAN CINEMA",Cinestar Comedy
+http://optimus-tv.com:8080/bayram429/bakir610/446631
+#EXTINF:-1 tvg-id="hbohd.rs" tvg-name="HBO 1 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/40-402430_hbo-premiere-dates-hbo-channel-logo-png.png" group-title="EXYU ⋅ BALKAN CINEMA",HBO 1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5404
+#EXTINF:-1 tvg-id="hbo2hd.rs" tvg-name="HBO 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/HBO_2_HD_Logo_Poland.png" group-title="EXYU ⋅ BALKAN CINEMA",HBO 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5405
+#EXTINF:-1 tvg-id="hbo3.bg" tvg-name="HBO 3 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/hbo3%20tv%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",HBO 3 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5406
+#EXTINF:-1 tvg-id="rtl.hr" tvg-name="HBO Adria" tvg-logo="http://onecentcdn.com/newpicon/exyu/ceu_contact_logo_adria.png" group-title="EXYU ⋅ BALKAN CINEMA",HBO Adria
+http://optimus-tv.com:8080/bayram429/bakir610/5520
+#EXTINF:-1 tvg-id="FoxCrimeSerbia.rs" tvg-name="Fox Crime HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/FOX_Crime_BG.png" group-title="EXYU ⋅ BALKAN CINEMA",Fox Crime HD
+http://optimus-tv.com:8080/bayram429/bakir610/5414
+#EXTINF:-1 tvg-id="FoxMoviesSlovenia.si" tvg-name="Fox Movies" tvg-logo="http://onecentcdn.com/newpicon/exyu/Fox%20Movies%20tv%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",Fox Movies
+http://optimus-tv.com:8080/bayram429/bakir610/6190
+#EXTINF:-1 tvg-id="FoxLifeSerbia.rs" tvg-name="Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="EXYU ⋅ BALKAN CINEMA",Fox Life
+http://optimus-tv.com:8080/bayram429/bakir610/446633
+#EXTINF:-1 tvg-id="CinemaxCroatia.hr" tvg-name="Cinemax HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/336-3361208_zoom-link-cinemax-hd-channel-logo.png" group-title="EXYU ⋅ BALKAN CINEMA",Cinemax HD
+http://optimus-tv.com:8080/bayram429/bakir610/6187
+#EXTINF:-1 tvg-id="Cinemax2Croatia.hr" tvg-name="Cinemax 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/CINEMAX_2_logo.png" group-title="EXYU ⋅ BALKAN CINEMA",Cinemax 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/6188
+#EXTINF:-1 tvg-id="M1Film.hr" tvg-name="M1 Film HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/612-6121103_m1-logo-2012-m1-tv-hd-png-download.png" group-title="EXYU ⋅ BALKAN CINEMA",M1 Film HD
+http://optimus-tv.com:8080/bayram429/bakir610/6178
+#EXTINF:-1 tvg-id="M1Gold.hr" tvg-name="M1 Gold HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/gold%20tv%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",M1 Gold HD
+http://optimus-tv.com:8080/bayram429/bakir610/6179
+#EXTINF:-1 tvg-id="cinemania.rs" tvg-name="Cinemania" tvg-logo="http://onecentcdn.com/newpicon/exyu/Cinemania-logo_(2006-2016).png" group-title="EXYU ⋅ BALKAN CINEMA",Cinemania
+http://optimus-tv.com:8080/bayram429/bakir610/5401
+#EXTINF:-1 tvg-id="EpicDrama.se" tvg-name="Epic Drama" tvg-logo="http://onecentcdn.com/newpicon/exyu/2715398-middle.png" group-title="EXYU ⋅ BALKAN CINEMA",Epic Drama
+http://optimus-tv.com:8080/bayram429/bakir610/5403
+#EXTINF:-1 tvg-id="KinoTV.hr" tvg-name="Kino tv HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/KinoTV-logo-black.png" group-title="EXYU ⋅ BALKAN CINEMA",Kino tv HD
+http://optimus-tv.com:8080/bayram429/bakir610/6171
+#EXTINF:-1 tvg-id="SuperstarTV.rs" tvg-name="Superstar tv HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Superstar%20TV%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",Superstar tv HD
+http://optimus-tv.com:8080/bayram429/bakir610/6173
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSTAR TV 2 HD" tvg-logo="http://falcon.ac:5000/images/exyu/superstar2tvhd.png" group-title="EXYU ⋅ BALKAN CINEMA",SUPERSTAR TV 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/645874
+#EXTINF:-1 tvg-id="PickboxTV.hr" tvg-name="Pickbox tv HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/pickbox%20tv%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",Pickbox tv HD
+http://optimus-tv.com:8080/bayram429/bakir610/6174
+#EXTINF:-1 tvg-id="TV1000East.ru" tvg-name="TV 1000" tvg-logo="http://onecentcdn.com/newpicon/TR/tv1000.png" group-title="EXYU ⋅ BALKAN CINEMA",TV 1000
+http://optimus-tv.com:8080/bayram429/bakir610/446634
+#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="Axn HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/axn%20tv%20logo.png" group-title="EXYU ⋅ BALKAN CINEMA",Axn HD
+http://optimus-tv.com:8080/bayram429/bakir610/6194
+#EXTINF:-1 tvg-id="DivaAdria.us" tvg-name="Diva HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Diva%20tv%20logo%20png.png" group-title="EXYU ⋅ BALKAN CINEMA",Diva HD
+http://optimus-tv.com:8080/bayram429/bakir610/6195
+#EXTINF:-1 tvg-id="KlasikTV.hr" tvg-name="Klasik HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/65-652336_logo-vh1-clasgsic-vh1-classic-channel-logo-hd.png" group-title="EXYU ⋅ BALKAN CINEMA",Klasik HD
+http://optimus-tv.com:8080/bayram429/bakir610/6196
+#EXTINF:-1 tvg-id="FilmBoxExtraHDAdria.us" tvg-name="FilmBox Extra HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/filmboxextrahd-logo.png" group-title="EXYU ⋅ BALKAN CINEMA",FilmBox Extra HD
+http://optimus-tv.com:8080/bayram429/bakir610/5415
+#EXTINF:-1 tvg-id="filmboxplus.bg" tvg-name="FilmBox Plus HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/144919258965643506.png" group-title="EXYU ⋅ BALKAN CINEMA",FilmBox Plus HD
+http://optimus-tv.com:8080/bayram429/bakir610/5416
+#EXTINF:-1 tvg-id="" tvg-name="ALTEA HD" tvg-logo="https://i.imgur.com/OoVPGoV.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",ALTEA HD
+http://optimus-tv.com:8080/bayram429/bakir610/660639
+#EXTINF:-1 tvg-id="" tvg-name="EXTRA_FM" tvg-logo="https://extrafm.hr/sw-content/themes/sw/img/front-extra-web.jpg" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",EXTRA_FM
+http://optimus-tv.com:8080/bayram429/bakir610/660638
+#EXTINF:-1 tvg-id="" tvg-name="Ex_YU: GRAND TV NARODNA HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/grand%20tv%20logo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",Ex_YU: GRAND TV NARODNA HD
+http://optimus-tv.com:8080/bayram429/bakir610/220756
+#EXTINF:-1 tvg-id="" tvg-name="YU PLANET FULLHD" tvg-logo="http://ott.global-telecom.eu:25461/images/317b10c39e994e027af6d5a11370b962.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",YU PLANET FULLHD
+http://optimus-tv.com:8080/bayram429/bakir610/488661
+#EXTINF:-1 tvg-id="" tvg-name="KAFANSKA TV HD" tvg-logo="http://tesslatv.net:8000/images/f69caa54621beca2bb10e6c1dc50eadf.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",KAFANSKA TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/488317
+#EXTINF:-1 tvg-id="Grand.rs" tvg-name="GRAND TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/grandlogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",GRAND TV
+http://optimus-tv.com:8080/bayram429/bakir610/6026
+#EXTINF:-1 tvg-id="PinkFolk2.rs" tvg-name="PINK FOLK 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/PinskFolk1_logo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",PINK FOLK 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/426853
+#EXTINF:-1 tvg-id="" tvg-name="DUGA TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/unnamedlytg.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",DUGA TV
+http://optimus-tv.com:8080/bayram429/bakir610/425357
+#EXTINF:-1 tvg-id="BalkanikaMusicTV.bg" tvg-name="BALKANIKA MUSIC TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/balkanikalogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",BALKANIKA MUSIC TV
+http://optimus-tv.com:8080/bayram429/bakir610/5452
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM SAT" tvg-logo="http://onecentcdn.com/newpicon/exyu/dmsatlogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",DM SAT
+http://optimus-tv.com:8080/bayram429/bakir610/5453
+#EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/cmclogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",CMC HD
+http://optimus-tv.com:8080/bayram429/bakir610/5456
+#EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure ♫" tvg-logo="" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",Klape i Tambure ♫
+http://optimus-tv.com:8080/bayram429/bakir610/660640
+#EXTINF:-1 tvg-id="" tvg-name="BANOVINA TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/banovinalogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",BANOVINA TV
+http://optimus-tv.com:8080/bayram429/bakir610/5458
+#EXTINF:-1 tvg-id="kcn1.rs" tvg-name="KCN 1" tvg-logo="http://onecentcdn.com/newpicon/exyu/kcn1logo.png" group-title="SRB ⋅ REPUBLIKA SRBIJA",KCN 1
+http://optimus-tv.com:8080/bayram429/bakir610/5459
+#EXTINF:-1 tvg-id="kcn2music.rs" tvg-name="KCN 2" tvg-logo="http://onecentcdn.com/newpicon/exyu/kcn2logo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",KCN 2
+http://optimus-tv.com:8080/bayram429/bakir610/5460
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV FULLHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/ldjlogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",IDJ TV FULLHD
+http://optimus-tv.com:8080/bayram429/bakir610/6149
+#EXTINF:-1 tvg-id="PinkHits2.rs" tvg-name="PINK HITS 2" tvg-logo="http://onecentcdn.com/newpicon/exyu/pinkfolk1logo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",PINK HITS 2
+http://optimus-tv.com:8080/bayram429/bakir610/6151
+#EXTINF:-1 tvg-id="" tvg-name="IZVORNA TV FULLHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/izvornalogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",IZVORNA TV FULLHD
+http://optimus-tv.com:8080/bayram429/bakir610/6164
+#EXTINF:-1 tvg-id="JugotonTV.hr" tvg-name="JUGOTON TV" tvg-logo="http://onecentcdn.com/newpicon/exyu/jugotonlogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",JUGOTON TV
+http://optimus-tv.com:8080/bayram429/bakir610/6166
+#EXTINF:-1 tvg-id="" tvg-name="BOSANSKO POSAVSKA TV HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/bosanskologo2.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",BOSANSKO POSAVSKA TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/6168
+#EXTINF:-1 tvg-id="HayatMusic.ba" tvg-name="HAYAT MUSIC" tvg-logo="http://onecentcdn.com/newpicon/exyu/hayatmusiclogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",HAYAT MUSIC
+http://optimus-tv.com:8080/bayram429/bakir610/5573
+#EXTINF:-1 tvg-id="HayatFolk.ba" tvg-name="HAYAT FOLK HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/hayatfolklogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",HAYAT FOLK HD
+http://optimus-tv.com:8080/bayram429/bakir610/5574
+#EXTINF:-1 tvg-id="BNMusic.ba" tvg-name="BN MUSIC FULLHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/bnmusiclogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",BN MUSIC FULLHD
+http://optimus-tv.com:8080/bayram429/bakir610/5578
+#EXTINF:-1 tvg-id="HemaTV.ba" tvg-name="HEMA TV HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/hemalogo.png" group-title="BIH ⋅ BOSNA I HERCEGOVINA",HEMA TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5598
+#EXTINF:-1 tvg-id="OTVValentino.ba" tvg-name="OTV VALENTINO" tvg-logo="http://onecentcdn.com/newpicon/exyu/Logo_of_OTV_Valentino.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",OTV VALENTINO
+http://optimus-tv.com:8080/bayram429/bakir610/5588
+#EXTINF:-1 tvg-id="mtvdance.ro" tvg-name="X TOXIC FULLHD" tvg-logo="https://onecentcdn.com/newpicon/UK_logo/uk_unitedKindom_logo/cHzqzzM.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",X TOXIC FULLHD
+http://optimus-tv.com:8080/bayram429/bakir610/6000
+#EXTINF:-1 tvg-id="amc.hr" tvg-name="MTV ADRIA" tvg-logo="http://onecentcdn.com/newpicon/exyu/mtvadrialogo.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",MTV ADRIA
+http://optimus-tv.com:8080/bayram429/bakir610/5998
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ ROMANTIC LOUNGE" tvg-logo="http://onecentcdn.com/newpicon/hfae/romantic128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ ROMANTIC LOUNGE
+http://optimus-tv.com:8080/bayram429/bakir610/645635
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ LATINO HITS" tvg-logo="http://onecentcdn.com/newpicon/hfae/latino128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ LATINO HITS
+http://optimus-tv.com:8080/bayram429/bakir610/645634
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ CLASSIC ROCK" tvg-logo="http://onecentcdn.com/newpicon/hfae/rockband128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ CLASSIC ROCK
+http://optimus-tv.com:8080/bayram429/bakir610/645633
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ CLASSIC ROCK 2" tvg-logo="http://onecentcdn.com/newpicon/hfae/rockband128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ CLASSIC ROCK 2
+http://optimus-tv.com:8080/bayram429/bakir610/645632
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ K-POP" tvg-logo="http://onecentcdn.com/newpicon/hfae/kpop128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ K-POP
+http://optimus-tv.com:8080/bayram429/bakir610/645631
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ DEEP HOUSE" tvg-logo="http://onecentcdn.com/newpicon/hfae/deeph128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ DEEP HOUSE
+http://optimus-tv.com:8080/bayram429/bakir610/645630
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ DEEP HOUSE II" tvg-logo="http://onecentcdn.com/newpicon/hfae/deeph128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ DEEP HOUSE II
+http://optimus-tv.com:8080/bayram429/bakir610/645629
+#EXTINF:-1 tvg-id="" tvg-name="#HFAE ⋅ ACOUSTIC LIVE" tvg-logo="http://onecentcdn.com/newpicon/hfae/ASH128.png" group-title="EXYU ⋅ BALKAN MUZICKI/MUSIC",#HFAE ⋅ ACOUSTIC LIVE
+http://optimus-tv.com:8080/bayram429/bakir610/645628
+#EXTINF:-1 tvg-id="DiscoveryChannelSerbia.rs" tvg-name="Discovery Channel HD" tvg-logo="http://onecentcdn.com/newpicon/DE_YENI/discovery-channel.png" group-title="EXYU ⋅ BALKAN DOKU",Discovery Channel HD
+http://optimus-tv.com:8080/bayram429/bakir610/5427
+#EXTINF:-1 tvg-id="AnimalPlanetSerbia.rs" tvg-name="Animal Planet" tvg-logo="http://onecentcdn.com/newpicon/exyu/animalplanetlogo.png" group-title="EXYU ⋅ BALKAN DOKU",Animal Planet
+http://optimus-tv.com:8080/bayram429/bakir610/5432
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="Travel Channel HD+" tvg-logo="http://onecentcdn.com/newpicon/exyu/travelchannellogo.png" group-title="EXYU ⋅ BALKAN DOKU",Travel Channel HD+
+http://optimus-tv.com:8080/bayram429/bakir610/5434
+#EXTINF:-1 tvg-id="Loviribolov.rs" tvg-name="Lov i Ribolov HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/loviribolovlogo.png" group-title="EXYU ⋅ BALKAN DOKU",Lov i Ribolov HD
+http://optimus-tv.com:8080/bayram429/bakir610/5438
+#EXTINF:-1 tvg-id="CrimePlusInvestigationUK.uk" tvg-name="CRIME & INVESTIGATION" tvg-logo="http://onecentcdn.com/newpicon/exyu/crimeinvestigationlogo.png" group-title="EXYU ⋅ BALKAN DOKU",CRIME & INVESTIGATION
+http://optimus-tv.com:8080/bayram429/bakir610/5921
+#EXTINF:-1 tvg-id="" tvg-name="DOKU TV HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/dokutuvlogo.png" group-title="EXYU ⋅ BALKAN DOKU",DOKU TV HD
+http://optimus-tv.com:8080/bayram429/bakir610/5926
+#EXTINF:-1 tvg-id="NationalGeographicHDSlovenia.si" tvg-name="NAT GEO WILD HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/natgeowildlogo.png" group-title="EXYU ⋅ BALKAN DOKU",NAT GEO WILD HD
+http://optimus-tv.com:8080/bayram429/bakir610/5945
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO XTRA" tvg-logo="http://onecentcdn.com/newpicon/exyu/discoveryturboextra.png" group-title="EXYU ⋅ BALKAN DOKU",DISCOVERY TURBO XTRA
+http://optimus-tv.com:8080/bayram429/bakir610/5936
+#EXTINF:-1 tvg-id="DocuBoxHD.us" tvg-name="DOCUBOX HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/docuboxlogo.png" group-title="EXYU ⋅ BALKAN DOKU",DOCUBOX HD
+http://optimus-tv.com:8080/bayram429/bakir610/5937
+#EXTINF:-1 tvg-id="ViasatHistory.se" tvg-name="VIASAT HISTORY HD+" tvg-logo="http://onecentcdn.com/newpicon/exyu/viasathistorylogo.png" group-title="EXYU ⋅ BALKAN DOKU",VIASAT HISTORY HD+
+http://optimus-tv.com:8080/bayram429/bakir610/5941
+#EXTINF:-1 tvg-id="BBCEarthRomania.ro" tvg-name="BBC EARTH" tvg-logo="http://onecentcdn.com/newpicon/exyu/bbcearthlogo.png" group-title="EXYU ⋅ BALKAN DOKU",BBC EARTH
+http://optimus-tv.com:8080/bayram429/bakir610/5929
+#EXTINF:-1 tvg-id="24KitchenSerbia.rs" tvg-name="24 KITCHEN HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/24Kitchenlogo.png" group-title="EXYU ⋅ BALKAN DOKU",24 KITCHEN HD
+http://optimus-tv.com:8080/bayram429/bakir610/5947
+#EXTINF:-1 tvg-id="InvestigationDiscoveryEurope.us" tvg-name="Discovery ID" tvg-logo="http://onecentcdn.com/newpicon/exyu/discoveryidlogo.png" group-title="EXYU ⋅ BALKAN DOKU",Discovery ID
+http://optimus-tv.com:8080/bayram429/bakir610/5420
+#EXTINF:-1 tvg-id="PlanetEarth.bg" tvg-name="Planet Earth HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/planetearthlogo.png" group-title="EXYU ⋅ BALKAN DOKU",Planet Earth HD
+http://optimus-tv.com:8080/bayram429/bakir610/220702
+#EXTINF:-1 tvg-id="NationalGeographicCroatia.hr" tvg-name="National Geographic HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/natgeologo.png" group-title="EXYU ⋅ BALKAN DOKU",National Geographic HD
+http://optimus-tv.com:8080/bayram429/bakir610/220704
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="Discovery Science HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/discoverysciencelogo.png" group-title="EXYU ⋅ BALKAN DOKU",Discovery Science HD
+http://optimus-tv.com:8080/bayram429/bakir610/220825
+#EXTINF:-1 tvg-id="FoodNetworkEMEA.us" tvg-name="Food Network" tvg-logo="http://onecentcdn.com/newpicon/exyu/foodnetworklogo.png" group-title="EXYU ⋅ BALKAN DOKU",Food Network
+http://optimus-tv.com:8080/bayram429/bakir610/220711
+#EXTINF:-1 tvg-id="" tvg-name="FASHION & LIFESTYLE" tvg-logo="http://onecentcdn.com/newpicon/exyu/fashionboxlogo.png" group-title="EXYU ⋅ BALKAN DOKU",FASHION & LIFESTYLE
+http://optimus-tv.com:8080/bayram429/bakir610/220713
+#EXTINF:-1 tvg-id="ViasatExplore.se" tvg-name="Viasat Explorer" tvg-logo="http://onecentcdn.com/newpicon/exyu/viasatexplorerlogo.png" group-title="EXYU ⋅ BALKAN DOKU",Viasat Explorer
+http://optimus-tv.com:8080/bayram429/bakir610/220827
+#EXTINF:-1 tvg-id="ViasatNature.se" tvg-name="Viasat Nature" tvg-logo="http://onecentcdn.com/newpicon/exyu/viasatnaturelogo.png" group-title="EXYU ⋅ BALKAN DOKU",Viasat Nature
+http://optimus-tv.com:8080/bayram429/bakir610/220828
+#EXTINF:-1 tvg-id="FoxLifeSerbia.rs" tvg-name="FOX Life" tvg-logo="http://onecentcdn.com/newpicon/exyu/foxlifelogo.png" group-title="EXYU ⋅ BALKAN DOKU",FOX Life
+http://optimus-tv.com:8080/bayram429/bakir610/220870
+#EXTINF:-1 tvg-id="maxsport1.hr" tvg-name="Max Sport 1 FullHD HR" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2762.png" group-title="EXYU ⋅ BALKAN SPORT",Max Sport 1 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/483910
+#EXTINF:-1 tvg-id="maxsport2.hr" tvg-name="Max Sport 2 FullHD HR" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-max-sport-2-1435.png" group-title="EXYU ⋅ BALKAN SPORT",Max Sport 2 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/483911
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1  HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 1  HR
+http://optimus-tv.com:8080/bayram429/bakir610/5479
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2  HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/Arena%20Sport%202%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 2  HR
+http://optimus-tv.com:8080/bayram429/bakir610/5475
+#EXTINF:-1 tvg-id="ArenaSport3Croatia.hr" tvg-name="Arena Sport 3  HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 3  HR
+http://optimus-tv.com:8080/bayram429/bakir610/5481
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4  HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 4  HR
+http://optimus-tv.com:8080/bayram429/bakir610/5477
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="Arena Sport 5  HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 5  HR
+http://optimus-tv.com:8080/bayram429/bakir610/5478
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 7 HR" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_arena7.png" group-title="EXYU ⋅ BALKAN SPORT",ARENA SPORT 7 HR
+http://optimus-tv.com:8080/bayram429/bakir610/561909
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 8 HR" tvg-logo="http://ott.global-telecom.eu:25461/images/d69f207730dfb7d3e456b72b87c2a76e.png" group-title="EXYU ⋅ BALKAN SPORT",ARENA SPORT 8 HR
+http://optimus-tv.com:8080/bayram429/bakir610/648645
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 9 HR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arena-sport-9-rs-hr.png" group-title="EXYU ⋅ BALKAN SPORT",ARENA SPORT 9 HR
+http://optimus-tv.com:8080/bayram429/bakir610/648650
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport EX" tvg-logo="http://ott.global-telecom.eu:25461/images/5c66b7e5eb816f49f371990940f34667.png" group-title="EXYU ⋅ BALKAN SPORT",Nova Sport EX
+http://optimus-tv.com:8080/bayram429/bakir610/490549
+#EXTINF:-1 tvg-id="" tvg-name="MOJA TV BiH" tvg-logo="https://static.zdici.info/big/2020/01/moja-tv.png" group-title="EXYU ⋅ BALKAN SPORT",MOJA TV BiH
+http://optimus-tv.com:8080/bayram429/bakir610/644186
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="ARENA SPORT 1 (BIH)" tvg-logo="http://logo.smart-iptvpro.info/172.ba.png" group-title="EXYU ⋅ BALKAN SPORT",ARENA SPORT 1 (BIH)
+http://optimus-tv.com:8080/bayram429/bakir610/484729
+#EXTINF:-1 tvg-id="arenapremium1.rs" tvg-name="Arena Sport Premium 1 SRB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arena-premium-1-rs.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport Premium 1 SRB
+http://optimus-tv.com:8080/bayram429/bakir610/642680
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport Premium 2  SRB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arena-premium-2-rs.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport Premium 2  SRB
+http://optimus-tv.com:8080/bayram429/bakir610/648689
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport Premium 3  SRB" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arena-premium-3-rs.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport Premium 3  SRB
+http://optimus-tv.com:8080/bayram429/bakir610/648703
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="Arena Sport 1 FullHD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%201%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 1 FullHD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/220767
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="Arena Sport 2 Full HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/Arena%20Sport%202%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 2 Full HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/5480
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3 Full HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 3 Full HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/413802
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="Arena Sport 4 Full HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 4 Full HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/5482
+#EXTINF:-1 tvg-id="1plus1.pt" tvg-name="Arena Sport 5 Full HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/arena%20sport%205%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Arena Sport 5 Full HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/5483
+#EXTINF:-1 tvg-id="" tvg-name="ARENA Sport 8 FullHD SRB" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_8_RS_logo.png" group-title="EXYU ⋅ BALKAN SPORT",ARENA Sport 8 FullHD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/644187
+#EXTINF:-1 tvg-id="SportKlub1Croatia.hr" tvg-name="Sport Klub 1 FullHD HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/Sport%20Klub%201%20SR%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 1 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/220772
+#EXTINF:-1 tvg-id="SportKlub2Serbia.rs" tvg-name="Sport Klub 2 FullHD HR" tvg-logo="http://onecentcdn.com/newpicon/store/deneme/sk2.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 2 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/5486
+#EXTINF:-1 tvg-id="SportKlub3.rs" tvg-name="Sport Klub 3 FullHD HR" tvg-logo="http://onecentcdn.com/newpicon/store/deneme/sk3.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 3 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/5487
+#EXTINF:-1 tvg-id="SportKlub4.rs" tvg-name="Sport Klub 4 FullHD HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/Sport%20Klub%204%20SR%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 4 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/220778
+#EXTINF:-1 tvg-id="SportKlub5.rs" tvg-name="Sport Klub 5 FullHD HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/tv-station-cro-sportklub-5-329.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 5 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/6044
+#EXTINF:-1 tvg-id="sportklub6.rs" tvg-name="Sport Klub 6 FullHD HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/tl27mw1604074101.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 6 FullHD HR
+http://optimus-tv.com:8080/bayram429/bakir610/6045
+#EXTINF:-1 tvg-id="" tvg-name="Sport klub 6 HR" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/tl27mw1604074101.png" group-title="EXYU ⋅ BALKAN SPORT",Sport klub 6 HR
+http://optimus-tv.com:8080/bayram429/bakir610/454164
+#EXTINF:-1 tvg-id="SportKlub1Croatia.hr" tvg-name="Sport Klub HD HR" tvg-logo="http://onecentcdn.com/newpicon/exyu/_Sport%20klub%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub HD HR
+http://optimus-tv.com:8080/bayram429/bakir610/6038
+#EXTINF:-1 tvg-id="sportklub8.rs" tvg-name="Sport Klub 8 FullHD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Sport%20Klub%208%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 8 FullHD
+http://optimus-tv.com:8080/bayram429/bakir610/6228
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 FullHD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/Sport%20Klub%201%20SR%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 1 FullHD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/220775
+#EXTINF:-1 tvg-id="SportKlub2Serbia.rs" tvg-name="Sport Klub 2 FullHD SRB" tvg-logo="http://onecentcdn.com/newpicon/store/deneme/sk2.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 2 FullHD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/220773
+#EXTINF:-1 tvg-id="SportKlub3.rs" tvg-name="Sport Klub 3 FullHD SRB" tvg-logo="http://onecentcdn.com/newpicon/store/deneme/sk3.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 3 FullHD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/220777
+#EXTINF:-1 tvg-id="sportklub4.rs" tvg-name="Sport Klub 4 Full HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/Sport%20Klub%204%20SR%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 4 Full HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/6224
+#EXTINF:-1 tvg-id="SportKlub5.rs" tvg-name="Sport Klub 5 HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/tv-station-cro-sportklub-5-329.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 5 HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/5489
+#EXTINF:-1 tvg-id="SportKlub6.rs" tvg-name="Sport Klub 6 HD SRB" tvg-logo="http://onecentcdn.com/newpicon/exyu/tl27mw1604074101.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 6 HD SRB
+http://optimus-tv.com:8080/bayram429/bakir610/5490
+#EXTINF:-1 tvg-id="SportKlub1Croatia.hr" tvg-name="Sport Klub 1 HD SR" tvg-logo="http://onecentcdn.com/newpicon/exyu/Sport%20Klub%201%20SR%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Sport Klub 1 HD SR
+http://optimus-tv.com:8080/bayram429/bakir610/5485
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="Eurosport 1 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/Eurosport%201%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Eurosport 1 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5503
+#EXTINF:-1 tvg-id="EuronewsSerbia.rs" tvg-name="Eurosport 2 HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/eurosport%202%20hd%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",Eurosport 2 HD
+http://optimus-tv.com:8080/bayram429/bakir610/5504
+#EXTINF:-1 tvg-id="" tvg-name="ARENA FIGHT" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Fight_RS_logo.png" group-title="EXYU ⋅ BALKAN SPORT",ARENA FIGHT
+http://optimus-tv.com:8080/bayram429/bakir610/536128
+#EXTINF:-1 tvg-id="fightchannel.rs" tvg-name="FIGHT CHANNEL HD" tvg-logo="http://onecentcdn.com/newpicon/exyu/fight%20channel%20tv%20logo.png" group-title="EXYU ⋅ BALKAN SPORT",FIGHT CHANNEL HD
+http://optimus-tv.com:8080/bayram429/bakir610/6031
