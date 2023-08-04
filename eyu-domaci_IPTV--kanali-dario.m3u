@@ -1,5 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_1.png" group-title="HRV ⋅ HRVATSKA",HRT 1 HD
+#EXTINF:-1,HR: Baby TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36600
+#EXTINF:-1,HR: BBC Earth HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27720
+#EXTINF:-1,HR: CMC TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36599
+#EXTINF:-1,HR: Doma TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36566
+#EXTINF:-1,HR: Epic Drama
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36598
+#EXTINF:-1,HR: Film Klub
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36596
+#EXTINF:-1,HR: HRT 1 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36554
+#EXTINF:-1,HR: HRT 2 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36556
+#EXTINF:-1,HR: HRT 3 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36559
+#EXTINF:-1,HR: HRT 4 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36560
+#EXTINF:-1,HR: HRT Int
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36562
+#EXTINF:-1,HR: Jugoton TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36593
+#EXTINF:-1,HR: Kino TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36592
+#EXTINF:-1,HR: Klasik TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36591
+#EXTINF:-1,HR: Laudato TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36589
+#EXTINF:-1,HR: M1 Film
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36588
+#EXTINF:-1,HR: M1 Gold
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36587
+#EXTINF:-1,HR: Mini TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36586
+#EXTINF:-1,HR: N1 Televizija
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158254
+#EXTINF:-1,HR: Nova TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36563
+#EXTINF:-1,HR: Pikaboo
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36581
+#EXTINF:-1,HR: RTL 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36565
+#EXTINF:-1,HR: RTL Crime
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36570
+#EXTINF:-1,HR: RTL HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205858
+#EXTINF:-1,HR: RTL Kockica
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36572
+#EXTINF:-1,HR: RTL Living
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36568
+#EXTINF:-1,HR: RTL Passion
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36569
+#EXTINF:-1,HR: RTL Televizija
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36571
+#EXTINF:-1,HR: Slavonska TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36580
+#EXTINF:-1,HR: TV 1000
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39759
+#EXTINF:-1,HR: Vinkovacka TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36574
+#EXTINF:-1,HR: Z1#EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1 HD" tvg-logo="http://onecentcdn.com/newpicon/hrv/hrv1/hrt_1.png" group-title="HRV ⋅ HRVATSKA",HRT 1 HD
 http://optimus-tv.com:8080/bayram429/bakir610/444346
 #EXTINF:-1 tvg-id="hrt1.hr" tvg-name="HRT 1" tvg-logo="http://onecentcdn.com/newpicon/hrv/HRT1-logo.png" group-title="HRV ⋅ HRVATSKA",HRT 1
 http://optimus-tv.com:8080/bayram429/bakir610/501843
@@ -817,3 +879,783 @@ http://xxxxlocal.com:8080/SNOOPY4226/6ktu8mipUu/6954
 http://xxxxlocal.com:8080/SNOOPY4226/6ktu8mipUu/6955
 #EXTINF:-1 tvg-id="" tvg-name="[EXYU] RTS 1" tvg-logo="" group-title="EX-YU",[EXYU] RTS 1
 http://xxxxlocal.com:8080/SNOOPY4226/6ktu8mipUu/6956
+#EXTINF:-1,RS: RTV 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205798
+#EXTINF:-1,RS: RTV 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205799
+#EXTINF:-1,RS: RTV Bor
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114109
+#EXTINF:-1,RS: PTC 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39737
+#EXTINF:-1,RS: PTC 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39738
+#EXTINF:-1,RS: PTC 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39739
+#EXTINF:-1,RS: b92
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205815
+#EXTINF:-1,RS: Prva TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205811
+#EXTINF:-1,RS: Prva Files
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205805
+#EXTINF:-1,RS: Prva World
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205804
+#EXTINF:-1,RS: PTC Svet
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39740
+#EXTINF:-1,➤ News
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/226095
+#EXTINF:-1,RS: Prva Max
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205808
+#EXTINF:-1,RS: SOS Kanal
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208009
+#EXTINF:-1,RS: Palma Plus
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208010
+#EXTINF:-1,➤ Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225852
+#EXTINF:-1,RS: PTC Muzika
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114102
+#EXTINF:-1,RS: MTV Adria
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205803
+#EXTINF:-1,RS: MTV 00'S
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/207106
+#EXTINF:-1,RS: Balkanika
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39890
+#EXTINF:-1,RS: KCN 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/14745
+#EXTINF:-1,RS: KCN 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/14871
+#EXTINF:-1,RS: KCN 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/17539
+#EXTINF:-1,RS: RTV Duga
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205795
+#EXTINF:-1,RS: City TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205801
+#EXTINF:-1,RS: PTC Kolo
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158603
+#EXTINF:-1,RS: Grand TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/28454
+#EXTINF:-1,RS: Grand TV 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/17683
+#EXTINF:-1,RS: TV Melos
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208005
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225848
+#EXTINF:-1,RS: Prva Kick
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205806
+#EXTINF:-1,RS: Prva Life
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205807
+#EXTINF:-1,RS: Food Network
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39851
+#EXTINF:-1,RS: CBS Reality
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39884
+#EXTINF:-1,RS: Happy Tv
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205792
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225850
+#EXTINF:-1,RS: Mini Ultra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39757
+#EXTINF:-1,RS: Minimax
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39829
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225854
+#EXTINF:-1,RS: Discovery Channel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39873
+#EXTINF:-1,RS: Discovery Science
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208014
+#EXTINF:-1,RS: Discovery Xtra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39867
+#EXTINF:-1,RS: Discovery Investigation
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39871
+#EXTINF:-1,RS: Crime and Investigation
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208015
+#EXTINF:-1,RS: RTV Novi Pazar
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205794
+#EXTINF:-1,RS: National Geographic HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39823
+#EXTINF:-1,RS: Nat Geo Wild HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39822
+#EXTINF:-1,RS: Viasat Nature
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39753
+#EXTINF:-1,RS: Viasat History
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208011
+#EXTINF:-1,RS: Viasat Explore
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208012
+#EXTINF:-1,RS: History Channel HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39834
+#EXTINF:-1,RS: History 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208013
+#EXTINF:-1,RS: PTC Nauka
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158635
+#EXTINF:-1,RS: PTC Trezor
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114104
+#EXTINF:-1,RS: PTC Zivot
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114105
+#EXTINF:-1,RS: Lov I Ribolov
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/28456
+#EXTINF:-1,RS: TV Mlava
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208004
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225849
+#EXTINF:-1,RS: PTC Drama
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114103
+#EXTINF:-1,RS: AXN
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114118
+#EXTINF:-1,RS: Fox
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39850
+#EXTINF:-1,RS: Fox Crime
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39848
+#EXTINF:-1,RS: Fox Movies
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39843
+#EXTINF:-1,RS: Nova Cinema
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39745
+#EXTINF:-1,RS: HBO HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39837
+#EXTINF:-1,RS: HBO 2 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39839
+#EXTINF:-1,RS: HBO 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39838
+#EXTINF:-1,RS: Prva Plus
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205809
+#EXTINF:-1,RS: Cinemania
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39882
+#EXTINF:-1,RS: Cinemax 1 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39881
+#EXTINF:-1,RS: Cinemax 2 HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39880
+#EXTINF:-1,RS: CineStar Action
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39879
+#EXTINF:-1,RS: CineStar Fantasy
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114099
+#EXTINF:-1,RS: CineStar Premiere 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39878
+#EXTINF:-1,RS: CineStar Premiere 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39877
+#EXTINF:-1,RS: Film Klub Extra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39855
+#EXTINF:-1,➤ Pink TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225853
+#EXTINF:-1,RS: Pink 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39818
+#EXTINF:-1,RS: Pink 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39817
+#EXTINF:-1,RS: Pink 3 Info
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39816
+#EXTINF:-1,RS: Pink Action
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39815
+#EXTINF:-1,RS: Pink Bravo
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39814
+#EXTINF:-1,RS: Pink classic
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158654
+#EXTINF:-1,RS: Pink Comedy
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39812
+#EXTINF:-1,RS: Pink Crime and Mystery
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158680
+#EXTINF:-1,RS: Pink Extra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27731
+#EXTINF:-1,RS: Pink Family
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39809
+#EXTINF:-1,RS: Pink Fashion
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27613
+#EXTINF:-1,RS: Pink Film
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39807
+#EXTINF:-1,RS: Pink Folk 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39806
+#EXTINF:-1,RS: Pink Folk 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39805
+#EXTINF:-1,RS: Pink HaHa
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27696
+#EXTINF:-1,RS: Pink Hits
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39803
+#EXTINF:-1,RS: Pink Hits 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27713
+#EXTINF:-1,RS: Pink Horor
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27646
+#EXTINF:-1,RS: Pink Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39800
+#EXTINF:-1,RS: Pink Koncert
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27698
+#EXTINF:-1,RS: Pink Kuvar
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27697
+#EXTINF:-1,RS: Pink LOL
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27715
+#EXTINF:-1,RS: Pink Movies
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39796
+#EXTINF:-1,RS: Pink Movies
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158684
+#EXTINF:-1,RS: Pink Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39795
+#EXTINF:-1,RS: Pink Music 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39794
+#EXTINF:-1,RS: Pink n Roll
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158681
+#EXTINF:-1,RS: Pink Pedia
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27788
+#EXTINF:-1,RS: Pink Plus
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39792
+#EXTINF:-1,RS: Pink Premium
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39791
+#EXTINF:-1,RS: Pink Reality
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39790
+#EXTINF:-1,RS: Pink Romance
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39788
+#EXTINF:-1,RS: Pink SciFi Fantasy
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39787
+#EXTINF:-1,RS: Pink Serije
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39786
+#EXTINF:-1,RS: Pink Soap
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/152282
+#EXTINF:-1,RS: Pink Super Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39783
+#EXTINF:-1,RS: Pink Thriller
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39782
+#EXTINF:-1,RS: Pink Western
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27730
+#EXTINF:-1,RS: Pink World
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27722
+#EXTINF:-1,RS: Pink World Cinema
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39779
+#EXTINF:-1,RS: Pink Zabava
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158653
+#EXTINF:-1,RS: Pink Show
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/27587
+#EXTINF:-1,RS: Arena Fight
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208006
+#EXTINF:-1,RS: Nova S
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/20913
+#EXTINF:-1,RS: Partizan TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/208007
+#EXTINF:-1,BH: BHT
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36307
+#EXTINF:-1,BH: RTRS Plus
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36324
+#EXTINF:-1,BH: RTRS
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36325
+#EXTINF:-1,BIH: ATV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/228903
+#EXTINF:-1,BH: FTV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36308
+#EXTINF:-1,BH: OBN
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36309
+#EXTINF:-1,BH: RTV Zenica
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36322
+#EXTINF:-1,BH: RTV Usk
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36323
+#EXTINF:-1,BH: RTV Sana
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114107
+#EXTINF:-1,BH: RTV Slon
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/114108
+#EXTINF:-1,BH: RTV HB
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205812
+#EXTINF:-1,BH: RTV Mir
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39743
+#EXTINF:-1,BH: RTV Cazin
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/205814
+#EXTINF:-1,BH: RTV Podrinje
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39742
+#EXTINF:-1,BH: K3 Prnjavor
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36331
+#EXTINF:-1,BH: Nova
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36310
+#EXTINF:-1,BH: Hayat TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36335
+#EXTINF:-1,BH: Hayat Plus
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36336
+#EXTINF:-1,➤ News
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/226098
+#EXTINF:-1,BH: BN TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36313
+#EXTINF:-1,BH: BN Sat
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36343
+#EXTINF:-1,BH: Posavina TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36326
+#EXTINF:-1,BH: TV Bugojno
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36318
+#EXTINF:-1,BH: Al Jazeera Balkan
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36347
+#EXTINF:-1,➤ Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225875
+#EXTINF:-1,BH: Hayat Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36337
+#EXTINF:-1,BH: Hayat Folk
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36338
+#EXTINF:-1,BH: BN Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36344
+#EXTINF:-1,BH: MTV Igman
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36330
+#EXTINF:-1,BH: Izvorna TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36332
+#EXTINF:-1,BH: Sehara TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36321
+#EXTINF:-1,BH: OTV Valentino
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36327
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225876
+#EXTINF:-1,BH: Pink BH
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36312
+#EXTINF:-1,BH: Alternativna
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36314
+#EXTINF:-1,BH: TV Sarajevo
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36315
+#EXTINF:-1,BH: TV 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36319
+#EXTINF:-1,BH: Hayatovci
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36334
+#EXTINF:-1,BH: Face TV HD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36340
+#EXTINF:-1,BH: City TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/36341
+#EXTINF:-1,BIH: Televizija 5
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145022
+#EXTINF:-1,Filmski: AMC
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214476
+#EXTINF:-1,Filmski: AXN
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214477
+#EXTINF:-1,Filmski: AXN Spin
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214478
+#EXTINF:-1,Filmski: Cinemania
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214479
+#EXTINF:-1,Filmski: Cinemax 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214480
+#EXTINF:-1,Filmski: Cinemax 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214481
+#EXTINF:-1,Filmski: Cinestar Action
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214482
+#EXTINF:-1,Filmski: CineStar Comedy
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214483
+#EXTINF:-1,Filmski: Cinestar Fantasy
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214484
+#EXTINF:-1,Filmski: Cinestar Premiere 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214485
+#EXTINF:-1,Filmski: Cinestar Premiere 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214486
+#EXTINF:-1,Filmski: Cinestar TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214487
+#EXTINF:-1,Filmski: CineStar Tv 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214488
+#EXTINF:-1,Filmski: Comedy Central Extra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214489
+#EXTINF:-1,Filmski: Diva
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214490
+#EXTINF:-1,Filmski: Epic Drama
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214491
+#EXTINF:-1,Filmski: Pickbox
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214492
+#EXTINF:-1,Filmski: SciFi Max
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214493
+#EXTINF:-1,Filmski: Superstar TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214494
+#EXTINF:-1,Filmski: Superstar 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214495
+#EXTINF:-1,Filmski: TV 1000
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214496
+#EXTINF:-1,Filmski: Filmbox Extra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214497
+#EXTINF:-1,Filmski: FilmBox Stars
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214498
+#EXTINF:-1,Filmski: Fox
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214499
+#EXTINF:-1,Filmski: Fox Crime
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214500
+#EXTINF:-1,Filmski: Fox Life
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214501
+#EXTINF:-1,Filmski: Fox Movies
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214502
+#EXTINF:-1,Filmski: Friends
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214503
+#EXTINF:-1,Filmski: HBO
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214504
+#EXTINF:-1,Filmski: HBO 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214505
+#EXTINF:-1,Filmski: HBO 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214506
+#EXTINF:-1,Filmski: HBO Go
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214507
+#EXTINF:-1,Filmski: HBO Max
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214508
+#EXTINF:-1,Filmski: Kino Tv
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214509
+#EXTINF:-1,Filmski: Klasik TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214510
+#EXTINF:-1,Filmski: Lud zbunjen normalan
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214511
+#EXTINF:-1,Filmski: M1 Film
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214512
+#EXTINF:-1,Filmski: M1 Film Gold
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214513
+#EXTINF:-1,Filmski: MaxCro Select 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214514
+#EXTINF:-1,Filmski: MaxCro Select 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214515
+#EXTINF:-1,Filmski: MaxCro Select 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214516
+#EXTINF:-1,Filmski: MaxCro Select 4
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214517
+#EXTINF:-1,Filmski: MaxCro Select 5
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214518
+#EXTINF:-1,Filmski: MaxCro Select 6
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214519
+#EXTINF:-1,Filmski: MaxCro Select 7
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214520
+#EXTINF:-1,Filmski: MaxCro Select 8
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214521
+#EXTINF:-1,Filmski: MaxCro Select 9
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214522
+#EXTINF:-1,Filmski: MaxCro Select 10
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214523
+#EXTINF:-1,Filmski: MaxCro Select 11
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214524
+#EXTINF:-1,Filmski: TV Gora Premiere 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214525
+#EXTINF:-1,Filmski: TV Gora Premiere 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214526
+#EXTINF:-1,Filmski: TV Gora Select 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214527
+#EXTINF:-1,Filmski: TV Gora Select 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214528
+#EXTINF:-1,Filmski: TV Gora Select 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214529
+#EXTINF:-1,Filmski: TV Gora Select 4
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214530
+#EXTINF:-1,Filmski: TV Gora Select 5
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214531
+#EXTINF:-1,Filmski: TV Gora Select 6
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214532
+#EXTINF:-1,Filmski: TV Gora Select 7
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214533
+#EXTINF:-1,Filmski: TV Gora Select 8
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214534
+#EXTINF:-1,Filmski: TV Gora Select 9
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214535
+#EXTINF:-1,Filmski: TV Gora Select 10
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214536
+#EXTINF:-1,Muzika: Balkanika Music TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214537
+#EXTINF:-1,Muzika: CityPlay
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214538
+#EXTINF:-1,Muzika: CMC
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214539
+#EXTINF:-1,Muzika: DM SAT
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214540
+#EXTINF:-1,Muzika: DMC TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214541
+#EXTINF:-1,Muzika: Duga TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214542
+#EXTINF:-1,Muzika: Grand Narodna TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214543
+#EXTINF:-1,Muzika: IDJ TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214544
+#EXTINF:-1,Muzika: Imperia TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214545
+#EXTINF:-1,Muzika: Jugoton
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214546
+#EXTINF:-1,Muzika: Karolina
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214547
+#EXTINF:-1,Muzika: MTV Classic
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214548
+#EXTINF:-1,Muzika: MTV Dance
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214549
+#EXTINF:-1,Muzika: MTV Hits
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214550
+#EXTINF:-1,Muzika: MTV Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214551
+#EXTINF:-1,Muzika: MTV Rock
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214552
+#EXTINF:-1,Muzika: Narodni Tv
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214553
+#EXTINF:-1,Muzika: Nisville
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214554
+#EXTINF:-1,Muzika: Pink Folk 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214555
+#EXTINF:-1,Muzika: Pink Folk 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214556
+#EXTINF:-1,Muzika: Pink Hits
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214557
+#EXTINF:-1,Muzika: Pink Hits 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214558
+#EXTINF:-1,Muzika: Pink Music 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214559
+#EXTINF:-1,Muzika: Pink Music 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214560
+#EXTINF:-1,Muzika: Planeta tv
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214561
+#EXTINF:-1,Muzika: Sevdah TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214563
+#EXTINF:-1,Muzika: TOP TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214565
+#EXTINF:-1,Muzika: Toxic
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214566
+#EXTINF:-1,Muzika: Valentino TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214567
+#EXTINF:-1,Muzika: VH1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214568
+#EXTINF:-1,Muzika: Yu Planet
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214569
+#EXTINF:-1,Deca: Baby TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214570
+#EXTINF:-1,Deca: Blejz i Cudovisne Masine RS
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214571
+#EXTINF:-1,Deca: Cartoon Network
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214572
+#EXTINF:-1,Deca: Comedy Central Extra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214573
+#EXTINF:-1,Deca: Disney Channel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214574
+#EXTINF:-1,Deca: Djak TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214575
+#EXTINF:-1,Deca: Duck TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214576
+#EXTINF:-1,Deca: Hayatovci
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214577
+#EXTINF:-1,Deca: Looney Tunes TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214578
+#EXTINF:-1,Deca: Masa i Medo BIH
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214579
+#EXTINF:-1,Deca: Masa i Medved RS
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214580
+#EXTINF:-1,Deca: MaxCro Select Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214581
+#EXTINF:-1,Deca: MaxCro Select Kids 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214582
+#EXTINF:-1,Deca: MaxCro Select Kids 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214583
+#EXTINF:-1,Deca: Mini TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214584
+#EXTINF:-1,Deca: Minimax
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214585
+#EXTINF:-1,Deca: Nick Jr
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214586
+#EXTINF:-1,Deca: Nickelodeon
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214587
+#EXTINF:-1,Deca: Patrolne Sape RS
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214588
+#EXTINF:-1,Deca: Pepa Prase RS
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214589
+#EXTINF:-1,Deca: Pikaboo
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214590
+#EXTINF:-1,Deca: Pink Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214591
+#EXTINF:-1,Deca: Pink Panter TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214592
+#EXTINF:-1,Deca: Pink Super Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214593
+#EXTINF:-1,Deca: Pocoyo CRO
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214594
+#EXTINF:-1,Deca: RTL Kockica
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214595
+#EXTINF:-1,Deca: SMILE
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214596
+#EXTINF:-1,Deca: Spuzva bob
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214597
+#EXTINF:-1,Deca: TeslaVision Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214598
+#EXTINF:-1,Deca: TeslaVision Uspavanke
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214599
+#EXTINF:-1,Deca: TNT Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214600
+#EXTINF:-1,Deca: Tom and Jerry Channel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214601
+#EXTINF:-1,Deca: Zabac Regi
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214603
+#EXTINF:-1,Doku: 24 Kitchen
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214604
+#EXTINF:-1,Doku: Agro TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214605
+#EXTINF:-1,Doku: Animal Planet
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214606
+#EXTINF:-1,Doku: BBC Earth
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214607
+#EXTINF:-1,Doku: Capital
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214608
+#EXTINF:-1,Doku: CBS Reality
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214609
+#EXTINF:-1,Doku: Crime and Investigation
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214610
+#EXTINF:-1,Doku: Da Vinci Learning
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214611
+#EXTINF:-1,Doku: Discovery Channel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214612
+#EXTINF:-1,Doku: Discovery Science
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214613
+#EXTINF:-1,Doku: DOKU TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214614
+#EXTINF:-1,Doku: DOX Tv
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214615
+#EXTINF:-1,Doku: E! Entertainment
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214616
+#EXTINF:-1,Doku: Food Network
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214617
+#EXTINF:-1,Doku: History Channel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214618
+#EXTINF:-1,Doku: History Channel 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214619
+#EXTINF:-1,Doku: Discovery Investigation
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214620
+#EXTINF:-1,Doku: Kanal 6
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214621
+#EXTINF:-1,Doku: Lov i Ribolov
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214622
+#EXTINF:-1,Doku: Nat Geo Wild
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214623
+#EXTINF:-1,Doku: National Geographic
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214624
+#EXTINF:-1,Doku: TLC
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214625
+#EXTINF:-1,Doku: Travel Channel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214626
+#EXTINF:-1,Doku: Viasat Explorer
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214627
+#EXTINF:-1,Doku: Viasat History
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214628
+#EXTINF:-1,Doku: Viasat Nature
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214629
+#EXTINF:-1,MNE: RTCG 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/81073
+#EXTINF:-1,MNE: RTCG 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/81072
+#EXTINF:-1,MNE: RTCG Sat
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/81071
+#EXTINF:-1,MNE: RTCG Parlamentarni
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/152283
+#EXTINF:-1,MNE: Televizija TV7
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/81076
+#EXTINF:-1,MNE: TV Vijesti
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/81074
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/226096
+#EXTINF:-1,MNE: Nova M
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/124546
+#EXTINF:-1,MNE: Pink M
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/138634
+#EXTINF:-1,MNE: Telma
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/77850
+#EXTINF:-1,➤ Entertainment
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225877
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225878
+#EXTINF:-1,HR: Axn Adria
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39893
+#EXTINF:-1,HR: Axn Spin
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/39892
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225879
+#EXTINF:-1,MK: MRT 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129930
+#EXTINF:-1,MK: MRT 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129931
+#EXTINF:-1,MK: MRT 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129932
+#EXTINF:-1,MK: MRT 4
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144999
+#EXTINF:-1,MK: MRT 5
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145000
+#EXTINF:-1,MK: Kanal 5
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129949
+#EXTINF:-1,MK: Kanal 8
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129950
+#EXTINF:-1,MK: M.NET
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214633
+#EXTINF:-1,MK: TV Edo
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129959
+#EXTINF:-1,MK: Alfa TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129943
+#EXTINF:-1,MK: Tera Bitola TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214641
+#EXTINF:-1,MK: Tv Sonce
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214637
+#EXTINF:-1,➤ News
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/226140
+#EXTINF:-1,MK: 24 Vesti
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129929
+#EXTINF:-1,MK: M.NET Info
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214634
+#EXTINF:-1,MK: MTM Skopje
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129962
+#EXTINF:-1,MK: Sandzak TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145019
+#EXTINF:-1,➤ Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225886
+#EXTINF:-1,MK: Balkan Music
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129954
+#EXTINF:-1,MK: Nasha TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145014
+#EXTINF:-1,MK: Hugo 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145002
+#EXTINF:-1,MK: Hugo 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214630
+#EXTINF:-1,MK: Hugo 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145001
+#EXTINF:-1,MK: Hugo 4
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214631
+#EXTINF:-1,MK: RTV 21
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129953
+#EXTINF:-1,MK: TV Sutel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214642
+#EXTINF:-1,MK: Roma TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129946
+#EXTINF:-1,MK: Folk Klub
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144996
+#EXTINF:-1,MK: Skai Folk TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129957
+#EXTINF:-1,➤ EDU and DOC
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225883
+#EXTINF:-1,MK: Animal Planet
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129947
+#EXTINF:-1,MK: Viasat History
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129942
+#EXTINF:-1,MK: TV+
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/158242
+#EXTINF:-1,➤ Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/226141
+#EXTINF:-1,MK: M.NET Kids
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214635
+#EXTINF:-1,➤ Films
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/225884
+#EXTINF:-1,MK: M1 Film
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145010
+#EXTINF:-1,MK: Fox
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144997
+#EXTINF:-1,MK: Fox Life
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144998
+#EXTINF:-1,MK: HBO
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129934
+#EXTINF:-1,MK: HBO 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129935
+#EXTINF:-1,MK: HBO 3
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129936
+#EXTINF:-1,MK: Cineplex
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129966
+#EXTINF:-1,MK: Cinestar TV Premiere 1
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144992
+#EXTINF:-1,MK: Cinestar TV Premiere 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144993
+#EXTINF:-1,MK: Filmbox Extra FHD
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/144995
+#EXTINF:-1,MK: Alsat
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129948
+#EXTINF:-1,MK: Telma
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/129944
+#EXTINF:-1,MK: Spektra
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/214639
+#EXTINF:-1,MK: TV 1000
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/145025
+#EXTINF:-1,The Lord of the Rings: The Return of the King (2003)
+http://myserveriptv.com:2082/movie/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/170257.mp4
+#EXTINF:-1,Free Fire (2017)
+http://myserveriptv.com:2082/movie/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/229950.mp4
+#EXTINF:-1,Killer Elite (2011)
+http://myserveriptv.com:2082/movie/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/229960.mp4
+#EXTINF:-1,MK: Tv Era
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241050
+#EXTINF:-1,MK: Sitel 2
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241051
+#EXTINF:-1,MK: Sitel
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241052
+#EXTINF:-1,MK: Epic Drama
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241053
+#EXTINF:-1,MK: Shutel Tv SKOPJE
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241054
+#EXTINF:-1,MK: KTV Kvadraci
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241055
+#EXTINF:-1,MK: Dobra TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241056
+#EXTINF:-1,MK: Kafanska TV
+http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/241057
