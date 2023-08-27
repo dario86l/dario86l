@@ -965,19 +965,1392 @@ http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/2031
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/2032
 #EXTINF:-1 tvg-id="foxnews.us" tvg-name="CA: FOX NEWS" tvg-logo="http://167.114.145.220logos/FOX.png" group-title="CANADA",CA: FOX NEWS
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/2033
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://undergroundservice.xyz:8080/images/qc20ufJ-DVAvV72xqrnwAsbzJgJqNiiXkWf73b1ViOEGP18ZzDQI_gKXM7trtbtl.png" group-title="USA NBC" tvg-id="" tvg-name="", NBC: EL PASO KTSM
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/32299
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/KBMT_80s-90s.jpg/revision/latest/top-crop/width/300/height/300?cb=20110812015325" group-title="USA NBC" tvg-id="" tvg-name="", NBC: TX | BEAUMONT | KBMT
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/32300
-
 #EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s10991_ll_h3_ac.png" group-title="USA NBC" tvg-id="" tvg-name="", NBC: ND | Bismarck | 31 KFYR
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/32301
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="USA NBC" tvg-id="nbc21wfmj.us" tvg-name="nbc21wfmj.us", NBC: OH Youngstown WFMJ
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/32302
-
+#EXTINF:-1,US :  FOX Sports Indiana
+http://faucontv.live:8080/@messie12/b5HS41z/11008
+#EXTINF:-1,CA - FR: HISTORY HD
+http://faucontv.live:8080/@messie12/b5HS41z/15190
+#EXTINF:-1,CA-FR: ADDIK TV
+http://faucontv.live:8080/@messie12/b5HS41z/15153
+#EXTINF:-1,CA-FR: CANAL D
+http://faucontv.live:8080/@messie12/b5HS41z/15001
+#EXTINF:-1,CA-FR: CANAL VIE
+http://faucontv.live:8080/@messie12/b5HS41z/15132
+#EXTINF:-1,CA-FR: CASA
+http://faucontv.live:8080/@messie12/b5HS41z/15002
+#EXTINF:-1,CA-FR: CPAC
+http://faucontv.live:8080/@messie12/b5HS41z/15090
+#EXTINF:-1,CA-FR: MAX
+http://faucontv.live:8080/@messie12/b5HS41z/15038
+#EXTINF:-1,CA-FR: METEO
+http://faucontv.live:8080/@messie12/b5HS41z/15109
+#EXTINF:-1,CA-FR: MOI CIE
+http://faucontv.live:8080/@messie12/b5HS41z/15148
+#EXTINF:-1,CA-FR: Rogers TV
+http://faucontv.live:8080/@messie12/b5HS41z/15215
+#EXTINF:-1,CA-FR: SUPER ECRAN 3
+http://faucontv.live:8080/@messie12/b5HS41z/15050
+#EXTINF:-1,CA-FR: TV5 Quebec HD
+http://faucontv.live:8080/@messie12/b5HS41z/15259
+#EXTINF:-1,CA-FR: TV5 QUEBEC SD
+http://faucontv.live:8080/@messie12/b5HS41z/15260
+#EXTINF:-1,CA-FR: TVA Montreal
+http://faucontv.live:8080/@messie12/b5HS41z/14972
+#EXTINF:-1,CA-FR: UNIS TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/15264
+#EXTINF:-1,CA-FR: YOOPA SD
+http://faucontv.live:8080/@messie12/b5HS41z/15269
+#EXTINF:-1,CA-FR: ZESTE SD
+http://faucontv.live:8080/@messie12/b5HS41z/15271
+#EXTINF:-1,CA: A&E
+http://faucontv.live:8080/@messie12/b5HS41z/15056
+#EXTINF:-1,CA: ABC
+http://faucontv.live:8080/@messie12/b5HS41z/14997
+#EXTINF:-1,CA: ABC SPARK
+http://faucontv.live:8080/@messie12/b5HS41z/14999
+#EXTINF:-1,CA: AMC
+http://faucontv.live:8080/@messie12/b5HS41z/15076
+#EXTINF:-1,CA: ANIMAL PLANET
+http://faucontv.live:8080/@messie12/b5HS41z/15077
+#EXTINF:-1,CA: APTN HD
+http://faucontv.live:8080/@messie12/b5HS41z/15078
+#EXTINF:-1,CA: BBC WORLD NEWS
+http://faucontv.live:8080/@messie12/b5HS41z/15126
+#EXTINF:-1,CA: beIN Sports
+http://faucontv.live:8080/@messie12/b5HS41z/15072
+#EXTINF:-1,CA: BEIN SPORTS
+http://faucontv.live:8080/@messie12/b5HS41z/15142
+#EXTINF:-1,CA: BET
+http://faucontv.live:8080/@messie12/b5HS41z/15143
+#EXTINF:-1,CA: BNN BLOOMBERG
+http://faucontv.live:8080/@messie12/b5HS41z/15000
+#EXTINF:-1,CA: BRAVO
+http://faucontv.live:8080/@messie12/b5HS41z/15079
+#EXTINF:-1,CA: CANAL D (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15279
+#EXTINF:-1,CA: CANAL VIE HD
+http://faucontv.live:8080/@messie12/b5HS41z/15156
+#EXTINF:-1,CA: CARTOON NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/14986
+#EXTINF:-1,CA: CARTOON NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/14987
+#EXTINF:-1,CA: CBC (OTTAWA) SD
+http://faucontv.live:8080/@messie12/b5HS41z/14957
+#EXTINF:-1,CA: CBC (TORONTO) HD
+http://faucontv.live:8080/@messie12/b5HS41z/14963
+#EXTINF:-1,CA: CBC CALGARY
+http://faucontv.live:8080/@messie12/b5HS41z/14983
+#EXTINF:-1,CA: CBC CHARLOTTETOWN
+http://faucontv.live:8080/@messie12/b5HS41z/14984
+#EXTINF:-1,CA: CBC EDMONTON
+http://faucontv.live:8080/@messie12/b5HS41z/15022
+#EXTINF:-1,CA: CBC HALIFAX
+http://faucontv.live:8080/@messie12/b5HS41z/14954
+#EXTINF:-1,CA: CBC HD
+http://faucontv.live:8080/@messie12/b5HS41z/15020
+#EXTINF:-1,CA: CBC MONTREAL
+http://faucontv.live:8080/@messie12/b5HS41z/14968
+#EXTINF:-1,CA: CBC MONTREAL (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15272
+#EXTINF:-1,CA: CBC NEWS
+http://faucontv.live:8080/@messie12/b5HS41z/15021
+#EXTINF:-1,CA: CBC OTTAWA
+http://faucontv.live:8080/@messie12/b5HS41z/14958
+#EXTINF:-1,CA: CBC REGINA
+http://faucontv.live:8080/@messie12/b5HS41z/15023
+#EXTINF:-1,CA: CBC St. John's (CBNT) HD
+http://faucontv.live:8080/@messie12/b5HS41z/15019
+#EXTINF:-1,CA: CBC Toronto
+http://faucontv.live:8080/@messie12/b5HS41z/14964
+#EXTINF:-1,CA: CBC VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14976
+#EXTINF:-1,CA: CBC WINDSOR
+http://faucontv.live:8080/@messie12/b5HS41z/15024
+#EXTINF:-1,CA: CBC WINNIPEG
+http://faucontv.live:8080/@messie12/b5HS41z/15026
+#EXTINF:-1,CA: CBS EAST
+http://faucontv.live:8080/@messie12/b5HS41z/15082
+#EXTINF:-1,CA: CHCH
+http://faucontv.live:8080/@messie12/b5HS41z/15028
+#EXTINF:-1,CA: CINEPOP
+http://faucontv.live:8080/@messie12/b5HS41z/15084
+#EXTINF:-1,CA: CITY TORONTO
+http://faucontv.live:8080/@messie12/b5HS41z/14966
+#EXTINF:-1,CA: CITY VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14977
+#EXTINF:-1,CA: CMT
+http://faucontv.live:8080/@messie12/b5HS41z/15157
+#EXTINF:-1,CA: CMT CANADA
+http://faucontv.live:8080/@messie12/b5HS41z/15085
+#EXTINF:-1,CA: CNBC
+http://faucontv.live:8080/@messie12/b5HS41z/15086
+#EXTINF:-1,CA: CNBC
+http://faucontv.live:8080/@messie12/b5HS41z/15159
+#EXTINF:-1,CA: CNBC HD
+http://faucontv.live:8080/@messie12/b5HS41z/15158
+#EXTINF:-1,CA: CNN
+http://faucontv.live:8080/@messie12/b5HS41z/15160
+#EXTINF:-1,CA: CNN INTERNATIONAL
+http://faucontv.live:8080/@messie12/b5HS41z/15087
+#EXTINF:-1,CA: COMEDY CENTRAL SD
+http://faucontv.live:8080/@messie12/b5HS41z/15161
+#EXTINF:-1,CA: COOKING CHANNEL
+http://faucontv.live:8080/@messie12/b5HS41z/15088
+#EXTINF:-1,CA: COOKING CHANNEL
+http://faucontv.live:8080/@messie12/b5HS41z/15162
+#EXTINF:-1,CA: COTTAGE LIFE
+http://faucontv.live:8080/@messie12/b5HS41z/15029
+#EXTINF:-1,CA: CP24
+http://faucontv.live:8080/@messie12/b5HS41z/14952
+#EXTINF:-1,CA: CP24 (Backup)
+http://faucontv.live:8080/@messie12/b5HS41z/14951
+#EXTINF:-1,CA: CPAC
+http://faucontv.live:8080/@messie12/b5HS41z/15089
+#EXTINF:-1,CA: CPAC
+http://faucontv.live:8080/@messie12/b5HS41z/15164
+#EXTINF:-1,CA: CRAVE 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/15165
+#EXTINF:-1,CA: Crave 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/15166
+#EXTINF:-1,CA: Crave 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/15167
+#EXTINF:-1,CA: Crave 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/15168
+#EXTINF:-1,CA: CRIME & INVESTIGATION
+http://faucontv.live:8080/@messie12/b5HS41z/15030
+#EXTINF:-1,CA: CRIME & INVESTIGATION HD
+http://faucontv.live:8080/@messie12/b5HS41z/15169
+#EXTINF:-1,CA: CTV (TORONTO) (CFTO)
+http://faucontv.live:8080/@messie12/b5HS41z/14960
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14973
+#EXTINF:-1,CA: CTV CALGARY
+http://faucontv.live:8080/@messie12/b5HS41z/14980
+#EXTINF:-1,CA: CTV COMEDY
+http://faucontv.live:8080/@messie12/b5HS41z/15004
+#EXTINF:-1,CA: CTV COMEDY (EAST) HD
+http://faucontv.live:8080/@messie12/b5HS41z/15008
+#EXTINF:-1,CA: CTV DRAMA
+http://faucontv.live:8080/@messie12/b5HS41z/15005
+#EXTINF:-1,CA: CTV DRAMA HD
+http://faucontv.live:8080/@messie12/b5HS41z/15009
+#EXTINF:-1,CA: CTV HALIFAX
+http://faucontv.live:8080/@messie12/b5HS41z/14953
+#EXTINF:-1,CA: CTV MONTREAL
+http://faucontv.live:8080/@messie12/b5HS41z/14967
+#EXTINF:-1,CA: CTV NEWS
+http://faucontv.live:8080/@messie12/b5HS41z/15003
+#EXTINF:-1,CA: CTV OTTAWA
+http://faucontv.live:8080/@messie12/b5HS41z/14955
+#EXTINF:-1,CA: CTV TORONTO
+http://faucontv.live:8080/@messie12/b5HS41z/14959
+#EXTINF:-1,CA: CTV VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14974
+#EXTINF:-1,CA: DEJAVIEW SD
+http://faucontv.live:8080/@messie12/b5HS41z/15170
+#EXTINF:-1,CA: DISCOVERY SCIENCE
+http://faucontv.live:8080/@messie12/b5HS41z/15093
+#EXTINF:-1,CA: DISNEY CHANNEL HD
+http://faucontv.live:8080/@messie12/b5HS41z/14988
+#EXTINF:-1,CA: DISNEY JR
+http://faucontv.live:8080/@messie12/b5HS41z/14989
+#EXTINF:-1,CA: Disney Junior HD
+http://faucontv.live:8080/@messie12/b5HS41z/14990
+#EXTINF:-1,CA: DISNEY XD
+http://faucontv.live:8080/@messie12/b5HS41z/14992
+#EXTINF:-1,CA: DISNEY XD HD
+http://faucontv.live:8080/@messie12/b5HS41z/14993
+#EXTINF:-1,CA: DIY
+http://faucontv.live:8080/@messie12/b5HS41z/15095
+#EXTINF:-1,CA: DTOUR HD
+http://faucontv.live:8080/@messie12/b5HS41z/15171
+#EXTINF:-1,CA: E! CANADA
+http://faucontv.live:8080/@messie12/b5HS41z/15172
+#EXTINF:-1,CA: EVASION
+http://faucontv.live:8080/@messie12/b5HS41z/15173
+#EXTINF:-1,CA: FAMILY JR HD
+http://faucontv.live:8080/@messie12/b5HS41z/15174
+#EXTINF:-1,CA: FIGHT NETWORK HD
+http://faucontv.live:8080/@messie12/b5HS41z/15175
+#EXTINF:-1,CA: FOOD NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/15034
+#EXTINF:-1,CA: FOX NEWS
+http://faucontv.live:8080/@messie12/b5HS41z/15100
+#EXTINF:-1,CA: FOX SPORTS RACING HD
+http://faucontv.live:8080/@messie12/b5HS41z/15176
+#EXTINF:-1,CA: FX
+http://faucontv.live:8080/@messie12/b5HS41z/15057
+#EXTINF:-1,CA: FX HD
+http://faucontv.live:8080/@messie12/b5HS41z/15178
+#EXTINF:-1,CA: FXX HD
+http://faucontv.live:8080/@messie12/b5HS41z/15179
+#EXTINF:-1,CA: FYI
+http://faucontv.live:8080/@messie12/b5HS41z/15101
+#EXTINF:-1,CA: Game Show Network
+http://faucontv.live:8080/@messie12/b5HS41z/15044
+#EXTINF:-1,CA: Game Show Network
+http://faucontv.live:8080/@messie12/b5HS41z/15102
+#EXTINF:-1,CA: Game TV  HD
+http://faucontv.live:8080/@messie12/b5HS41z/15180
+#EXTINF:-1,CA: GLOBAL HD
+http://faucontv.live:8080/@messie12/b5HS41z/15017
+#EXTINF:-1,CA: GLOBAL NEWS HD
+http://faucontv.live:8080/@messie12/b5HS41z/14982
+#EXTINF:-1,CA: GLOBAL TORONTO
+http://faucontv.live:8080/@messie12/b5HS41z/14961
+#EXTINF:-1,CA: GLOBAL TORONTO (CIII) HD
+http://faucontv.live:8080/@messie12/b5HS41z/14962
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14975
+#EXTINF:-1,CA: GOLF HD
+http://faucontv.live:8080/@messie12/b5HS41z/15103
+#EXTINF:-1,CA: GOLF HD
+http://faucontv.live:8080/@messie12/b5HS41z/15182
+#EXTINF:-1,CA: GSN
+http://faucontv.live:8080/@messie12/b5HS41z/15183
+#EXTINF:-1,CA: H2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/15185
+#EXTINF:-1,CA: HBO
+http://faucontv.live:8080/@messie12/b5HS41z/15149
+#EXTINF:-1,CA: HBO 2
+http://faucontv.live:8080/@messie12/b5HS41z/15150
+#EXTINF:-1,CA: HBO 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/15186
+#EXTINF:-1,CA: HBO HD
+http://faucontv.live:8080/@messie12/b5HS41z/15187
+#EXTINF:-1,CA: Headline News HD
+http://faucontv.live:8080/@messie12/b5HS41z/15188
+#EXTINF:-1,CA: HGTV
+http://faucontv.live:8080/@messie12/b5HS41z/15035
+#EXTINF:-1,CA: HGTV HD
+http://faucontv.live:8080/@messie12/b5HS41z/15189
+#EXTINF:-1,CA: HISTORY
+http://faucontv.live:8080/@messie12/b5HS41z/15105
+#EXTINF:-1,CA: ICI RDI SD
+http://faucontv.live:8080/@messie12/b5HS41z/15191
+#EXTINF:-1,CA: ICI VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14978
+#EXTINF:-1,CA: ICI VANCOUVER
+http://faucontv.live:8080/@messie12/b5HS41z/14979
+#EXTINF:-1,CA: KNOWLEDGE KIDS
+http://faucontv.live:8080/@messie12/b5HS41z/15036
+#EXTINF:-1,CA: LCN
+http://faucontv.live:8080/@messie12/b5HS41z/15193
+#EXTINF:-1,CA: LIFETIME
+http://faucontv.live:8080/@messie12/b5HS41z/15108
+#EXTINF:-1,CA: LIFETIME HD
+http://faucontv.live:8080/@messie12/b5HS41z/15194
+#EXTINF:-1,CA: LOVE NATURE
+http://faucontv.live:8080/@messie12/b5HS41z/15037
+#EXTINF:-1,CA: Makeful
+http://faucontv.live:8080/@messie12/b5HS41z/15195
+#EXTINF:-1,CA: MAX
+http://faucontv.live:8080/@messie12/b5HS41z/15278
+#EXTINF:-1,CA: MIRACLE
+http://faucontv.live:8080/@messie12/b5HS41z/15039
+#EXTINF:-1,CA: MOVIE TIME HD
+http://faucontv.live:8080/@messie12/b5HS41z/15146
+#EXTINF:-1,CA: MovieTime HD
+http://faucontv.live:8080/@messie12/b5HS41z/15200
+#EXTINF:-1,CA: MTV 2
+http://faucontv.live:8080/@messie12/b5HS41z/15151
+#EXTINF:-1,CA: MTV 2
+http://faucontv.live:8080/@messie12/b5HS41z/15201
+#EXTINF:-1,CA: MTV HD
+http://faucontv.live:8080/@messie12/b5HS41z/15202
+#EXTINF:-1,CA: MUCH HD
+http://faucontv.live:8080/@messie12/b5HS41z/15204
+#EXTINF:-1,CA: MUSIQUE PLUS (R)
+http://faucontv.live:8080/@messie12/b5HS41z/15110
+#EXTINF:-1,CA: Nat GEO
+http://faucontv.live:8080/@messie12/b5HS41z/15205
+#EXTINF:-1,CA: NAT GEO (Backup)
+http://faucontv.live:8080/@messie12/b5HS41z/15040
+#EXTINF:-1,CA: NAT GEO WILD
+http://faucontv.live:8080/@messie12/b5HS41z/15041
+#EXTINF:-1,CA: NICK
+http://faucontv.live:8080/@messie12/b5HS41z/14994
+#EXTINF:-1,CA: NICKELODEON HD
+http://faucontv.live:8080/@messie12/b5HS41z/14995
+#EXTINF:-1,CA: NTV SD
+http://faucontv.live:8080/@messie12/b5HS41z/15208
+#EXTINF:-1,CA: OLN
+http://faucontv.live:8080/@messie12/b5HS41z/15113
+#EXTINF:-1,CA: OLN
+http://faucontv.live:8080/@messie12/b5HS41z/15145
+#EXTINF:-1,CA: OMNI 1
+http://faucontv.live:8080/@messie12/b5HS41z/15043
+#EXTINF:-1,CA: OMNI 2
+http://faucontv.live:8080/@messie12/b5HS41z/15070
+#EXTINF:-1,CA: ONE SD
+http://faucontv.live:8080/@messie12/b5HS41z/15209
+#EXTINF:-1,CA: PARAMOUNT NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/15045
+#EXTINF:-1,CA: PBS HD
+http://faucontv.live:8080/@messie12/b5HS41z/15210
+#EXTINF:-1,CA: PBS HD
+http://faucontv.live:8080/@messie12/b5HS41z/15290
+#EXTINF:-1,CA: PEACH TREE
+http://faucontv.live:8080/@messie12/b5HS41z/15046
+#EXTINF:-1,CA: PRISE (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15283
+#EXTINF:-1,CA: PRISE SD
+http://faucontv.live:8080/@messie12/b5HS41z/15211
+#EXTINF:-1,CA: RDI
+http://faucontv.live:8080/@messie12/b5HS41z/15115
+#EXTINF:-1,CA: RDI (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15274
+#EXTINF:-1,CA: RDS
+http://faucontv.live:8080/@messie12/b5HS41z/15116
+#EXTINF:-1,CA: RDS INFO SD
+http://faucontv.live:8080/@messie12/b5HS41z/15075
+#EXTINF:-1,CA: RDS SD
+http://faucontv.live:8080/@messie12/b5HS41z/15073
+#EXTINF:-1,CA: SHOPPING SD
+http://faucontv.live:8080/@messie12/b5HS41z/15217
+#EXTINF:-1,CA: Showcase HD
+http://faucontv.live:8080/@messie12/b5HS41z/15218
+#EXTINF:-1,CA: SILVER SCREEN CLASSICS
+http://faucontv.live:8080/@messie12/b5HS41z/15117
+#EXTINF:-1,CA: SILVER SCREEN CLASSICS SD
+http://faucontv.live:8080/@messie12/b5HS41z/15219
+#EXTINF:-1,CA: SLICE
+http://faucontv.live:8080/@messie12/b5HS41z/15049
+#EXTINF:-1,CA: SMITHSONIAN
+http://faucontv.live:8080/@messie12/b5HS41z/15118
+#EXTINF:-1,CA: SPIKE TV / PARAMOUNT SD
+http://faucontv.live:8080/@messie12/b5HS41z/15220
+#EXTINF:-1,CA: SPORTSNET 360
+http://faucontv.live:8080/@messie12/b5HS41z/15058
+#EXTINF:-1,CA: SPORTSNET EAST
+http://faucontv.live:8080/@messie12/b5HS41z/15059
+#EXTINF:-1,CA: SPORTSNET ONE
+http://faucontv.live:8080/@messie12/b5HS41z/15060
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://faucontv.live:8080/@messie12/b5HS41z/15061
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://faucontv.live:8080/@messie12/b5HS41z/15062
+#EXTINF:-1,CA: SPORTSNET PPV HD
+http://faucontv.live:8080/@messie12/b5HS41z/15221
+#EXTINF:-1,CA: SPORTSNET WEST
+http://faucontv.live:8080/@messie12/b5HS41z/15063
+#EXTINF:-1,CA: SPORTSNET World
+http://faucontv.live:8080/@messie12/b5HS41z/15064
+#EXTINF:-1,CA: SUPER CHANNEL HEART & HOME HD
+http://faucontv.live:8080/@messie12/b5HS41z/15222
+#EXTINF:-1,CA: SUPER ECRAN 1
+http://faucontv.live:8080/@messie12/b5HS41z/15119
+#EXTINF:-1,CA: SUPER ECRAN 1 (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15277
+#EXTINF:-1,CA: SUPER ECRAN 1 SD
+http://faucontv.live:8080/@messie12/b5HS41z/15223
+#EXTINF:-1,CA: SUPER ECRAN 2
+http://faucontv.live:8080/@messie12/b5HS41z/15120
+#EXTINF:-1,CA: SUPER ECRAN 2
+http://faucontv.live:8080/@messie12/b5HS41z/15224
+#EXTINF:-1,CA: SUPER ECRAN 3
+http://faucontv.live:8080/@messie12/b5HS41z/15276
+#EXTINF:-1,CA: SUPER ECRAN 4
+http://faucontv.live:8080/@messie12/b5HS41z/15121
+#EXTINF:-1,CA: SUPER ECRAN 4
+http://faucontv.live:8080/@messie12/b5HS41z/15225
+#EXTINF:-1,CA: TELE QUEBEC
+http://faucontv.live:8080/@messie12/b5HS41z/15122
+#EXTINF:-1,CA: Teletoon (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15284
+#EXTINF:-1,CA: TLC
+http://faucontv.live:8080/@messie12/b5HS41z/15125
+#EXTINF:-1,CA: TMN 2
+http://faucontv.live:8080/@messie12/b5HS41z/15127
+#EXTINF:-1,CA: TRAVEL+ ESCAPE HD
+http://faucontv.live:8080/@messie12/b5HS41z/15256
+#EXTINF:-1,CA: TREEHOUSE
+http://faucontv.live:8080/@messie12/b5HS41z/15051
+#EXTINF:-1,CA: TREEHOUSE HD
+http://faucontv.live:8080/@messie12/b5HS41z/15257
+#EXTINF:-1,CA: TSC HD
+http://faucontv.live:8080/@messie12/b5HS41z/15258
+#EXTINF:-1,CA: TSN 1
+http://faucontv.live:8080/@messie12/b5HS41z/15065
+#EXTINF:-1,CA: TSN 2
+http://faucontv.live:8080/@messie12/b5HS41z/15066
+#EXTINF:-1,CA: TSN 3
+http://faucontv.live:8080/@messie12/b5HS41z/15067
+#EXTINF:-1,CA: TSN 4
+http://faucontv.live:8080/@messie12/b5HS41z/15068
+#EXTINF:-1,CA: TSN 5
+http://faucontv.live:8080/@messie12/b5HS41z/15069
+#EXTINF:-1,CA: TV5 QUEBEC
+http://faucontv.live:8080/@messie12/b5HS41z/15128
+#EXTINF:-1,CA: TVA
+http://faucontv.live:8080/@messie12/b5HS41z/15129
+#EXTINF:-1,CA: TVA Montreal (CFTM) HD
+http://faucontv.live:8080/@messie12/b5HS41z/14971
+#EXTINF:-1,CA: TVA SPORTS
+http://faucontv.live:8080/@messie12/b5HS41z/15130
+#EXTINF:-1,CA: TVA Sports HD
+http://faucontv.live:8080/@messie12/b5HS41z/15262
+#EXTINF:-1,CA: TVO
+http://faucontv.live:8080/@messie12/b5HS41z/15052
+#EXTINF:-1,CA: TVO SD
+http://faucontv.live:8080/@messie12/b5HS41z/15263
+#EXTINF:-1,CA: UNIS TV
+http://faucontv.live:8080/@messie12/b5HS41z/15131
+#EXTINF:-1,CA: VISION
+http://faucontv.live:8080/@messie12/b5HS41z/15053
+#EXTINF:-1,CA: VRAK TV (FR)
+http://faucontv.live:8080/@messie12/b5HS41z/15133
+#EXTINF:-1,CA: WEATHER NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/14950
+#EXTINF:-1,CA: WGN TV
+http://faucontv.live:8080/@messie12/b5HS41z/15054
+#EXTINF:-1,CA: WILD TV
+http://faucontv.live:8080/@messie12/b5HS41z/15055
+#EXTINF:-1,CA: WWE
+http://faucontv.live:8080/@messie12/b5HS41z/15303
+#EXTINF:-1,CA: YES TV (Ontario)
+http://faucontv.live:8080/@messie12/b5HS41z/15135
+#EXTINF:-1,CA: YES TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/15268
+#EXTINF:-1,CA: YTV
+http://faucontv.live:8080/@messie12/b5HS41z/15137
+#EXTINF:-1,CA: YTV
+http://faucontv.live:8080/@messie12/b5HS41z/15270
+#EXTINF:-1,CA: Z TELE
+http://faucontv.live:8080/@messie12/b5HS41z/15138
+#EXTINF:-1,CA: ZESTE
+http://faucontv.live:8080/@messie12/b5HS41z/15139
+#EXTINF:-1,US :  FS 2
+http://faucontv.live:8080/@messie12/b5HS41z/10987
+#EXTINF:-1,US : 5 Star Max
+http://faucontv.live:8080/@messie12/b5HS41z/11424
+#EXTINF:-1,US : ABC durham
+http://faucontv.live:8080/@messie12/b5HS41z/11403
+#EXTINF:-1,US : ABC Los Angeles
+http://faucontv.live:8080/@messie12/b5HS41z/11400
+#EXTINF:-1,US : ABC Philadelphia
+http://faucontv.live:8080/@messie12/b5HS41z/11402
+#EXTINF:-1,US : American Heroes
+http://faucontv.live:8080/@messie12/b5HS41z/10988
+#EXTINF:-1,US : Baby First
+http://faucontv.live:8080/@messie12/b5HS41z/11363
+#EXTINF:-1,US : Baby TV
+http://faucontv.live:8080/@messie12/b5HS41z/11314
+#EXTINF:-1,US : BBC America
+http://faucontv.live:8080/@messie12/b5HS41z/11364
+#EXTINF:-1,US : BBC World News
+http://faucontv.live:8080/@messie12/b5HS41z/10992
+#EXTINF:-1,US : C-SPAN 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/11322
+#EXTINF:-1,US : CARTOON NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/11323
+#EXTINF:-1,US : CBS
+http://faucontv.live:8080/@messie12/b5HS41z/11365
+#EXTINF:-1,US : CBS Eleven Sports Network
+http://faucontv.live:8080/@messie12/b5HS41z/11379
+#EXTINF:-1,US : CBS HARTFORD
+http://faucontv.live:8080/@messie12/b5HS41z/11378
+#EXTINF:-1,US : CBS Jacksonville
+http://faucontv.live:8080/@messie12/b5HS41z/11380
+#EXTINF:-1,US : CBS New York
+http://faucontv.live:8080/@messie12/b5HS41z/11381
+#EXTINF:-1,US : CBS Pittsburgh
+http://faucontv.live:8080/@messie12/b5HS41z/11382
+#EXTINF:-1,US : Cinemax East
+http://faucontv.live:8080/@messie12/b5HS41z/11317
+#EXTINF:-1,US : CNBC HD
+http://faucontv.live:8080/@messie12/b5HS41z/11324
+#EXTINF:-1,US : Cooking Channel HD
+http://faucontv.live:8080/@messie12/b5HS41z/10993
+#EXTINF:-1,US : DESTINATION AMERICA
+http://faucontv.live:8080/@messie12/b5HS41z/11321
+#EXTINF:-1,US : Discovery Science
+http://faucontv.live:8080/@messie12/b5HS41z/11318
+#EXTINF:-1,US : Eleven
+http://faucontv.live:8080/@messie12/b5HS41z/11366
+#EXTINF:-1,US : Entertainment
+http://faucontv.live:8080/@messie12/b5HS41z/10995
+#EXTINF:-1,US : Epix
+http://faucontv.live:8080/@messie12/b5HS41z/11410
+#EXTINF:-1,US : EPIX DRIVE IN
+http://faucontv.live:8080/@messie12/b5HS41z/11427
+#EXTINF:-1,US : Epix Hits
+http://faucontv.live:8080/@messie12/b5HS41z/11411
+#EXTINF:-1,US : EPIX2
+http://faucontv.live:8080/@messie12/b5HS41z/11413
+#EXTINF:-1,US : Espn News HD
+http://faucontv.live:8080/@messie12/b5HS41z/10989
+#EXTINF:-1,US : Fight Network
+http://faucontv.live:8080/@messie12/b5HS41z/11326
+#EXTINF:-1,US : Fight Network
+http://faucontv.live:8080/@messie12/b5HS41z/11567
+#EXTINF:-1,US : Fox College Sports Pacific
+http://faucontv.live:8080/@messie12/b5HS41z/10994
+#EXTINF:-1,US : FOX Deportes HD
+http://faucontv.live:8080/@messie12/b5HS41z/10998
+#EXTINF:-1,US : FOX Green Bay
+http://faucontv.live:8080/@messie12/b5HS41z/11383
+#EXTINF:-1,US : FOX Indianapolis
+http://faucontv.live:8080/@messie12/b5HS41z/11384
+#EXTINF:-1,US : FOX LOS ANGELES CA KTTV
+http://faucontv.live:8080/@messie12/b5HS41z/11385
+#EXTINF:-1,US : FOX Milwaukee
+http://faucontv.live:8080/@messie12/b5HS41z/11386
+#EXTINF:-1,US : FOX Nashville
+http://faucontv.live:8080/@messie12/b5HS41z/11387
+#EXTINF:-1,US : FOX New York
+http://faucontv.live:8080/@messie12/b5HS41z/11388
+#EXTINF:-1,US : Fox News
+http://faucontv.live:8080/@messie12/b5HS41z/11327
+#EXTINF:-1,US : FOX Ocala
+http://faucontv.live:8080/@messie12/b5HS41z/11389
+#EXTINF:-1,US : FOX Philadelphia
+http://faucontv.live:8080/@messie12/b5HS41z/11390
+#EXTINF:-1,US : FOX Pittsburgh
+http://faucontv.live:8080/@messie12/b5HS41z/11392
+#EXTINF:-1,US : FOX Salt Lake City
+http://faucontv.live:8080/@messie12/b5HS41z/11393
+#EXTINF:-1,US : FOX Soccer Plus HD
+http://faucontv.live:8080/@messie12/b5HS41z/11345
+#EXTINF:-1,US : Fox Sportime Ohio
+http://faucontv.live:8080/@messie12/b5HS41z/11012
+#EXTINF:-1,US : FOX Sports Kansas City
+http://faucontv.live:8080/@messie12/b5HS41z/11010
+#EXTINF:-1,US : FOX Sports Kansas City Plus
+http://faucontv.live:8080/@messie12/b5HS41z/11011
+#EXTINF:-1,US : Fox Sports West
+http://faucontv.live:8080/@messie12/b5HS41z/11369
+#EXTINF:-1,US : FOX Sports Wisconsin
+http://faucontv.live:8080/@messie12/b5HS41z/11003
+#EXTINF:-1,US : Fubo Sports Network
+http://faucontv.live:8080/@messie12/b5HS41z/11370
+#EXTINF:-1,US : FUSE
+http://faucontv.live:8080/@messie12/b5HS41z/11371
+#EXTINF:-1,US : FYI
+http://faucontv.live:8080/@messie12/b5HS41z/11367
+#EXTINF:-1,US : Game Show Network
+http://faucontv.live:8080/@messie12/b5HS41z/11372
+#EXTINF:-1,US : Golf Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11373
+#EXTINF:-1,US : Hallmark Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11312
+#EXTINF:-1,US : HALLMARK HD
+http://faucontv.live:8080/@messie12/b5HS41z/11330
+#EXTINF:-1,US : Hallmark Movies & Mysteries
+http://faucontv.live:8080/@messie12/b5HS41z/11313
+#EXTINF:-1,US : Hallmark Movies & Mysteries
+http://faucontv.live:8080/@messie12/b5HS41z/11375
+#EXTINF:-1,US : HBO 2
+http://faucontv.live:8080/@messie12/b5HS41z/11409
+#EXTINF:-1,US : HBO EAST
+http://faucontv.live:8080/@messie12/b5HS41z/11423
+#EXTINF:-1,US : HBO WEST
+http://faucontv.live:8080/@messie12/b5HS41z/11422
+#EXTINF:-1,US : LIFETIME HD
+http://faucontv.live:8080/@messie12/b5HS41z/11342
+#EXTINF:-1,US : Lifetime Movies
+http://faucontv.live:8080/@messie12/b5HS41z/11347
+#EXTINF:-1,US : MLB Network
+http://faucontv.live:8080/@messie12/b5HS41z/10985
+#EXTINF:-1,US : Moremax
+http://faucontv.live:8080/@messie12/b5HS41z/11357
+#EXTINF:-1,US : MSG 2
+http://faucontv.live:8080/@messie12/b5HS41z/11454
+#EXTINF:-1,US : MY50
+http://faucontv.live:8080/@messie12/b5HS41z/11432
+#EXTINF:-1,US : Nat Geo Mundo
+http://faucontv.live:8080/@messie12/b5HS41z/10999
+#EXTINF:-1,US : NBC Boston
+http://faucontv.live:8080/@messie12/b5HS41z/11394
+#EXTINF:-1,US : NBC Kansas City
+http://faucontv.live:8080/@messie12/b5HS41z/11395
+#EXTINF:-1,US : NBC Raleigh
+http://faucontv.live:8080/@messie12/b5HS41z/11397
+#EXTINF:-1,US : NBC Salt Lake City
+http://faucontv.live:8080/@messie12/b5HS41z/11398
+#EXTINF:-1,US : NBC Seattle
+http://faucontv.live:8080/@messie12/b5HS41z/11399
+#EXTINF:-1,US : NBC Sports Washington
+http://faucontv.live:8080/@messie12/b5HS41z/11001
+#EXTINF:-1,US : NBCSN HD
+http://faucontv.live:8080/@messie12/b5HS41z/11343
+#EXTINF:-1,US : Nick Jr
+http://faucontv.live:8080/@messie12/b5HS41z/11362
+#EXTINF:-1,US : RedBull TV
+http://faucontv.live:8080/@messie12/b5HS41z/11405
+#EXTINF:-1,US : Retro Plex
+http://faucontv.live:8080/@messie12/b5HS41z/11406
+#EXTINF:-1,US : SEC Network
+http://faucontv.live:8080/@messie12/b5HS41z/11350
+#EXTINF:-1,US : Showtime Beyond
+http://faucontv.live:8080/@messie12/b5HS41z/11412
+#EXTINF:-1,US : Showtime East
+http://faucontv.live:8080/@messie12/b5HS41z/11356
+#EXTINF:-1,US : SHOWTIME FAMILY ZONE
+http://faucontv.live:8080/@messie12/b5HS41z/11421
+#EXTINF:-1,US : Showtime West
+http://faucontv.live:8080/@messie12/b5HS41z/11355
+#EXTINF:-1,US : SHOWTIME WOMEN
+http://faucontv.live:8080/@messie12/b5HS41z/11420
+#EXTINF:-1,US : Sony Movie Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11316
+#EXTINF:-1,US : Starz Comedy
+http://faucontv.live:8080/@messie12/b5HS41z/11333
+#EXTINF:-1,US : STARZ ENCORE ACTION
+http://faucontv.live:8080/@messie12/b5HS41z/11408
+#EXTINF:-1,US : Starz Encore East
+http://faucontv.live:8080/@messie12/b5HS41z/11334
+#EXTINF:-1,US : STARZ ENCORE WESTERNS
+http://faucontv.live:8080/@messie12/b5HS41z/11414
+#EXTINF:-1,US : STARZ IN BLACK
+http://faucontv.live:8080/@messie12/b5HS41z/11419
+#EXTINF:-1,US : Starz Kids & Family
+http://faucontv.live:8080/@messie12/b5HS41z/11354
+#EXTINF:-1,US : Starz West
+http://faucontv.live:8080/@messie12/b5HS41z/11335
+#EXTINF:-1,US : STARZENCORE ACTION
+http://faucontv.live:8080/@messie12/b5HS41z/11418
+#EXTINF:-1,US : STARZENCORE CLASSIC
+http://faucontv.live:8080/@messie12/b5HS41z/11417
+#EXTINF:-1,US : STARZENCORE FAMILY
+http://faucontv.live:8080/@messie12/b5HS41z/11416
+#EXTINF:-1,US : STARZENCORE SUSPENSE
+http://faucontv.live:8080/@messie12/b5HS41z/11415
+#EXTINF:-1,US : TCM
+http://faucontv.live:8080/@messie12/b5HS41z/11315
+#EXTINF:-1,US : TNT HD
+http://faucontv.live:8080/@messie12/b5HS41z/11336
+#EXTINF:-1,US : Travel
+http://faucontv.live:8080/@messie12/b5HS41z/10991
+#EXTINF:-1,US : TRAVEL CHANNEL
+http://faucontv.live:8080/@messie12/b5HS41z/11337
+#EXTINF:-1,US : TRU TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/10990
+#EXTINF:-1,US : Universal Kids
+http://faucontv.live:8080/@messie12/b5HS41z/11360
+#EXTINF:-1,US : VH1 Classic
+http://faucontv.live:8080/@messie12/b5HS41z/11339
+#EXTINF:-1,US : VH1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/11340
+#EXTINF:-1,USA  American Heros
+http://faucontv.live:8080/@messie12/b5HS41z/11561
+#EXTINF:-1,USA - ABC Chicago
+http://faucontv.live:8080/@messie12/b5HS41z/11710
+#EXTINF:-1,USA - Bet
+http://faucontv.live:8080/@messie12/b5HS41z/11656
+#EXTINF:-1,USA - Bet Her
+http://faucontv.live:8080/@messie12/b5HS41z/11657
+#EXTINF:-1,USA - Bet Jams
+http://faucontv.live:8080/@messie12/b5HS41z/11658
+#EXTINF:-1,USA - Entertainment
+http://faucontv.live:8080/@messie12/b5HS41z/11815
+#EXTINF:-1,USA - NBC HD
+http://faucontv.live:8080/@messie12/b5HS41z/11664
+#EXTINF:-1,USA - NBC Philadelphia
+http://faucontv.live:8080/@messie12/b5HS41z/11798
+#EXTINF:-1,USA :  ABC Seattle
+http://faucontv.live:8080/@messie12/b5HS41z/11255
+#EXTINF:-1,USA :  CBS Los Angeles
+http://faucontv.live:8080/@messie12/b5HS41z/11731
+#EXTINF:-1,USA :  CBS New Orleans
+http://faucontv.live:8080/@messie12/b5HS41z/11736
+#EXTINF:-1,USA :  FOX Atlanta
+http://faucontv.live:8080/@messie12/b5HS41z/11748
+#EXTINF:-1,USA :  FOX Baltimore
+http://faucontv.live:8080/@messie12/b5HS41z/11750
+#EXTINF:-1,USA :  FOX Columbus
+http://faucontv.live:8080/@messie12/b5HS41z/11757
+#EXTINF:-1,USA : 24/7: Arrested Developmentâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32423
+#EXTINF:-1,USA : 24/7: Asterixâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32425
+#EXTINF:-1,USA : 24/7: Benidormâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32429
+#EXTINF:-1,USA : 24/7: Billy Connolly Stand upâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32430
+#EXTINF:-1,USA : 24/7: Chris Rock stand upâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32435
+#EXTINF:-1,USA : 24/7: Clint Eastwoodâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32436
+#EXTINF:-1,USA : 24/7: Curb Your Enthusiasmâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32438
+#EXTINF:-1,USA : 24/7: Dads Armyâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32439
+#EXTINF:-1,USA : 24/7: David Attenboroughâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32441
+#EXTINF:-1,USA : 24/7: Death In Paradiseâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32442
+#EXTINF:-1,USA : 24/7: Dexterâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32443
+#EXTINF:-1,USA : 24/7: Disney Movies 2â§
+http://faucontv.live:8080/@messie12/b5HS41z/32447
+#EXTINF:-1,USA : 24/7: Dr Seussâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32448
+#EXTINF:-1,USA : 24/7: Dr Whoâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32449
+#EXTINF:-1,USA : 24/7: Ever Decreasing Circlesâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32452
+#EXTINF:-1,USA : 24/7: Game of Thrones
+http://faucontv.live:8080/@messie12/b5HS41z/32604
+#EXTINF:-1,USA : 24/7: Paw Patrolâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32516
+#EXTINF:-1,USA : 24/7: Peppa Pig
+http://faucontv.live:8080/@messie12/b5HS41z/32609
+#EXTINF:-1,USA : 24/7: Spongebob Square Pantsâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32550
+#EXTINF:-1,USA : 24/7: The Inbetweenersâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32561
+#EXTINF:-1,USA : 24/7: The Simpsonsâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32571
+#EXTINF:-1,USA : 24/7: The Sopranosâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32572
+#EXTINF:-1,USA : 24/7: The Vampire Diariesâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32575
+#EXTINF:-1,USA : 24/7: Transformersâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32582
+#EXTINF:-1,USA : 24/7: Vampirina
+http://faucontv.live:8080/@messie12/b5HS41z/32593
+#EXTINF:-1,USA : 24/7: Yes Minister/Prime Ministerâ§
+http://faucontv.live:8080/@messie12/b5HS41z/32592
+#EXTINF:-1,USA : A&E HD
+http://faucontv.live:8080/@messie12/b5HS41z/11596
+#EXTINF:-1,USA : ABC 10 KGTV SAN DIEGO
+http://faucontv.live:8080/@messie12/b5HS41z/11258
+#EXTINF:-1,USA : ABC Boston
+http://faucontv.live:8080/@messie12/b5HS41z/11251
+#EXTINF:-1,USA : ABC Cleveland
+http://faucontv.live:8080/@messie12/b5HS41z/11308
+#EXTINF:-1,USA : ABC Dallas
+http://faucontv.live:8080/@messie12/b5HS41z/11254
+#EXTINF:-1,USA : ABC Denver
+http://faucontv.live:8080/@messie12/b5HS41z/11257
+#EXTINF:-1,USA : ABC Detroit
+http://faucontv.live:8080/@messie12/b5HS41z/11252
+#EXTINF:-1,USA : ABC Fresno
+http://faucontv.live:8080/@messie12/b5HS41z/11247
+#EXTINF:-1,USA : ABC houston
+http://faucontv.live:8080/@messie12/b5HS41z/11246
+#EXTINF:-1,USA : ABC Indianapolis
+http://faucontv.live:8080/@messie12/b5HS41z/11263
+#EXTINF:-1,USA : ABC Kansas City
+http://faucontv.live:8080/@messie12/b5HS41z/11271
+#EXTINF:-1,USA : ABC Miami
+http://faucontv.live:8080/@messie12/b5HS41z/11261
+#EXTINF:-1,USA : ABC Milwaukee
+http://faucontv.live:8080/@messie12/b5HS41z/11272
+#EXTINF:-1,USA : ABC New York
+http://faucontv.live:8080/@messie12/b5HS41z/11709
+#EXTINF:-1,USA : ABC Orlando
+http://faucontv.live:8080/@messie12/b5HS41z/11260
+#EXTINF:-1,USA : ABC Pittsburg
+http://faucontv.live:8080/@messie12/b5HS41z/11253
+#EXTINF:-1,USA : ABC Portland
+http://faucontv.live:8080/@messie12/b5HS41z/11256
+#EXTINF:-1,USA : ABC Saint Paul
+http://faucontv.live:8080/@messie12/b5HS41z/11267
+#EXTINF:-1,USA : ABC San Antonio
+http://faucontv.live:8080/@messie12/b5HS41z/11270
+#EXTINF:-1,USA : ABC San Antonio
+http://faucontv.live:8080/@messie12/b5HS41z/11307
+#EXTINF:-1,USA : ACC NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/11676
+#EXTINF:-1,USA : Adult Swim
+http://faucontv.live:8080/@messie12/b5HS41z/11598
+#EXTINF:-1,USA : AHC
+http://faucontv.live:8080/@messie12/b5HS41z/11643
+#EXTINF:-1,USA : AMC
+http://faucontv.live:8080/@messie12/b5HS41z/11594
+#EXTINF:-1,USA : AMC HD
+http://faucontv.live:8080/@messie12/b5HS41z/11480
+#EXTINF:-1,USA : ANIMAL PLANET
+http://faucontv.live:8080/@messie12/b5HS41z/11593
+#EXTINF:-1,USA : ASPIRE TV | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11295
+#EXTINF:-1,USA : Augusta | FOX WFXG
+http://faucontv.live:8080/@messie12/b5HS41z/11035
+#EXTINF:-1,USA : AWE
+http://faucontv.live:8080/@messie12/b5HS41z/11671
+#EXTINF:-1,USA : AXS TV
+http://faucontv.live:8080/@messie12/b5HS41z/11693
+#EXTINF:-1,USA : BBC America
+http://faucontv.live:8080/@messie12/b5HS41z/11592
+#EXTINF:-1,USA : BBC America HD
+http://faucontv.live:8080/@messie12/b5HS41z/11485
+#EXTINF:-1,USA : Bet Soul
+http://faucontv.live:8080/@messie12/b5HS41z/11659
+#EXTINF:-1,USA : Big Ten Network HD
+http://faucontv.live:8080/@messie12/b5HS41z/11558
+#EXTINF:-1,USA : BLOOMBERG TV
+http://faucontv.live:8080/@messie12/b5HS41z/11590
+#EXTINF:-1,USA : Bloomington | FOX WYZZ
+http://faucontv.live:8080/@messie12/b5HS41z/11042
+#EXTINF:-1,USA : Boomerang
+http://faucontv.live:8080/@messie12/b5HS41z/11667
+#EXTINF:-1,USA : Boomerang HD
+http://faucontv.live:8080/@messie12/b5HS41z/11486
+#EXTINF:-1,USA : Bounce Tv
+http://faucontv.live:8080/@messie12/b5HS41z/11654
+#EXTINF:-1,USA : Bravo
+http://faucontv.live:8080/@messie12/b5HS41z/11487
+#EXTINF:-1,USA : Bravo HD
+http://faucontv.live:8080/@messie12/b5HS41z/11589
+#EXTINF:-1,USA : Buzzer
+http://faucontv.live:8080/@messie12/b5HS41z/11689
+#EXTINF:-1,USA : Caldwell | FOX KNIN
+http://faucontv.live:8080/@messie12/b5HS41z/11040
+#EXTINF:-1,USA : Cape Coral | FOX WFTX
+http://faucontv.live:8080/@messie12/b5HS41z/11031
+#EXTINF:-1,USA : Cartoon Network HD
+http://faucontv.live:8080/@messie12/b5HS41z/11495
+#EXTINF:-1,USA : Cartoon Network Pacific
+http://faucontv.live:8080/@messie12/b5HS41z/11494
+#EXTINF:-1,USA : CBS Boston
+http://faucontv.live:8080/@messie12/b5HS41z/11720
+#EXTINF:-1,USA : CBS Charlotte
+http://faucontv.live:8080/@messie12/b5HS41z/11721
+#EXTINF:-1,USA : CBS Chicago
+http://faucontv.live:8080/@messie12/b5HS41z/11722
+#EXTINF:-1,USA : CBS Columbus
+http://faucontv.live:8080/@messie12/b5HS41z/11724
+#EXTINF:-1,USA : CBS Dallas
+http://faucontv.live:8080/@messie12/b5HS41z/11725
+#EXTINF:-1,USA : CBS Denver
+http://faucontv.live:8080/@messie12/b5HS41z/11726
+#EXTINF:-1,USA : CBS Detroit
+http://faucontv.live:8080/@messie12/b5HS41z/11727
+#EXTINF:-1,USA : CBS HD
+http://faucontv.live:8080/@messie12/b5HS41z/11587
+#EXTINF:-1,USA : CBS Houston
+http://faucontv.live:8080/@messie12/b5HS41z/11729
+#EXTINF:-1,USA : CBS Kansas City
+http://faucontv.live:8080/@messie12/b5HS41z/11730
+#EXTINF:-1,USA : CBS Miami
+http://faucontv.live:8080/@messie12/b5HS41z/11732
+#EXTINF:-1,USA : CBS Milwaukee
+http://faucontv.live:8080/@messie12/b5HS41z/11734
+#EXTINF:-1,USA : CBS Minneapolis
+http://faucontv.live:8080/@messie12/b5HS41z/11733
+#EXTINF:-1,USA : CBS Nashville
+http://faucontv.live:8080/@messie12/b5HS41z/11735
+#EXTINF:-1,USA : CBS New York
+http://faucontv.live:8080/@messie12/b5HS41z/11814
+#EXTINF:-1,USA : CBS News
+http://faucontv.live:8080/@messie12/b5HS41z/11586
+#EXTINF:-1,USA : CBS Orlando
+http://faucontv.live:8080/@messie12/b5HS41z/11737
+#EXTINF:-1,USA : CBS Philadelphia
+http://faucontv.live:8080/@messie12/b5HS41z/11738
+#EXTINF:-1,USA : CBS Phoenix
+http://faucontv.live:8080/@messie12/b5HS41z/11739
+#EXTINF:-1,USA : CBS San Antonio
+http://faucontv.live:8080/@messie12/b5HS41z/11741
+#EXTINF:-1,USA : CBS San Diego
+http://faucontv.live:8080/@messie12/b5HS41z/11742
+#EXTINF:-1,USA : CBS San Francisco
+http://faucontv.live:8080/@messie12/b5HS41z/11743
+#EXTINF:-1,USA : CBS Seattle
+http://faucontv.live:8080/@messie12/b5HS41z/11744
+#EXTINF:-1,USA : CBS St Louis
+http://faucontv.live:8080/@messie12/b5HS41z/11745
+#EXTINF:-1,USA : CBS Washington
+http://faucontv.live:8080/@messie12/b5HS41z/11747
+#EXTINF:-1,USA : Cheddar
+http://faucontv.live:8080/@messie12/b5HS41z/11545
+#EXTINF:-1,USA : Chicago | FOX WFLD
+http://faucontv.live:8080/@messie12/b5HS41z/11043
+#EXTINF:-1,USA : Cinemax ActionMax
+http://faucontv.live:8080/@messie12/b5HS41z/11583
+#EXTINF:-1,USA : Cinemax West
+http://faucontv.live:8080/@messie12/b5HS41z/11572
+#EXTINF:-1,USA : City | FOX Net USAnama
+http://faucontv.live:8080/@messie12/b5HS41z/11032
+#EXTINF:-1,USA : CNBC World
+http://faucontv.live:8080/@messie12/b5HS41z/11491
+#EXTINF:-1,USA : CNN
+http://faucontv.live:8080/@messie12/b5HS41z/11492
+#EXTINF:-1,USA : CNN HD
+http://faucontv.live:8080/@messie12/b5HS41z/11563
+#EXTINF:-1,USA : Colorado Springs | FOX KXRM
+http://faucontv.live:8080/@messie12/b5HS41z/11029
+#EXTINF:-1,USA : Columbus | FOX WXTX
+http://faucontv.live:8080/@messie12/b5HS41z/11036
+#EXTINF:-1,USA : COMEDY CENTRAL
+http://faucontv.live:8080/@messie12/b5HS41z/11582
+#EXTINF:-1,USA : Comet
+http://faucontv.live:8080/@messie12/b5HS41z/11544
+#EXTINF:-1,USA : Cooking Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11681
+#EXTINF:-1,USA : Cozi TV
+http://faucontv.live:8080/@messie12/b5HS41z/11493
+#EXTINF:-1,USA : Crime & Investigation HD
+http://faucontv.live:8080/@messie12/b5HS41z/11581
+#EXTINF:-1,USA : CW HD
+http://faucontv.live:8080/@messie12/b5HS41z/11568
+#EXTINF:-1,USA : DESTINATION AMERICA HD
+http://faucontv.live:8080/@messie12/b5HS41z/11502
+#EXTINF:-1,USA : Discovery Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11575
+#EXTINF:-1,USA : DISCOVERY CHANNEL HD
+http://faucontv.live:8080/@messie12/b5HS41z/11629
+#EXTINF:-1,USA : Discovery Family
+http://faucontv.live:8080/@messie12/b5HS41z/11574
+#EXTINF:-1,USA : Discovery Life
+http://faucontv.live:8080/@messie12/b5HS41z/11576
+#EXTINF:-1,USA : Discovery Science HD
+http://faucontv.live:8080/@messie12/b5HS41z/11668
+#EXTINF:-1,USA : Discovery Velocity
+http://faucontv.live:8080/@messie12/b5HS41z/11501
+#EXTINF:-1,USA : DISCOVERY VELOCITY HD
+http://faucontv.live:8080/@messie12/b5HS41z/11630
+#EXTINF:-1,USA : Disney Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11477
+#EXTINF:-1,USA : DISNEY JR HD
+http://faucontv.live:8080/@messie12/b5HS41z/11631
+#EXTINF:-1,USA : Disney XD
+http://faucontv.live:8080/@messie12/b5HS41z/11496
+#EXTINF:-1,USA : Diy
+http://faucontv.live:8080/@messie12/b5HS41z/11510
+#EXTINF:-1,USA : Dothan | FOX Net
+http://faucontv.live:8080/@messie12/b5HS41z/11016
+#EXTINF:-1,USA : E !
+http://faucontv.live:8080/@messie12/b5HS41z/11520
+#EXTINF:-1,USA : ESPN
+http://faucontv.live:8080/@messie12/b5HS41z/11564
+#EXTINF:-1,USA : ESPN 2
+http://faucontv.live:8080/@messie12/b5HS41z/11500
+#EXTINF:-1,USA : ESPN 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/11565
+#EXTINF:-1,USA : ESPN NEWS
+http://faucontv.live:8080/@messie12/b5HS41z/11566
+#EXTINF:-1,USA : ESPN U
+http://faucontv.live:8080/@messie12/b5HS41z/11499
+#EXTINF:-1,USA : Fishing Network
+http://faucontv.live:8080/@messie12/b5HS41z/11584
+#EXTINF:-1,USA : FOOD NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/11632
+#EXTINF:-1,USA : FOOD NETWORK HD
+http://faucontv.live:8080/@messie12/b5HS41z/11498
+#EXTINF:-1,USA : Fort Wayne | FOX WFFT
+http://faucontv.live:8080/@messie12/b5HS41z/11044
+#EXTINF:-1,USA : FOX Austin
+http://faucontv.live:8080/@messie12/b5HS41z/11749
+#EXTINF:-1,USA : FOX Boston
+http://faucontv.live:8080/@messie12/b5HS41z/11752
+#EXTINF:-1,USA : FOX Buffalo
+http://faucontv.live:8080/@messie12/b5HS41z/11753
+#EXTINF:-1,USA : FOX BUSINESS NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/11497
+#EXTINF:-1,USA : FOX Chicago
+http://faucontv.live:8080/@messie12/b5HS41z/11754
+#EXTINF:-1,USA : FOX Dallas
+http://faucontv.live:8080/@messie12/b5HS41z/11756
+#EXTINF:-1,USA : FOX Denver
+http://faucontv.live:8080/@messie12/b5HS41z/11758
+#EXTINF:-1,USA : FOX Detroit
+http://faucontv.live:8080/@messie12/b5HS41z/11759
+#EXTINF:-1,USA : FOX Houston
+http://faucontv.live:8080/@messie12/b5HS41z/11760
+#EXTINF:-1,USA : FOX Jacksonville
+http://faucontv.live:8080/@messie12/b5HS41z/11761
+#EXTINF:-1,USA : FOX Kansas City
+http://faucontv.live:8080/@messie12/b5HS41z/11762
+#EXTINF:-1,USA : Fox Life HD
+http://faucontv.live:8080/@messie12/b5HS41z/11557
+#EXTINF:-1,USA : FOX Miami
+http://faucontv.live:8080/@messie12/b5HS41z/11763
+#EXTINF:-1,USA : FOX Minneapolis
+http://faucontv.live:8080/@messie12/b5HS41z/11764
+#EXTINF:-1,USA : FOX New Orleans
+http://faucontv.live:8080/@messie12/b5HS41z/11765
+#EXTINF:-1,USA : Fox News
+http://faucontv.live:8080/@messie12/b5HS41z/11816
+#EXTINF:-1,USA : Fox News Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11509
+#EXTINF:-1,USA : FOX Orlando
+http://faucontv.live:8080/@messie12/b5HS41z/11766
+#EXTINF:-1,USA : FOX Sacramento
+http://faucontv.live:8080/@messie12/b5HS41z/11767
+#EXTINF:-1,USA : FOX San Antonio
+http://faucontv.live:8080/@messie12/b5HS41z/11768
+#EXTINF:-1,USA : FOX San Diego
+http://faucontv.live:8080/@messie12/b5HS41z/11769
+#EXTINF:-1,USA : FOX San Francisco
+http://faucontv.live:8080/@messie12/b5HS41z/11770
+#EXTINF:-1,USA : FOX Seattle
+http://faucontv.live:8080/@messie12/b5HS41z/11771
+#EXTINF:-1,USA : Fox Soccer Plus
+http://faucontv.live:8080/@messie12/b5HS41z/11531
+#EXTINF:-1,USA : FOX Sport 2
+http://faucontv.live:8080/@messie12/b5HS41z/11678
+#EXTINF:-1,USA : Fox Sports Arizona
+http://faucontv.live:8080/@messie12/b5HS41z/11529
+#EXTINF:-1,USA : FOX SPORTS ARIZONA | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11284
+#EXTINF:-1,USA : Fox Sports Detroit
+http://faucontv.live:8080/@messie12/b5HS41z/11528
+#EXTINF:-1,USA : FOX SPORTS Detroit
+http://faucontv.live:8080/@messie12/b5HS41z/11633
+#EXTINF:-1,USA : FOX Sports Florida
+http://faucontv.live:8080/@messie12/b5HS41z/11552
+#EXTINF:-1,USA : FOX SPORTS FLORIDA | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11286
+#EXTINF:-1,USA : FOX SPORTS HOUSTON | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11287
+#EXTINF:-1,USA : FOX Sports North
+http://faucontv.live:8080/@messie12/b5HS41z/11527
+#EXTINF:-1,USA : FOX SPORTS NORTH CAROLINA | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11285
+#EXTINF:-1,USA : FOX Sports Ohio
+http://faucontv.live:8080/@messie12/b5HS41z/11526
+#EXTINF:-1,USA : FOX Sports Oklahoma
+http://faucontv.live:8080/@messie12/b5HS41z/11547
+#EXTINF:-1,USA : FOX SPORTS OKLAHOMA | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11294
+#EXTINF:-1,USA : FOX SPORTS ONE
+http://faucontv.live:8080/@messie12/b5HS41z/11569
+#EXTINF:-1,USA : FOX Sports Prime Ticket
+http://faucontv.live:8080/@messie12/b5HS41z/11555
+#EXTINF:-1,USA : FOX SPORTS PRIME TICKET | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11288
+#EXTINF:-1,USA : FOX Sports San Diego
+http://faucontv.live:8080/@messie12/b5HS41z/11525
+#EXTINF:-1,USA : FOX SPORTS SAN DIEGO | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11291
+#EXTINF:-1,USA : Fox Sports South
+http://faucontv.live:8080/@messie12/b5HS41z/11282
+#EXTINF:-1,USA : FOX Sports South
+http://faucontv.live:8080/@messie12/b5HS41z/11524
+#EXTINF:-1,USA : FOX SPORTS SOUTHWEST PLUS | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11289
+#EXTINF:-1,USA : FOX SPORTS SPORTSTIME OHIO | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11290
+#EXTINF:-1,USA : FOX Sports Sun
+http://faucontv.live:8080/@messie12/b5HS41z/11523
+#EXTINF:-1,USA : FOX SPORTS SUN | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11292
+#EXTINF:-1,USA : FOX Sports Tennessee
+http://faucontv.live:8080/@messie12/b5HS41z/11550
+#EXTINF:-1,USA : FOX SPORTS TWO HD
+http://faucontv.live:8080/@messie12/b5HS41z/11570
+#EXTINF:-1,USA : FOX Sports West
+http://faucontv.live:8080/@messie12/b5HS41z/11522
+#EXTINF:-1,USA : FOX SPORTS WEST | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11293
+#EXTINF:-1,USA : FOX St Louis
+http://faucontv.live:8080/@messie12/b5HS41z/11772
+#EXTINF:-1,USA : FOX Tampa
+http://faucontv.live:8080/@messie12/b5HS41z/11773
+#EXTINF:-1,USA : FOX Washington
+http://faucontv.live:8080/@messie12/b5HS41z/11774
+#EXTINF:-1,USA : FREE SPEECH TV | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11296
+#EXTINF:-1,USA : Freeform
+http://faucontv.live:8080/@messie12/b5HS41z/11484
+#EXTINF:-1,USA : FreeForm
+http://faucontv.live:8080/@messie12/b5HS41z/11690
+#EXTINF:-1,USA : Freeform HD
+http://faucontv.live:8080/@messie12/b5HS41z/11517
+#EXTINF:-1,USA : FS 1
+http://faucontv.live:8080/@messie12/b5HS41z/11476
+#EXTINF:-1,USA : Fuse
+http://faucontv.live:8080/@messie12/b5HS41z/11669
+#EXTINF:-1,USA : Fusion
+http://faucontv.live:8080/@messie12/b5HS41z/11508
+#EXTINF:-1,USA : FX HD
+http://faucontv.live:8080/@messie12/b5HS41z/11507
+#EXTINF:-1,USA : FXM
+http://faucontv.live:8080/@messie12/b5HS41z/11688
+#EXTINF:-1,USA : FXM HD
+http://faucontv.live:8080/@messie12/b5HS41z/11506
+#EXTINF:-1,USA : FXX
+http://faucontv.live:8080/@messie12/b5HS41z/11687
+#EXTINF:-1,USA : FYI
+http://faucontv.live:8080/@messie12/b5HS41z/11682
+#EXTINF:-1,USA : GRIT TV
+http://faucontv.live:8080/@messie12/b5HS41z/11675
+#EXTINF:-1,USA : GSN TV
+http://faucontv.live:8080/@messie12/b5HS41z/11571
+#EXTINF:-1,USA : Hallmark Drama
+http://faucontv.live:8080/@messie12/b5HS41z/11580
+#EXTINF:-1,USA : Hartford | FOX WTIC
+http://faucontv.live:8080/@messie12/b5HS41z/11030
+#EXTINF:-1,USA : HBO
+http://faucontv.live:8080/@messie12/b5HS41z/11573
+#EXTINF:-1,USA : HBO COMEDY HD
+http://faucontv.live:8080/@messie12/b5HS41z/11602
+#EXTINF:-1,USA : HBO Family HD
+http://faucontv.live:8080/@messie12/b5HS41z/11603
+#EXTINF:-1,USA : HBO HD
+http://faucontv.live:8080/@messie12/b5HS41z/11601
+#EXTINF:-1,USA : HBO Pacific
+http://faucontv.live:8080/@messie12/b5HS41z/11478
+#EXTINF:-1,USA : HBO SIGNATURE
+http://faucontv.live:8080/@messie12/b5HS41z/11600
+#EXTINF:-1,USA : HBO ZONE
+http://faucontv.live:8080/@messie12/b5HS41z/11634
+#EXTINF:-1,USA : HGTV
+http://faucontv.live:8080/@messie12/b5HS41z/11556
+#EXTINF:-1,USA : HGTV East
+http://faucontv.live:8080/@messie12/b5HS41z/11298
+#EXTINF:-1,USA : HGTV HD
+http://faucontv.live:8080/@messie12/b5HS41z/11636
+#EXTINF:-1,USA : HISTORY HD
+http://faucontv.live:8080/@messie12/b5HS41z/11599
+#EXTINF:-1,USA : HLN
+http://faucontv.live:8080/@messie12/b5HS41z/11683
+#EXTINF:-1,USA : HLN HD
+http://faucontv.live:8080/@messie12/b5HS41z/11533
+#EXTINF:-1,USA : Honolulu | FOX KHON
+http://faucontv.live:8080/@messie12/b5HS41z/11037
+#EXTINF:-1,USA : HSN
+http://faucontv.live:8080/@messie12/b5HS41z/11684
+#EXTINF:-1,USA : Huntsville | FOX WZDX
+http://faucontv.live:8080/@messie12/b5HS41z/11017
+#EXTINF:-1,USA : IFC
+http://faucontv.live:8080/@messie12/b5HS41z/11543
+#EXTINF:-1,USA : INSP TV
+http://faucontv.live:8080/@messie12/b5HS41z/11672
+#EXTINF:-1,USA : Investigation Discovery HD
+http://faucontv.live:8080/@messie12/b5HS41z/11577
+#EXTINF:-1,USA : ION TV
+http://faucontv.live:8080/@messie12/b5HS41z/11655
+#EXTINF:-1,USA : Law And Crime
+http://faucontv.live:8080/@messie12/b5HS41z/11542
+#EXTINF:-1,USA : LIFE TIME
+http://faucontv.live:8080/@messie12/b5HS41z/11637
+#EXTINF:-1,USA : Lifetime
+http://faucontv.live:8080/@messie12/b5HS41z/11377
+#EXTINF:-1,USA : Little Rock | FOX KLRT
+http://faucontv.live:8080/@messie12/b5HS41z/11019
+#EXTINF:-1,USA : Los Angeles | FOX KTTV
+http://faucontv.live:8080/@messie12/b5HS41z/11022
+#EXTINF:-1,USA : MGM
+http://faucontv.live:8080/@messie12/b5HS41z/11006
+#EXTINF:-1,USA : Mobile | FOX WALA
+http://faucontv.live:8080/@messie12/b5HS41z/11018
+#EXTINF:-1,USA : MSG
+http://faucontv.live:8080/@messie12/b5HS41z/11660
+#EXTINF:-1,USA : MSNBC
+http://faucontv.live:8080/@messie12/b5HS41z/11532
+#EXTINF:-1,USA : MSNBC HD
+http://faucontv.live:8080/@messie12/b5HS41z/11604
+#EXTINF:-1,USA : MTV HD
+http://faucontv.live:8080/@messie12/b5HS41z/11638
+#EXTINF:-1,USA : MTV LIVE HD
+http://faucontv.live:8080/@messie12/b5HS41z/11639
+#EXTINF:-1,USA : NASA TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/11640
+#EXTINF:-1,USA : Nat Geo
+http://faucontv.live:8080/@messie12/b5HS41z/11512
+#EXTINF:-1,USA : Nat Geo Wild
+http://faucontv.live:8080/@messie12/b5HS41z/11519
+#EXTINF:-1,USA : NBC Atlanta
+http://faucontv.live:8080/@messie12/b5HS41z/11775
+#EXTINF:-1,USA : NBC Baltimore
+http://faucontv.live:8080/@messie12/b5HS41z/11776
+#EXTINF:-1,USA : NBC Buffalo
+http://faucontv.live:8080/@messie12/b5HS41z/11777
+#EXTINF:-1,USA : NBC Charlotte
+http://faucontv.live:8080/@messie12/b5HS41z/11778
+#EXTINF:-1,USA : NBC Chicago
+http://faucontv.live:8080/@messie12/b5HS41z/11779
+#EXTINF:-1,USA : NBC Cincinnati
+http://faucontv.live:8080/@messie12/b5HS41z/11780
+#EXTINF:-1,USA : NBC Cleveland
+http://faucontv.live:8080/@messie12/b5HS41z/11781
+#EXTINF:-1,USA : NBC Dallas
+http://faucontv.live:8080/@messie12/b5HS41z/11782
+#EXTINF:-1,USA : NBC Denver
+http://faucontv.live:8080/@messie12/b5HS41z/11783
+#EXTINF:-1,USA : NBC Detroit
+http://faucontv.live:8080/@messie12/b5HS41z/11784
+#EXTINF:-1,USA : NBC GOLF
+http://faucontv.live:8080/@messie12/b5HS41z/11663
+#EXTINF:-1,USA : NBC Green Bay
+http://faucontv.live:8080/@messie12/b5HS41z/11785
+#EXTINF:-1,USA : NBC Hartford
+http://faucontv.live:8080/@messie12/b5HS41z/11786
+#EXTINF:-1,USA : NBC Houston
+http://faucontv.live:8080/@messie12/b5HS41z/11787
+#EXTINF:-1,USA : NBC Indianapolis
+http://faucontv.live:8080/@messie12/b5HS41z/11788
+#EXTINF:-1,USA : NBC Jacksonville
+http://faucontv.live:8080/@messie12/b5HS41z/11789
+#EXTINF:-1,USA : NBC Los Angeles
+http://faucontv.live:8080/@messie12/b5HS41z/11790
+#EXTINF:-1,USA : NBC Miami
+http://faucontv.live:8080/@messie12/b5HS41z/11791
+#EXTINF:-1,USA : NBC New York
+http://faucontv.live:8080/@messie12/b5HS41z/11796
+#EXTINF:-1,USA : NBC Orlando
+http://faucontv.live:8080/@messie12/b5HS41z/11797
+#EXTINF:-1,USA : NBC Phoenix
+http://faucontv.live:8080/@messie12/b5HS41z/11799
+#EXTINF:-1,USA : NBC Sacramento
+http://faucontv.live:8080/@messie12/b5HS41z/11801
+#EXTINF:-1,USA : NBC San Diego
+http://faucontv.live:8080/@messie12/b5HS41z/11705
+#EXTINF:-1,USA : NBC San Francisco
+http://faucontv.live:8080/@messie12/b5HS41z/11706
+#EXTINF:-1,USA : NBC St Louis
+http://faucontv.live:8080/@messie12/b5HS41z/11707
+#EXTINF:-1,USA : NBC Washington
+http://faucontv.live:8080/@messie12/b5HS41z/11708
+#EXTINF:-1,USA : NESN
+http://faucontv.live:8080/@messie12/b5HS41z/11005
+#EXTINF:-1,USA : NESN Plus
+http://faucontv.live:8080/@messie12/b5HS41z/11535
+#EXTINF:-1,USA : NFL Network HD
+http://faucontv.live:8080/@messie12/b5HS41z/11539
+#EXTINF:-1,USA : NFL Network HD
+http://faucontv.live:8080/@messie12/b5HS41z/11644
+#EXTINF:-1,USA : NHL NETWORK
+http://faucontv.live:8080/@messie12/b5HS41z/11606
+#EXTINF:-1,USA : NICKELODEON
+http://faucontv.live:8080/@messie12/b5HS41z/11607
+#EXTINF:-1,USA : Nickelodeon
+http://faucontv.live:8080/@messie12/b5HS41z/11811
+#EXTINF:-1,USA : Oakland | FOX KTVU
+http://faucontv.live:8080/@messie12/b5HS41z/11023
+#EXTINF:-1,USA : Orlando | FOX WOFL
+http://faucontv.live:8080/@messie12/b5HS41z/11033
+#EXTINF:-1,USA : OUTDOOR CHANNEL
+http://faucontv.live:8080/@messie12/b5HS41z/11661
+#EXTINF:-1,USA : Outside TV
+http://faucontv.live:8080/@messie12/b5HS41z/11546
+#EXTINF:-1,USA : OWN HD
+http://faucontv.live:8080/@messie12/b5HS41z/11609
+#EXTINF:-1,USA : Oxygen
+http://faucontv.live:8080/@messie12/b5HS41z/11685
+#EXTINF:-1,USA : PBS Kids
+http://faucontv.live:8080/@messie12/b5HS41z/11610
+#EXTINF:-1,USA : PEOPLE TV | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11299
+#EXTINF:-1,USA : Phoenix | FOX KSAZ
+http://faucontv.live:8080/@messie12/b5HS41z/11020
+#EXTINF:-1,USA : POP | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11301
+#EXTINF:-1,USA : PURSUIT CHANNEL
+http://faucontv.live:8080/@messie12/b5HS41z/11662
+#EXTINF:-1,USA : QVC
+http://faucontv.live:8080/@messie12/b5HS41z/11686
+#EXTINF:-1,USA : REELZ | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11302
+#EXTINF:-1,USA : REVOLT | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11303
+#EXTINF:-1,USA : RFD-TV | HD
+http://faucontv.live:8080/@messie12/b5HS41z/11304
+#EXTINF:-1,USA : Sacramento | FOX KTXL
+http://faucontv.live:8080/@messie12/b5HS41z/11024
+#EXTINF:-1,USA : Salinas | FOX KCBA
+http://faucontv.live:8080/@messie12/b5HS41z/11025
+#EXTINF:-1,USA : San Diego | FOX KSWB
+http://faucontv.live:8080/@messie12/b5HS41z/11026
+#EXTINF:-1,USA : San Luis Obispo | FOX KKFX
+http://faucontv.live:8080/@messie12/b5HS41z/11028
+#EXTINF:-1,USA : Showtime Extreme HD
+http://faucontv.live:8080/@messie12/b5HS41z/11612
+#EXTINF:-1,USA : Showtime HD
+http://faucontv.live:8080/@messie12/b5HS41z/11613
+#EXTINF:-1,USA : Showtime Pacific HD
+http://faucontv.live:8080/@messie12/b5HS41z/11611
+#EXTINF:-1,USA : Showtime Showcase
+http://faucontv.live:8080/@messie12/b5HS41z/11614
+#EXTINF:-1,USA : Sioux Falls | FOX KTTW
+http://faucontv.live:8080/@messie12/b5HS41z/11039
+#EXTINF:-1,USA : Smithsonian Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11541
+#EXTINF:-1,USA : SPIKE TV
+http://faucontv.live:8080/@messie12/b5HS41z/11615
+#EXTINF:-1,USA : SPORTSNET 360
+http://faucontv.live:8080/@messie12/b5HS41z/11647
+#EXTINF:-1,USA : SPORTSNET EAST
+http://faucontv.live:8080/@messie12/b5HS41z/11648
+#EXTINF:-1,USA : SPORTSNET ONE
+http://faucontv.live:8080/@messie12/b5HS41z/11649
+#EXTINF:-1,USA : SPORTSNET ONTARIO
+http://faucontv.live:8080/@messie12/b5HS41z/11650
+#EXTINF:-1,USA : SPORTSNET WEST
+http://faucontv.live:8080/@messie12/b5HS41z/11665
+#EXTINF:-1,USA : Starz Cinema
+http://faucontv.live:8080/@messie12/b5HS41z/11616
+#EXTINF:-1,USA : Starz East
+http://faucontv.live:8080/@messie12/b5HS41z/11617
+#EXTINF:-1,USA : Starz Edge HD
+http://faucontv.live:8080/@messie12/b5HS41z/11618
+#EXTINF:-1,USA : Starz Encore HD
+http://faucontv.live:8080/@messie12/b5HS41z/11619
+#EXTINF:-1,USA : Sundance
+http://faucontv.live:8080/@messie12/b5HS41z/11483
+#EXTINF:-1,USA : Sundance
+http://faucontv.live:8080/@messie12/b5HS41z/11674
+#EXTINF:-1,USA : Syfy
+http://faucontv.live:8080/@messie12/b5HS41z/11537
+#EXTINF:-1,USA : SYFY HD
+http://faucontv.live:8080/@messie12/b5HS41z/11620
+#EXTINF:-1,USA : TBS
+http://faucontv.live:8080/@messie12/b5HS41z/11538
+#EXTINF:-1,USA : TBS HD
+http://faucontv.live:8080/@messie12/b5HS41z/11645
+#EXTINF:-1,USA : Teen Nick HD
+http://faucontv.live:8080/@messie12/b5HS41z/11624
+#EXTINF:-1,USA : Telemundo Dallas
+http://faucontv.live:8080/@messie12/b5HS41z/11275
+#EXTINF:-1,USA : Telemundo Miami
+http://faucontv.live:8080/@messie12/b5HS41z/11279
+#EXTINF:-1,USA : Telemundo Phoenix
+http://faucontv.live:8080/@messie12/b5HS41z/11280
+#EXTINF:-1,USA : The Weather Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11622
+#EXTINF:-1,USA : TLC
+http://faucontv.live:8080/@messie12/b5HS41z/11623
+#EXTINF:-1,USA : TRU TV
+http://faucontv.live:8080/@messie12/b5HS41z/11625
+#EXTINF:-1,USA : Tucson | FOX KMSB
+http://faucontv.live:8080/@messie12/b5HS41z/11021
+#EXTINF:-1,USA : TV LAND
+http://faucontv.live:8080/@messie12/b5HS41z/11635
+#EXTINF:-1,USA : TV ONE
+http://faucontv.live:8080/@messie12/b5HS41z/11677
+#EXTINF:-1,USA : Twin Falls | FOX Net
+http://faucontv.live:8080/@messie12/b5HS41z/11041
+#EXTINF:-1,USA : UFC Fight Pass
+http://faucontv.live:8080/@messie12/b5HS41z/11696
+#EXTINF:-1,USA : Univision
+http://faucontv.live:8080/@messie12/b5HS41z/11653
+#EXTINF:-1,USA : USA Network
+http://faucontv.live:8080/@messie12/b5HS41z/11626
+#EXTINF:-1,USA : VH1
+http://faucontv.live:8080/@messie12/b5HS41z/11646
+#EXTINF:-1,USA : WE TV
+http://faucontv.live:8080/@messie12/b5HS41z/11673
+#EXTINF:-1,USA : We TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/11481
+#EXTINF:-1,USA : West USAlm Beach | FOX WFLX
+http://faucontv.live:8080/@messie12/b5HS41z/11034
+#EXTINF:-1,USA : WGN 9
+http://faucontv.live:8080/@messie12/b5HS41z/11562
+#EXTINF:-1,USA : WGN America
+http://faucontv.live:8080/@messie12/b5HS41z/11679
+#EXTINF:-1,USA : Willow Cricket
+http://faucontv.live:8080/@messie12/b5HS41z/11694
+#EXTINF:-1,USA : WWE Network
+http://faucontv.live:8080/@messie12/b5HS41z/11627
+#EXTINF:-1,USA : Yes Network 2
+http://faucontv.live:8080/@messie12/b5HS41z/11518
+#EXTINF:-1,USA :Davenport | FOX KLJB
+http://faucontv.live:8080/@messie12/b5HS41z/11038
+#EXTINF:-1,USA: Tennis Channel
+http://faucontv.live:8080/@messie12/b5HS41z/11579
+#EXTINF:-1,USA: TENNIS HD
+http://faucontv.live:8080/@messie12/b5HS41z/11621
 #EXTINF:-1 tvg-logo="http://undergroundservice.xyz:8080/images/qc20ufJ-DVAvV72xqrnwAsbzJgJqNiiXkWf73b1ViOEGP18ZzDQI_gKXM7trtbtl.png" group-title="USA NBC" tvg-id="" tvg-name="", NBC: CLEVELAND WKYC
 http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/32303
 
